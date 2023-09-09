@@ -1,0 +1,499 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-11 17:32+0800\n"
+"PO-Revision-Date: 2019-08-06 23:39+0200\n"
+"Last-Translator: Roman Gorshunov <roman.gorshunov@att.com>\n"
+"Language: ru\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+msgid "aggregate"
+msgstr "агрегат"
+
+msgid "allocate IP"
+msgstr "выделить IP"
+
+msgid "API endpoint"
+msgstr "точка входа API"
+
+msgid "architecture"
+msgstr "архитектура"
+
+msgid "association"
+msgstr "связь"
+
+msgid "associate IP"
+msgstr "связать IP"
+
+msgid "attribute"
+msgstr "атрибут"
+
+msgid "authenticate"
+msgstr "аутентифицировать"
+
+msgid "authorize"
+msgstr "авторизовать"
+
+msgid "availability zone"
+msgstr "зона доступности"
+
+msgid "backend"
+msgstr "бэкенд"
+
+msgid "backup"
+msgstr "резервная копия"
+
+msgid "Bare Metal service"
+msgstr "сервис Bare Metal"
+
+#, fuzzy
+msgid "Block Storage service"
+msgstr "сервис блочных хранилищ"
+
+msgid "body"
+msgstr "тело"
+
+msgid "boot"
+msgstr "загрузка"
+
+msgid "cache"
+msgstr "кэш"
+
+msgid "CIDR"
+msgstr "CIDR"
+
+msgid "client"
+msgstr "клиент"
+
+msgid "cluster"
+msgstr "кластер"
+
+msgid "comma"
+msgstr "запятая"
+
+#, fuzzy
+msgid "compute"
+msgstr "вычислительные ресурсы"
+
+msgid "Compute service"
+msgstr "сервис вычислительных ресурсов"
+
+msgid "config drive"
+msgstr "конфигурационный диск"
+
+msgid "configuration"
+msgstr "конфигурация"
+
+msgid "connection"
+msgstr "подключение"
+
+#, fuzzy
+msgid "consistency group"
+msgstr "группа безопасности"
+
+msgid "container"
+msgstr "контейнер"
+
+msgid "container format"
+msgstr "формат контейнера"
+
+msgid "controller"
+msgstr "управляющий узел"
+
+#, fuzzy
+msgid "credential"
+msgstr "учетная запись"
+
+msgid "Database service"
+msgstr "сервис баз данных"
+
+msgid "data processing"
+msgstr "обработка данных"
+
+msgid "Data Processing service"
+msgstr "сервис обработки данных"
+
+msgid "destination container"
+msgstr "конечный контейнер"
+
+msgid "destination object name"
+msgstr "имя конечного объекта"
+
+msgid "device"
+msgstr "устройство"
+
+msgid "disassociate IP"
+msgstr "отвязать IP"
+
+msgid "disk"
+msgstr "диск"
+
+msgid "disk format"
+msgstr "формат диска"
+
+msgid "disk GB hours"
+msgstr "ГБ-часы диска"
+
+msgid "distribution"
+msgstr "дистрибуция"
+
+msgid "domain"
+msgstr "домен"
+
+msgid "domain group"
+msgstr "группа домена"
+
+msgid "environment"
+msgstr "окружение"
+
+msgid "ephemeral disk"
+msgstr "эфемерный диск"
+
+msgid "ephemeral drive"
+msgstr "эфемерный диск"
+
+msgid "existence"
+msgstr "наличие"
+
+msgid "export"
+msgstr "экспорт"
+
+#, fuzzy
+msgid "export location"
+msgstr "репликация"
+
+msgid "fetching"
+msgstr "получение"
+
+msgid "fingerprint"
+msgstr "отпечаток"
+
+msgid "fixed IP"
+msgstr "фиксированный IP"
+
+msgid "flavor"
+msgstr "тип инстанса"
+
+msgid "floating IP"
+msgstr "назначаемый IP"
+
+msgid "gateway"
+msgstr "шлюз"
+
+msgid "guide"
+msgstr "мастер"
+
+#, fuzzy
+msgid "health monitor"
+msgstr "монитор работоспособности"
+
+msgid "host"
+msgstr "хост"
+
+msgid "host aggregate"
+msgstr "агрегат хостов"
+
+msgid "hypervisor"
+msgstr "гипервизор"
+
+msgid "identifier"
+msgstr "идентификатор"
+
+#, fuzzy
+msgid "identity provider"
+msgstr "идентификатор"
+
+#, fuzzy
+msgid "Identity service"
+msgstr "идентификатор"
+
+msgid "image"
+msgstr "образ"
+
+msgid "Image service"
+msgstr "сервис управления образами"
+
+msgid "initiator"
+msgstr "инициатор"
+
+#, fuzzy
+msgid "injected file"
+msgstr "внедряемые файлы"
+
+msgid "instance"
+msgstr "инстанс"
+
+msgid "interface"
+msgstr "интерфейс"
+
+msgid "job"
+msgstr "задача"
+
+msgid "job template"
+msgstr "шаблон задачи"
+
+msgid "key"
+msgstr "ключ"
+
+msgid "keypair"
+msgstr "ключевая пара"
+
+msgid "killed"
+msgstr "убит"
+
+msgid "L2population"
+msgstr "L2population"
+
+msgid "launch"
+msgstr "запуск"
+
+msgid "layer-2 population mechanism"
+msgstr "механизм распространения уровня L2"
+
+msgid "load balancer"
+msgstr "балансировщик нагрузки"
+
+msgid "library"
+msgstr "библиотека"
+
+msgid "management interface"
+msgstr "управляющий интерфейс"
+
+msgid "master"
+msgstr "мастер"
+
+msgid "member"
+msgstr "участник"
+
+msgid "Memcached"
+msgstr "Memcached"
+
+msgid "memory"
+msgstr "память"
+
+msgid "meter"
+msgstr "измерение"
+
+msgid "N/A"
+msgstr "Н/Д"
+
+msgid "namespace"
+msgstr "пространство имен"
+
+msgid "Networking service"
+msgstr "Служба управления сетью"
+
+msgid "NFS share"
+msgstr "общий NFS раздел"
+
+msgid "node"
+msgstr "узел"
+
+msgid "object"
+msgstr "объект"
+
+msgid "object storage"
+msgstr "объектное хранилище"
+
+msgid "Object Storage service"
+msgstr "сервис объектных хранилищ"
+
+msgid "orchestration"
+msgstr "оркестрация"
+
+msgid "Orchestration service"
+msgstr "сервис оркестрации"
+
+msgid "over commit"
+msgstr "переподписка"
+
+msgid "owner"
+msgstr "владелец"
+
+#, fuzzy
+msgid "pagination"
+msgstr "репликация"
+
+msgid "parameter"
+msgstr "параметр"
+
+msgid "perfect forward secrecy"
+msgstr "совершенная прямая секретность"
+
+msgid "permission"
+msgstr "разрешение"
+
+msgid "plugin"
+msgstr "плагин"
+
+msgid "policy"
+msgstr "политика"
+
+msgid "pool"
+msgstr "пул"
+
+msgid "project"
+msgstr "проект"
+
+msgid "property"
+msgstr "свойство"
+
+msgid "public key"
+msgstr "открытый ключ"
+
+msgid "quota"
+msgstr "квота"
+
+msgid "quotas"
+msgstr "квоты"
+
+msgid "raw image"
+msgstr "сырой образ"
+
+msgid "reboot"
+msgstr "перезагрузка"
+
+msgid "region"
+msgstr "регион"
+
+msgid "release IP"
+msgstr "освобождение IP"
+
+msgid "remote"
+msgstr "удаленный"
+
+msgid "replication"
+msgstr "репликация"
+
+msgid "restore"
+msgstr "восстановление"
+
+msgid "role"
+msgstr "роль"
+
+msgid "router"
+msgstr "маршрутизатор"
+
+msgid "section"
+msgstr "раздел"
+
+msgid "security group"
+msgstr "группа безопасности"
+
+msgid "server"
+msgstr "сервер"
+
+msgid "shard"
+msgstr "сегмент"
+
+#, fuzzy
+msgid "share"
+msgstr "использование"
+
+msgid "share network"
+msgstr "опубликовать сеть"
+
+#, fuzzy
+msgid "share server"
+msgstr "сервер"
+
+msgid "Shared File Systems service"
+msgstr "сервис общих файловых систем"
+
+#, fuzzy
+msgid "shelve instance"
+msgstr "инстанс"
+
+msgid "signature"
+msgstr "подпись"
+
+msgid "size"
+msgstr "размер"
+
+msgid "snapshot"
+msgstr "снимок"
+
+msgid "stack"
+msgstr "стек"
+
+msgid "state"
+msgstr "состояние"
+
+msgid "status"
+msgstr "статус"
+
+msgid "storage"
+msgstr "хранилище"
+
+msgid "submit"
+msgstr "отправить"
+
+msgid "subnet"
+msgstr "подсеть"
+
+msgid "swap disk"
+msgstr "диск подкачки"
+
+msgid "system panel"
+msgstr "системная панель"
+
+msgid "tag"
+msgstr "тэг"
+
+msgid "Telemetry service"
+msgstr "сервис телеметрии"
+
+msgid "template"
+msgstr "шаблон"
+
+msgid "tenant"
+msgstr "тенант"
+
+msgid "terminate instance"
+msgstr "удалить инстанс"
+
+msgid "token"
+msgstr "токен"
+
+msgid "transfer"
+msgstr "передача"
+
+#, fuzzy
+msgid "unshelve instance"
+msgstr "инстанс"
+
+msgid "usage"
+msgstr "использование"
+
+msgid "user"
+msgstr "пользователь"
+
+msgid "vCPU"
+msgstr "vCPU"
+
+msgid "VCPU hours"
+msgstr "VCPU часы"
+
+msgid "vNIC"
+msgstr "vNIC"
+
+msgid "volume"
+msgstr "диск"
+
+msgid "volume snapshot"
+msgstr "снимок диска"
+
+msgid "web"
+msgstr "веб"
+
+#~ msgid "Telemetry"
+#~ msgstr "Телеметрия"
+

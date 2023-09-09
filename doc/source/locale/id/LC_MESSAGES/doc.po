@@ -1,0 +1,6154 @@
+# suhartono <cloudsuhartono@gmail.com>, 2017. #zanata
+# suhartono <cloudsuhartono@gmail.com>, 2018. #zanata
+# suhartono <cloudsuhartono@gmail.com>, 2019. #zanata
+# suhartono <cloudsuhartono@gmail.com>, 2020. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: I18n Contributor Guide\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-28 16:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-09-06 05:40+0000\n"
+"Last-Translator: suhartono <cloudsuhartono@gmail.com>\n"
+"Language-Team: Indonesian\n"
+"Language: id\n"
+"X-Generator: Zanata 4.3.3\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "(optional) Put your language name as bug tag."
+msgstr "(Opsional) Letakkan nama bahasa Anda sebagai tag bug."
+
+msgid ""
+"**Make sure to include your English language name in a bug summary**. It is "
+"also suggested to write a bug summary in English. For example:"
+msgstr ""
+"** Pastikan untuk menyertakan nama bahasa Inggris Anda dalam ringkasan bug "
+"**. Juga disarankan untuk menulis ringkasan bug dalam bahasa Inggris. "
+"Sebagai contoh:"
+
+msgid ""
+"**tox** is available on PyPI and also available in various Linux "
+"distribution. ``pip install tox`` or ``apt-get install python-tox`` (in case "
+"of Ubuntu) installs **tox**."
+msgstr ""
+"**tox** tersedia di PyPI dan juga tersedia dalam berbagai distribusi Linux. "
+"``pip install tox`` atau ``apt-get install python-tox`` (dalam kasus Ubuntu) "
+"menginstal **tox**."
+
+msgid "..."
+msgstr "..."
+
+msgid "0"
+msgstr "0"
+
+msgid "1"
+msgstr "1"
+
+msgid "10"
+msgstr "10"
+
+msgid "1002"
+msgstr "1002"
+
+msgid "100222"
+msgstr "100222"
+
+msgid "10069"
+msgstr "10069"
+
+msgid "10092"
+msgstr "10092"
+
+msgid "10095"
+msgstr "10095"
+
+msgid "10101"
+msgstr "10101"
+
+msgid "10102"
+msgstr "10102"
+
+msgid "10109"
+msgstr "10109"
+
+msgid "10114"
+msgstr "10114"
+
+msgid "10128"
+msgstr "10128"
+
+msgid "1015"
+msgstr "1015"
+
+msgid "10156"
+msgstr "10156"
+
+msgid "1019"
+msgstr "1019"
+
+msgid "1025"
+msgstr "1025"
+
+msgid "1027"
+msgstr "1027"
+
+msgid "1035"
+msgstr "1035"
+
+msgid "1045"
+msgstr "1045"
+
+msgid "1048"
+msgstr "1048"
+
+msgid "105"
+msgstr "105"
+
+msgid "1050"
+msgstr "1050"
+
+msgid "106"
+msgstr "106"
+
+msgid "1065"
+msgstr "1065"
+
+msgid "1067"
+msgstr "1067"
+
+msgid "107"
+msgstr "107"
+
+msgid "1077"
+msgstr "1077"
+
+msgid "1079"
+msgstr "1079"
+
+msgid "10797"
+msgstr "10797"
+
+msgid "1082"
+msgstr "1082"
+
+msgid "109"
+msgstr "109"
+
+msgid "11"
+msgstr "11"
+
+msgid "110"
+msgstr "110"
+
+msgid "1107"
+msgstr "1107"
+
+msgid "1108"
+msgstr "1108"
+
+msgid "11107"
+msgstr "11107"
+
+msgid "11136"
+msgstr "11136"
+
+msgid "112"
+msgstr "112"
+
+msgid "113"
+msgstr "113"
+
+msgid "1131"
+msgstr "1131"
+
+msgid "1134"
+msgstr "1134"
+
+msgid "11370"
+msgstr "11370"
+
+msgid "11384"
+msgstr "11384"
+
+msgid "1139"
+msgstr "1139"
+
+msgid "1141"
+msgstr "1141"
+
+msgid "114435"
+msgstr "114435"
+
+msgid "114437"
+msgstr "114437"
+
+msgid "115"
+msgstr "115"
+
+msgid "11506"
+msgstr "11506"
+
+msgid "116"
+msgstr "116"
+
+msgid "1160"
+msgstr "1160"
+
+msgid "1161"
+msgstr "1161"
+
+msgid "117"
+msgstr "117"
+
+msgid "1172"
+msgstr "1172"
+
+msgid "1176"
+msgstr "1176"
+
+msgid "1179"
+msgstr "1179"
+
+msgid "118"
+msgstr "118"
+
+msgid "11820"
+msgstr "11820"
+
+msgid "119"
+msgstr "119"
+
+msgid "1197"
+msgstr "1197"
+
+msgid "11994"
+msgstr "11994"
+
+msgid "12"
+msgstr "12"
+
+msgid "120"
+msgstr "120"
+
+msgid "1209"
+msgstr "1209"
+
+msgid "121"
+msgstr "121"
+
+msgid "1214"
+msgstr "1214"
+
+msgid "1216"
+msgstr "1216"
+
+msgid "1222"
+msgstr "1222"
+
+msgid "1231"
+msgstr "1231"
+
+msgid "1236"
+msgstr "1236"
+
+msgid "12384"
+msgstr "12384"
+
+msgid "1248"
+msgstr "1248"
+
+msgid "1249"
+msgstr "1249"
+
+msgid "1255"
+msgstr "1255"
+
+msgid "1261"
+msgstr "1261"
+
+msgid "1266"
+msgstr "1266"
+
+msgid "128"
+msgstr "128"
+
+msgid "129"
+msgstr "129"
+
+msgid "1293"
+msgstr "1293"
+
+msgid "13"
+msgstr "13"
+
+msgid "130"
+msgstr "130"
+
+msgid "131443"
+msgstr "131443"
+
+msgid "132"
+msgstr "132"
+
+msgid "13272"
+msgstr "13272"
+
+msgid "133"
+msgstr "133"
+
+msgid "1335"
+msgstr "1335"
+
+msgid "134"
+msgstr "134"
+
+msgid "1341"
+msgstr "1341"
+
+msgid "13442"
+msgstr "13442"
+
+msgid "1348"
+msgstr "1348"
+
+msgid "13481"
+msgstr "13481"
+
+msgid "1353"
+msgstr "1353"
+
+msgid "1358"
+msgstr "1358"
+
+msgid "136"
+msgstr "136"
+
+msgid "137"
+msgstr "137"
+
+msgid "1378"
+msgstr "1378"
+
+msgid "138"
+msgstr "138"
+
+msgid "13813"
+msgstr "13813"
+
+msgid "1382"
+msgstr "1382"
+
+msgid "1386"
+msgstr "1386"
+
+msgid "1388"
+msgstr "1388"
+
+msgid "139"
+msgstr "139"
+
+msgid "13995"
+msgstr "13995"
+
+msgid "14"
+msgstr "14"
+
+msgid "1400"
+msgstr "1400"
+
+msgid "1408"
+msgstr "1408"
+
+msgid "141"
+msgstr "141"
+
+msgid "14132"
+msgstr "14132"
+
+msgid "1423"
+msgstr "1423"
+
+msgid "14269"
+msgstr "14269"
+
+msgid "1438"
+msgstr "1438"
+
+msgid "1439"
+msgstr "1439"
+
+msgid "146"
+msgstr "146"
+
+msgid "1471"
+msgstr "1471"
+
+msgid "1483"
+msgstr "1483"
+
+msgid "1499"
+msgstr "1499"
+
+msgid "15"
+msgstr "15"
+
+msgid "15079"
+msgstr "15079"
+
+msgid "152"
+msgstr "152"
+
+msgid "15264"
+msgstr "15264"
+
+msgid "1531"
+msgstr "1531"
+
+msgid "15310"
+msgstr "15310"
+
+msgid "153252"
+msgstr "153252"
+
+msgid "1538"
+msgstr "1538"
+
+msgid "1547"
+msgstr "1547"
+
+msgid "156"
+msgstr "156"
+
+msgid "1565"
+msgstr "1565"
+
+msgid "157"
+msgstr "157"
+
+msgid "1576"
+msgstr "1576"
+
+msgid "159"
+msgstr "159"
+
+msgid "15934"
+msgstr "15934"
+
+msgid "16"
+msgstr "16"
+
+msgid "1603"
+msgstr "1603"
+
+msgid "1606"
+msgstr "1606"
+
+msgid "161"
+msgstr "161"
+
+msgid "1633"
+msgstr "1633"
+
+msgid "1663"
+msgstr "1663"
+
+msgid "166739"
+msgstr "166739"
+
+msgid "1670"
+msgstr "1670"
+
+msgid "16773"
+msgstr "16773"
+
+msgid "1678"
+msgstr "1678"
+
+msgid "168"
+msgstr "168"
+
+msgid "16837"
+msgstr "16837"
+
+msgid "169"
+msgstr "169"
+
+msgid "1698"
+msgstr "1698"
+
+msgid "17"
+msgstr "17"
+
+msgid "170"
+msgstr "170"
+
+msgid "1711"
+msgstr "1711"
+
+msgid "172"
+msgstr "172"
+
+msgid "17207"
+msgstr "17207"
+
+msgid "1723"
+msgstr "1723"
+
+msgid "1724"
+msgstr "1724"
+
+msgid "1732"
+msgstr "1732"
+
+msgid "17386"
+msgstr "17386"
+
+msgid "174"
+msgstr "174"
+
+msgid "1752"
+msgstr "1752"
+
+msgid "1756"
+msgstr "1756"
+
+msgid "1766"
+msgstr "1766"
+
+msgid "1768"
+msgstr "1768"
+
+msgid "17691"
+msgstr "17691"
+
+msgid "1784"
+msgstr "1784"
+
+msgid "1787"
+msgstr "1787"
+
+msgid "179"
+msgstr "179"
+
+msgid "1799"
+msgstr "1799"
+
+msgid "18"
+msgstr "18"
+
+msgid "181"
+msgstr "181"
+
+msgid "184"
+msgstr "184"
+
+msgid "1850"
+msgstr "1850"
+
+msgid "1856"
+msgstr "1856"
+
+msgid "186"
+msgstr "186"
+
+msgid "187"
+msgstr "187"
+
+msgid "1873"
+msgstr "1873"
+
+msgid "188"
+msgstr "188"
+
+msgid "1881"
+msgstr "1881"
+
+msgid "18845"
+msgstr "18845"
+
+msgid "189"
+msgstr "189"
+
+msgid "19"
+msgstr "19"
+
+msgid "190"
+msgstr "190"
+
+msgid "1902"
+msgstr "1902"
+
+msgid "19104"
+msgstr "19104"
+
+msgid "1928"
+msgstr "1928"
+
+msgid "1938"
+msgstr "1938"
+
+msgid "1942"
+msgstr "1942"
+
+msgid "19431"
+msgstr "19431"
+
+msgid "1944"
+msgstr "1944"
+
+msgid "1946"
+msgstr "1946"
+
+msgid "1948"
+msgstr "1948"
+
+msgid "1949"
+msgstr "1949"
+
+msgid "195"
+msgstr "195"
+
+msgid "1952"
+msgstr "1952"
+
+msgid "1964"
+msgstr "1964"
+
+msgid "1984"
+msgstr "1984"
+
+msgid "1989"
+msgstr "1989"
+
+msgid "19911"
+msgstr "19911"
+
+msgid "1995"
+msgstr "1995"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "201"
+msgstr "201"
+
+msgid "20128"
+msgstr "20128"
+
+msgid "202"
+msgstr "202"
+
+msgid "203"
+msgstr "203"
+
+msgid "204"
+msgstr "204"
+
+msgid "205"
+msgstr "205"
+
+msgid "2054"
+msgstr "2054"
+
+msgid "20601"
+msgstr "20601"
+
+msgid "2069"
+msgstr "2069"
+
+msgid "2072"
+msgstr "2072"
+
+msgid "2077"
+msgstr "2077"
+
+msgid "208"
+msgstr "208"
+
+msgid "209"
+msgstr "209"
+
+msgid "21"
+msgstr "21"
+
+msgid "2121"
+msgstr "2121"
+
+msgid "2138"
+msgstr "2138"
+
+msgid "215"
+msgstr "215"
+
+msgid "216"
+msgstr "216"
+
+msgid "21675"
+msgstr "21675"
+
+msgid "21760"
+msgstr "21760"
+
+msgid "218"
+msgstr "218"
+
+msgid "21903"
+msgstr "21903"
+
+msgid "2195"
+msgstr "2195"
+
+msgid "220"
+msgstr "220"
+
+msgid "2205"
+msgstr "2205"
+
+msgid "2247"
+msgstr "2247"
+
+msgid "225"
+msgstr "225"
+
+msgid "226"
+msgstr "226"
+
+msgid "2283"
+msgstr "2283"
+
+msgid "22923"
+msgstr "22923"
+
+msgid "2298"
+msgstr "2298"
+
+msgid "23"
+msgstr "23"
+
+msgid "2300"
+msgstr "2300"
+
+msgid "2307"
+msgstr "2307"
+
+msgid "23073"
+msgstr "23073"
+
+msgid "231"
+msgstr "231"
+
+msgid "23285"
+msgstr "23285"
+
+msgid "233"
+msgstr "233"
+
+msgid "235"
+msgstr "235"
+
+msgid "236"
+msgstr "236"
+
+msgid "2365"
+msgstr "2365"
+
+msgid "239"
+msgstr "239"
+
+msgid "2394"
+msgstr "2394"
+
+msgid "2397"
+msgstr "2397"
+
+msgid "2398"
+msgstr "2398"
+
+msgid "24"
+msgstr "24"
+
+msgid "2406"
+msgstr "2406"
+
+msgid "243"
+msgstr "243"
+
+msgid "2438"
+msgstr "2438"
+
+msgid "246"
+msgstr "246"
+
+msgid "2466"
+msgstr "2466"
+
+msgid "247"
+msgstr "247"
+
+msgid "2480"
+msgstr "2480"
+
+msgid "2481"
+msgstr "2481"
+
+msgid "24817"
+msgstr "24817"
+
+msgid "249"
+msgstr "249"
+
+msgid "25"
+msgstr "25"
+
+msgid "2507"
+msgstr "2507"
+
+msgid "25077"
+msgstr "25077"
+
+msgid "252"
+msgstr "252"
+
+msgid "253"
+msgstr "253"
+
+msgid "2538"
+msgstr "2538"
+
+msgid "254"
+msgstr "254"
+
+msgid "2544"
+msgstr "2544"
+
+msgid "2554"
+msgstr "2554"
+
+msgid "2556"
+msgstr "2556"
+
+msgid "256"
+msgstr "256"
+
+msgid "2562"
+msgstr "2562"
+
+msgid "25694"
+msgstr "25694"
+
+msgid "258"
+msgstr "258"
+
+msgid "26"
+msgstr "26"
+
+msgid "2629"
+msgstr "2629"
+
+msgid "263"
+msgstr "263"
+
+msgid "26356"
+msgstr "26356"
+
+msgid "2651"
+msgstr "2651"
+
+msgid "2660"
+msgstr "2660"
+
+msgid "2663"
+msgstr "2663"
+
+msgid "2668"
+msgstr "2668"
+
+msgid "26707"
+msgstr "26707"
+
+msgid "2671"
+msgstr "2671"
+
+msgid "2677"
+msgstr "2677"
+
+msgid "26843"
+msgstr "26843"
+
+msgid "2692"
+msgstr "2692"
+
+msgid "2703"
+msgstr "2703"
+
+msgid "27143"
+msgstr "27143"
+
+msgid "272"
+msgstr "272"
+
+msgid "27215"
+msgstr "27215"
+
+msgid "2727"
+msgstr "2727"
+
+msgid "27355"
+msgstr "27355"
+
+msgid "277"
+msgstr "277"
+
+msgid "278"
+msgstr "278"
+
+msgid "2793"
+msgstr "2793"
+
+msgid "2795"
+msgstr "2795"
+
+msgid "28"
+msgstr "28"
+
+msgid "281"
+msgstr "281"
+
+msgid "2811"
+msgstr "2811"
+
+msgid "2826"
+msgstr "2826"
+
+msgid "29"
+msgstr "29"
+
+msgid "291"
+msgstr "291"
+
+msgid "295"
+msgstr "295"
+
+msgid "2972"
+msgstr "2972"
+
+msgid "299"
+msgstr "299"
+
+msgid "3"
+msgstr "3"
+
+msgid "30"
+msgstr "30"
+
+msgid "300"
+msgstr "300"
+
+msgid "303"
+msgstr "303"
+
+msgid "3035"
+msgstr "3035"
+
+msgid "3041"
+msgstr "3041"
+
+msgid "3062"
+msgstr "3062"
+
+msgid "3065"
+msgstr "3065"
+
+msgid "309"
+msgstr "309"
+
+msgid "3093"
+msgstr "3093"
+
+msgid "31"
+msgstr "31"
+
+msgid "310"
+msgstr "310"
+
+msgid "311"
+msgstr "311"
+
+msgid "3110"
+msgstr "3110"
+
+msgid "31268"
+msgstr "31268"
+
+msgid "31333"
+msgstr "31333"
+
+msgid "3137"
+msgstr "3137"
+
+msgid "3159"
+msgstr "3159"
+
+msgid "317"
+msgstr "317"
+
+msgid "319"
+msgstr "319"
+
+msgid "32"
+msgstr "32"
+
+msgid "3202"
+msgstr "3202"
+
+msgid "321"
+msgstr "321"
+
+msgid "32120"
+msgstr "32120"
+
+msgid "32125"
+msgstr "32125"
+
+msgid "3216"
+msgstr "3216"
+
+msgid "3217"
+msgstr "3217"
+
+msgid "322"
+msgstr "322"
+
+msgid "3225"
+msgstr "3225"
+
+msgid "32261"
+msgstr "32261"
+
+msgid "323"
+msgstr "323"
+
+msgid "326"
+msgstr "326"
+
+msgid "32785"
+msgstr "32785"
+
+msgid "328"
+msgstr "328"
+
+msgid "32863"
+msgstr "32863"
+
+msgid "330"
+msgstr "330"
+
+msgid "331"
+msgstr "331"
+
+msgid "333"
+msgstr "333"
+
+msgid "3337"
+msgstr "3337"
+
+msgid "3350"
+msgstr "3350"
+
+msgid "3390"
+msgstr "3390"
+
+msgid "34"
+msgstr "34"
+
+msgid "340"
+msgstr "340"
+
+msgid "341"
+msgstr "341"
+
+msgid "3411"
+msgstr "3411"
+
+msgid "3415"
+msgstr "3415"
+
+msgid "344"
+msgstr "344"
+
+msgid "3446"
+msgstr "3446"
+
+msgid "3449"
+msgstr "3449"
+
+msgid "345"
+msgstr "345"
+
+msgid "346"
+msgstr "346"
+
+msgid "34697"
+msgstr "34697"
+
+msgid "3482"
+msgstr "3482"
+
+msgid "3515"
+msgstr "3515"
+
+msgid "352"
+msgstr "352"
+
+msgid "354"
+msgstr "354"
+
+msgid "355"
+msgstr "355"
+
+msgid "357"
+msgstr "357"
+
+msgid "35849"
+msgstr "35849"
+
+msgid "3585"
+msgstr "3585"
+
+msgid "3588"
+msgstr "3588"
+
+msgid "36"
+msgstr "36"
+
+msgid "364"
+msgstr "364"
+
+msgid "366"
+msgstr "366"
+
+msgid "36676"
+msgstr "36676"
+
+msgid "367"
+msgstr "367"
+
+msgid "3681"
+msgstr "3681"
+
+msgid "37"
+msgstr "37"
+
+msgid "373"
+msgstr "373"
+
+msgid "375"
+msgstr "375"
+
+msgid "377"
+msgstr "377"
+
+msgid "379"
+msgstr "379"
+
+msgid "38"
+msgstr "38"
+
+msgid "3802"
+msgstr "3802"
+
+msgid "381"
+msgstr "381"
+
+msgid "3825"
+msgstr "3825"
+
+msgid "3849"
+msgstr "3849"
+
+msgid "387"
+msgstr "387"
+
+msgid "389"
+msgstr "389"
+
+msgid "391"
+msgstr "391"
+
+msgid "392"
+msgstr "392"
+
+msgid "3925"
+msgstr "3925"
+
+msgid "3961"
+msgstr "3961"
+
+msgid "3963"
+msgstr "3963"
+
+msgid "397"
+msgstr "397"
+
+msgid "3972"
+msgstr "3972"
+
+msgid "3979"
+msgstr "3979"
+
+msgid "4"
+msgstr "4"
+
+msgid "4051"
+msgstr "4051"
+
+msgid "409"
+msgstr "409"
+
+msgid "41"
+msgstr "41"
+
+msgid "412"
+msgstr "412"
+
+msgid "4126"
+msgstr "4126"
+
+msgid "4172"
+msgstr "4172"
+
+msgid "4192"
+msgstr "4192"
+
+msgid "4196"
+msgstr "4196"
+
+msgid "4198"
+msgstr "4198"
+
+msgid "42"
+msgstr "42"
+
+msgid "420"
+msgstr "420"
+
+msgid "4216"
+msgstr "4216"
+
+msgid "4232"
+msgstr "4232"
+
+msgid "4242"
+msgstr "4242"
+
+msgid "427"
+msgstr "427"
+
+msgid "4287"
+msgstr "4287"
+
+msgid "43"
+msgstr "43"
+
+msgid "4323"
+msgstr "4323"
+
+msgid "4324"
+msgstr "4324"
+
+msgid "434"
+msgstr "434"
+
+msgid "435"
+msgstr "435"
+
+msgid "4362"
+msgstr "4362"
+
+msgid "439"
+msgstr "439"
+
+msgid "44"
+msgstr "44"
+
+msgid "4413"
+msgstr "4413"
+
+msgid "445"
+msgstr "445"
+
+msgid "4455"
+msgstr "4455"
+
+msgid "447"
+msgstr "447"
+
+msgid "44739"
+msgstr "44739"
+
+msgid "448"
+msgstr "448"
+
+msgid "452"
+msgstr "452"
+
+msgid "453"
+msgstr "453"
+
+msgid "4546"
+msgstr "4546"
+
+msgid "4551"
+msgstr "4551"
+
+msgid "4565"
+msgstr "4565"
+
+msgid "4567"
+msgstr "4567"
+
+msgid "4577"
+msgstr "4577"
+
+msgid "4580"
+msgstr "4580"
+
+msgid "45901"
+msgstr "45901"
+
+msgid "4591"
+msgstr "4591"
+
+msgid "46"
+msgstr "46"
+
+msgid "462"
+msgstr "462"
+
+msgid "465"
+msgstr "465"
+
+msgid "4661"
+msgstr "4661"
+
+msgid "467"
+msgstr "467"
+
+msgid "4676"
+msgstr "4676"
+
+msgid "468"
+msgstr "468"
+
+msgid "4698"
+msgstr "4698"
+
+msgid "47"
+msgstr "47"
+
+msgid "472"
+msgstr "472"
+
+msgid "475"
+msgstr "475"
+
+msgid "4767"
+msgstr "4767"
+
+msgid "477"
+msgstr "477"
+
+msgid "4780"
+msgstr "4780"
+
+msgid "48"
+msgstr "48"
+
+msgid "480"
+msgstr "480"
+
+msgid "4809"
+msgstr "4809"
+
+msgid "484"
+msgstr "484"
+
+msgid "4862"
+msgstr "4862"
+
+msgid "49"
+msgstr "49"
+
+msgid "4907"
+msgstr "4907"
+
+msgid "495"
+msgstr "495"
+
+msgid "497"
+msgstr "497"
+
+msgid "4989"
+msgstr "4989"
+
+msgid "499"
+msgstr "499"
+
+msgid "5"
+msgstr "5"
+
+msgid "500"
+msgstr "500"
+
+msgid "501"
+msgstr "501"
+
+msgid "502"
+msgstr "502"
+
+msgid "5039"
+msgstr "5039"
+
+msgid "506"
+msgstr "506"
+
+msgid "5079"
+msgstr "5079"
+
+msgid "514"
+msgstr "514"
+
+msgid "51448"
+msgstr "51448"
+
+msgid "52"
+msgstr "52"
+
+msgid "5204"
+msgstr "5204"
+
+msgid "5206"
+msgstr "5206"
+
+msgid "5207"
+msgstr "5207"
+
+msgid "5211"
+msgstr "5211"
+
+msgid "525"
+msgstr "525"
+
+msgid "5276"
+msgstr "5276"
+
+msgid "529"
+msgstr "529"
+
+msgid "52941"
+msgstr "52941"
+
+msgid "53"
+msgstr "53"
+
+msgid "531"
+msgstr "531"
+
+msgid "533"
+msgstr "533"
+
+msgid "5339"
+msgstr "5339"
+
+msgid "534"
+msgstr "534"
+
+msgid "5340"
+msgstr "5340"
+
+msgid "540"
+msgstr "540"
+
+msgid "541"
+msgstr "541"
+
+msgid "542"
+msgstr "542"
+
+msgid "5482"
+msgstr "5482"
+
+msgid "5489"
+msgstr "5489"
+
+msgid "55"
+msgstr "55"
+
+msgid "5522"
+msgstr "5522"
+
+msgid "554"
+msgstr "554"
+
+msgid "5542"
+msgstr "5542"
+
+msgid "5580"
+msgstr "5580"
+
+msgid "56"
+msgstr "56"
+
+msgid "5618"
+msgstr "5618"
+
+msgid "564"
+msgstr "564"
+
+msgid "5645"
+msgstr "5645"
+
+msgid "565"
+msgstr "565"
+
+msgid "5669"
+msgstr "5669"
+
+msgid "57"
+msgstr "57"
+
+msgid "5773"
+msgstr "5773"
+
+msgid "583"
+msgstr "583"
+
+msgid "586"
+msgstr "586"
+
+msgid "588"
+msgstr "588"
+
+msgid "59"
+msgstr "59"
+
+msgid "592"
+msgstr "592"
+
+msgid "6"
+msgstr "6"
+
+msgid "600"
+msgstr "600"
+
+msgid "6101"
+msgstr "6101"
+
+msgid "6129"
+msgstr "6129"
+
+msgid "615"
+msgstr "615"
+
+msgid "617"
+msgstr "617"
+
+msgid "6171"
+msgstr "6171"
+
+msgid "618"
+msgstr "618"
+
+msgid "62"
+msgstr "62"
+
+msgid "6205"
+msgstr "6205"
+
+msgid "624"
+msgstr "624"
+
+msgid "6245"
+msgstr "6245"
+
+msgid "625"
+msgstr "625"
+
+msgid "63"
+msgstr "63"
+
+msgid "633"
+msgstr "633"
+
+msgid "6334"
+msgstr "6334"
+
+msgid "6346"
+msgstr "6346"
+
+msgid "6421"
+msgstr "6421"
+
+msgid "65"
+msgstr "65"
+
+msgid "6504"
+msgstr "6504"
+
+msgid "65263"
+msgstr "65263"
+
+msgid "654"
+msgstr "654"
+
+msgid "6588"
+msgstr "6588"
+
+msgid "659"
+msgstr "659"
+
+msgid "665"
+msgstr "665"
+
+msgid "669"
+msgstr "669"
+
+msgid "670"
+msgstr "670"
+
+msgid "68"
+msgstr "68"
+
+msgid "6865"
+msgstr "6865"
+
+msgid "689"
+msgstr "689"
+
+msgid "6892"
+msgstr "6892"
+
+msgid "69"
+msgstr "69"
+
+msgid "690"
+msgstr "690"
+
+msgid "69223"
+msgstr "69223"
+
+msgid "693"
+msgstr "693"
+
+msgid "6982"
+msgstr "6982"
+
+msgid "69823"
+msgstr "69823"
+
+msgid "7"
+msgstr "7"
+
+msgid "7032"
+msgstr "7032"
+
+msgid "7046"
+msgstr "7046"
+
+msgid "708"
+msgstr "708"
+
+msgid "7129"
+msgstr "7129"
+
+msgid "714"
+msgstr "714"
+
+msgid "72"
+msgstr "72"
+
+msgid "7253"
+msgstr "7253"
+
+msgid "731"
+msgstr "731"
+
+msgid "73184"
+msgstr "73184"
+
+msgid "734"
+msgstr "734"
+
+msgid "737"
+msgstr "737"
+
+msgid "740"
+msgstr "740"
+
+msgid "7420"
+msgstr "7420"
+
+msgid "7445"
+msgstr "7445"
+
+msgid "745"
+msgstr "745"
+
+msgid "752"
+msgstr "752"
+
+msgid "7525"
+msgstr "7525"
+
+msgid "7537"
+msgstr "7537"
+
+msgid "7576"
+msgstr "7576"
+
+msgid "762"
+msgstr "762"
+
+msgid "763"
+msgstr "763"
+
+msgid "77"
+msgstr "77"
+
+msgid "772"
+msgstr "772"
+
+msgid "7752"
+msgstr "7752"
+
+msgid "78"
+msgstr "78"
+
+msgid "784"
+msgstr "784"
+
+msgid "7877"
+msgstr "7877"
+
+msgid "79"
+msgstr "79"
+
+msgid "792"
+msgstr "792"
+
+msgid "794"
+msgstr "794"
+
+msgid "8"
+msgstr "8"
+
+msgid "801"
+msgstr "801"
+
+msgid "803"
+msgstr "803"
+
+msgid "8048"
+msgstr "8048"
+
+msgid "81"
+msgstr "81"
+
+msgid "8145"
+msgstr "8145"
+
+msgid "824"
+msgstr "824"
+
+msgid "827"
+msgstr "827"
+
+msgid "83"
+msgstr "83"
+
+msgid "831"
+msgstr "831"
+
+msgid "8312"
+msgstr "8312"
+
+msgid "8319"
+msgstr "8319"
+
+msgid "835"
+msgstr "835"
+
+msgid "8367"
+msgstr "8367"
+
+msgid "841"
+msgstr "841"
+
+msgid "845"
+msgstr "845"
+
+msgid "8457"
+msgstr "8457"
+
+msgid "846"
+msgstr "846"
+
+msgid "849"
+msgstr "849"
+
+msgid "85"
+msgstr "85"
+
+msgid "850"
+msgstr "850"
+
+msgid "859"
+msgstr "859"
+
+msgid "86"
+msgstr "86"
+
+msgid "864"
+msgstr "864"
+
+msgid "8646"
+msgstr "8646"
+
+msgid "867"
+msgstr "867"
+
+msgid "869"
+msgstr "869"
+
+msgid "87"
+msgstr "87"
+
+msgid "8712"
+msgstr "8712"
+
+msgid "874"
+msgstr "874"
+
+msgid "8790"
+msgstr "8790"
+
+msgid "88"
+msgstr "88"
+
+msgid "881"
+msgstr "881"
+
+msgid "882"
+msgstr "882"
+
+msgid "895"
+msgstr "895"
+
+msgid "8954"
+msgstr "8954"
+
+msgid "8967"
+msgstr "8967"
+
+msgid "9"
+msgstr "9"
+
+msgid "90"
+msgstr "90"
+
+msgid "902"
+msgstr "902"
+
+msgid "907"
+msgstr "907"
+
+msgid "908"
+msgstr "908"
+
+msgid "9122"
+msgstr "9122"
+
+msgid "9147"
+msgstr "9147"
+
+msgid "916"
+msgstr "916"
+
+msgid "9173"
+msgstr "9173"
+
+msgid "9184"
+msgstr "9184"
+
+msgid "92"
+msgstr "92"
+
+msgid "9221"
+msgstr "9221"
+
+msgid "9242"
+msgstr "9242"
+
+msgid "936"
+msgstr "936"
+
+msgid "94"
+msgstr "94"
+
+msgid "94874"
+msgstr "94874"
+
+msgid "9515"
+msgstr "9515"
+
+msgid "957"
+msgstr "957"
+
+msgid "9574"
+msgstr "9574"
+
+msgid "965"
+msgstr "965"
+
+msgid "9820"
+msgstr "9820"
+
+msgid "9836"
+msgstr "9836"
+
+msgid "9855"
+msgstr "9855"
+
+msgid "9893"
+msgstr "9893"
+
+msgid "992"
+msgstr "992"
+
+msgid "997"
+msgstr "997"
+
+msgid "99735"
+msgstr "99735"
+
+msgid ":doc:`IRC meeting <i18n_team_meeting>`"
+msgstr ":doc:`IRC meeting <i18n_team_meeting>`"
+
+msgid ""
+":doc:`Your language team <lang_team>` may have useful information to help "
+"our translation efforts including translation guidelines, priorities, "
+"communication tools and so on. It is worth visited. You can find your "
+"language team page at https://wiki.openstack.org/wiki/I18nTeam/team. If you "
+"have questions, you can contact your coordinators."
+msgstr ""
+":doc:`Your language team <lang_team>` mungkin memiliki informasi yang "
+"berguna untuk membantu upaya terjemahan kita termasuk pedoman penerjemahan, "
+"prioritas, alat komunikasi dan sebagainya. Perlu dikunjungi. Anda dapat "
+"menemukan halaman tim bahasa Anda di https://wiki.openstack.org/wiki/"
+"I18nTeam/team. Jika ada pertanyaan, Anda bisa menghubungi koordinator Anda."
+
+msgid ""
+":ref:`ATC status in I18n project <i18n-atc>` is determined based on "
+"translation statistics in a specific period."
+msgstr ""
+":ref:`ATC status in I18n project <i18n-atc>` ditentukan berdasarkan "
+"statistik penerjemahan dalam suatu periode tertentu."
+
+msgid ":ref:`search`"
+msgstr ":ref:`search`"
+
+msgid ""
+"A glossary file of your language is found at ``glossary/locale/<lang>/"
+"LC_MESSAGES/glossary.po`` in the i18n repository. The file is a usual PO "
+"file."
+msgstr ""
+"File glosarium bahasa Anda ditemukan di ``glossary/locale/<lang>/LC_MESSAGES/"
+"glossary.po`` di repositori i18n. File itu adalah file PO yang biasa."
+
+msgid ""
+"A list of all ATCs is available at http://governance.openstack.org/reference/"
+"projects/i18n.html#extra-atcs."
+msgstr ""
+"Daftar semua ATC tersedia di  http://governance.openstack.org/reference/"
+"projects/i18n.html#extra-atcs."
+
+msgid ""
+"A person who can proofread translations and mark them as reviewed (approved) "
+"or rejected."
+msgstr ""
+"Seseorang yang bisa mengoreksi terjemahan dan menandai mereka sebagai "
+"ditinjau (disetujui) atau ditolak."
+
+msgid "A person who can submit translations."
+msgstr "Seseorang yang bisa mengirimkan terjemahan."
+
+msgid ""
+"A privileged member in a translation team who can help in team management "
+"tasks, such as approving new members and reviewing contributions to that "
+"language. We also have task coordinators for specific tasks."
+msgstr ""
+"Anggota istimewa dalam tim penerjemahan yang dapat membantu dalam tugas "
+"manajemen tim, seperti menyetujui anggota baru dan meninjau kontribusi ke "
+"bahasa tersebut. Kami juga memiliki koordinator tugas untuk tugas tertentu."
+
+msgid ""
+"A series of tasks in OpenStack infrastructure is used to manage translation "
+"changes in Zanata. Without running the tasks, translation changes will not "
+"be reflected into OpenStack projects. This page explains how the "
+"infrastructure tasks run actual scripts as `Zuul <https://docs.openstack.org/"
+"infra/zuul/>`_ jobs and monitor the job status."
+msgstr ""
+"Serangkaian tugas di infrastruktur OpenStack digunakan untuk mengelola "
+"perubahan terjemahan di Zanata. Tanpa menjalankan tugas, perubahan "
+"terjemahan tidak akan tercermin dalam proyek OpenStack. Halaman ini "
+"menjelaskan bagaimana tugas infrastruktur menjalankan skrip aktual sebagai "
+"pekerjaan `Zuul <https://docs.openstack.org/infra/zuul/>` _ dan memonitor "
+"status pekerjaan."
+
+msgid ""
+"A template is a skeleton of static HTML files. In this case, the string is "
+"perhaps used in \"Update\" form in \"Container\" menu."
+msgstr ""
+"Template adalah kerangka dari file HTML statis. Dalam kasus ini, string "
+"mungkin digunakan dalam bentuk \"Update\" dalam menu \"Container\"."
+
+msgid "ATC Statistics in past releases"
+msgstr "Statistik ATC dalam rilis sebelumnya"
+
+msgid ""
+"ATC candidates are translators who has translated more than 200 words and "
+"reported their e-mail and name to language coordinators, and also signed "
+"ICLA."
+msgstr ""
+"Calon ATC adalah penerjemah yang telah menerjemahkan lebih dari 200 kata dan "
+"melaporkan e-mail dan nama mereka kepada koordinator bahasa, dan juga "
+"menandatangani ICLA."
+
+msgid "ATC members of I18n project"
+msgstr "Anggota ATC proyek I18n"
+
+msgid "ATC status in I18n project"
+msgstr "Status ATC di proyek I18n"
+
+msgid "AUC status in I18n project"
+msgstr "AUC status dalam I18n project"
+
+msgid "About this guide"
+msgstr "Tentang panduan ini"
+
+msgid "Add Translation Server Support"
+msgstr "Tambahkan Dukungan Server Terjemahan"
+
+msgid "Add the jobs to your pipelines."
+msgstr "Tambahkan pekerjaan ke pipelines Anda."
+
+msgid ""
+"After the documents are translated and reviewed well, updating existing "
+"``www/<lang>/index.html`` or creating a new language landing page is needed."
+msgstr ""
+"Setelah dokumen diterjemahkan dan ditinjau dengan baik, memperbarui ``www/"
+"<lang>/index.html`` yang ada atau membuat halaman arahan bahasa baru "
+"diperlukan."
+
+msgid ""
+"After the official release, translating master version is welcome for "
+"upstream translation contribution, but the original strings may be changed "
+"frequently due to upstream development on the projects."
+msgstr ""
+"Setelah rilis resmi, menerjemahkan versi master dipersilakan untuk "
+"kontribusi terjemahan hulu, namun strings asli mungkin sering berubah karena "
+"pengembangan hulu proyek."
+
+msgid ""
+"After you edit the master glossary, ensure to reflect the change to all "
+"language glossary files. To do this, run the following command."
+msgstr ""
+"Setelah Anda mengedit glossary master, pastikan untuk mencerminkan perubahan "
+"pada semua file glosarium bahasa. Untuk melakukan ini, jalankan perintah "
+"berikut."
+
+msgid ""
+"After you log in with OpenStack ID, you will be requested to fill in your "
+"profile."
+msgstr ""
+"Setelah masuk dengan OpenStack ID, Anda akan diminta untuk mengisi profil "
+"Anda."
+
+msgid ""
+"All upstream OpenStack documents in ``openstack-manuals`` and project "
+"repositories use ``master`` branch and can have stable branches depending on "
+"release models and maintaining documents in different project teams. Cross-"
+"project liaisons are strongly encouraged to communicate with I18n team so "
+"that I18n team can discuss and decide which stable documents are the target "
+"in I18n team and when translators start to translate stable documents."
+msgstr ""
+"Semua dokumen OpenStack upstream di ``openstack-manuals`` dan repositori "
+"proyek menggunakan cabang (branch) ``master`` dan dapat memiliki cabang "
+"stabil tergantung pada model rilis dan memelihara dokumen dalam tim proyek "
+"yang berbeda. Para penghubung lintas proyek sangat dianjurkan untuk "
+"berkomunikasi dengan tim I18n sehingga tim I18n dapat mendiskusikan dan "
+"memutuskan dokumen stabil mana yang menjadi target dalam tim I18n dan kapan "
+"penerjemah mulai menerjemahkan dokumen stabil."
+
+msgid ""
+"Also, release notes translations are only needed on master since release "
+"notes are published only from master, the translations get removed on stable "
+"branches."
+msgstr ""
+"Juga, pelepasan catatan terjemahan hanya diperlukan pada master karena "
+"catatan rilis hanya diterbitkan dari master, terjemahannya bisa dihapus di "
+"cabang yang stabil."
+
+msgid ""
+"Although each language team could follow the I18n team working plan, your "
+"team may also decide your own work items and priorities as a language team."
+msgstr ""
+"Meskipun setiap tim bahasa dapat mengikuti rencana kerja tim I18n, tim Anda "
+"juga dapat menentukan item dan prioritas pekerjaan Anda sendiri sebagai tim "
+"bahasa."
+
+msgid "Amandeep Singh Saini (jimidar) - Punjabi (India)"
+msgstr "Amandeep Singh Saini (jimidar) - Punjabi (India)"
+
+msgid ""
+"Another convenient way is to check dashboard translations is to run DevStack "
+"in your local environment. To run DevStack, you need to prepare ``local."
+"conf`` file, but no worries. Several ``local.conf`` files are shared on the "
+"Internet and a minimum example is shown below. From our experience, you need "
+"a machine with two or four CPU cores, 8 GB memory and 20 GB disk to run "
+"DevStack comfortably. If you enable just major OpenStack projects, the "
+"machine requirement would be much smaller like 2~4GB memory."
+msgstr ""
+"Cara lain yang mudah adalah dengan mengecek dashboard translations yaitu "
+"dengan menjalankan DevStack di lingkungan lokal anda. Untuk menjalankan "
+"DevStack, Anda perlu menyiapkan file ``local.conf``, tapi jangan khawatir. "
+"Beberapa file ``local.conf`` dibagikan di Internet dan contoh minimum "
+"ditunjukkan di bawah ini. Dari pengalaman kami, Anda memerlukan mesin dengan "
+"dua atau empat core CPU, memori 8 GB dan 20 GB disk untuk menjalankan "
+"DevStack dengan nyaman. Jika Anda hanya mengaktifkan proyek OpenStack utama, "
+"persyaratan mesin akan jauh lebih kecil seperti memori 2 ~ 4GB."
+
+msgid ""
+"As OpenStack evolved, Active User Contributor (AUC) recognition process was "
+"introduced by the `OpenStack User Committee (UC) <https://governance."
+"openstack.org/uc/>`_. AUCs are acknowledged to operators and users who "
+"contributed aligned with UC governance."
+msgstr ""
+"Sebagai OpenStack berkembang, proses pengenalan Active User Contributor "
+"(AUC) diperkenalkan oleh `OpenStack User Committee (UC) <https://governance."
+"openstack.org/uc/>`_. AUC diakui untuk operator dan pengguna yang "
+"berkontribusi selaras dengan tata kelola UC."
+
+msgid ""
+"As a minimal check that the translation files that are imported are valid, "
+"you can add to your lint target (``pep8`` or ``linters``) a simple "
+"``msgfmt`` test:"
+msgstr ""
+"Sebagai pemeriksaan minimal bahwa file terjemahan yang diimpor valid, Anda "
+"dapat menambahkan ke target lint  (``pep8`` atau ``linters``) tes ``msgfmt`` "
+"sederhana:"
+
+msgid ""
+"As a translator, if reported bugs turns out beyond a translation bug, it is "
+"better to ask I18n team members via the mailing list or the IRC channel. "
+"They can handle such bugs."
+msgstr ""
+"Sebagai penerjemah, jika bug yang dilaporkan ternyata melampaui bug "
+"terjemahan, lebih baik bertanya kepada anggota tim I18 melalui milis atau "
+"saluran IRC. Mereka bisa menangani bug semacam itu."
+
+msgid ""
+"As an official project, the responsibility of the I18n PTL is generally "
+"subject to the `Project Team Guide <https://docs.openstack.org/project-team-"
+"guide/ptl.html>`__. This chapter describes tasks for I18n PTL and gives some "
+"useful hints. If you want to be I18n PTL or you new in this role, please "
+"read carefully. For all other is this chapter informal."
+msgstr ""
+"Sebagai proyek resmi, tanggung jawab PTL I18 pada umumnya tunduk pada "
+"`Project Team Guide <https://docs.openstack.org/project-team-guide/ptl."
+"html>` __. Bab ini menjelaskan tugas-tugas untuk PTL dan memberi beberapa "
+"petunjuk bermanfaat. Jika Anda ingin menjadi CEO PTL atau Anda yang baru "
+"dalam peran ini, bacalah dengan saksama. Untuk semua lainnya adalah bab ini "
+"informal."
+
+msgid ""
+"As of now, ATC of official translators are treated as extra ATCs as we have "
+"no way to collect statistics automatically now. The list of extra ATCs is "
+"maintained by the PTL and is usually updated short before the deadline of "
+"extra ATCs nomination in each release cycle. The deadline of extra ATCs "
+"nomination can be checked in the release schedule page at http://releases."
+"openstack.org/ (for example, http://releases.openstack.org/newton/schedule."
+"html)."
+msgstr ""
+"Sampai sekarang, ATC dari penerjemah resmi diperlakukan sebagai ATC ekstra "
+"karena kami tidak dapat mengumpulkan statistik secara otomatis sekarang. "
+"Daftar ATC ekstra dikelola oleh PTL dan biasanya diperbarui sebelum batas "
+"waktu nominasi ekstra ATC di setiap siklus rilis. Batas waktu nominasi "
+"ekstra ATC dapat diperiksa di halaman jadwal pelepasan di http://releases."
+"openstack.org/ (misalnya, http://releases.openstack.org/newton/schedule."
+"html)."
+
+msgid ""
+"As of now, similar as ATCs, there is no way to collect statistics "
+"automatically. The list of AUCs is calculated by the PTL and is usually "
+"updated by communication with UC."
+msgstr ""
+"Sampai sekarang, sama seperti ATC, tidak ada cara untuk mengumpulkan "
+"statistik secara otomatis. Daftar AUC dihitung oleh PTL dan biasanya "
+"diperbarui dengan komunikasi dengan UC."
+
+msgid ""
+"As with I18n Core Team, the same things apply here. Launchpad I18n Core Team "
+"focuses on determining the importance of a translation and/or I18n bug and "
+"triaging bug priorities. You can find the member list on `Launchpad I18n "
+"Core Member list <https://launchpad.net/~openstack-i18n-core>`__."
+msgstr ""
+"Seperti Tim Inti I18n, hal yang sama juga berlaku di sini. Tim Inti I18n "
+"Launchpad berfokus pada penentuan pentingnya bug terjemahan dan / atau bug "
+"dan prioritas bug triase. Anda dapat menemukan daftar anggota `Launchpad "
+"I18n Core Member list <https://launchpad.net/~openstack-i18n-core>`__."
+
+msgid ""
+"At the moment, the I18n PTL needs to maintain the ATC list of the I18n "
+"project manually around the end of each release cycle. This requires name "
+"and e-mail address of individual translators."
+msgstr ""
+"Saat ini, PTL I18n perlu mempertahankan daftar ATC dari proyek I18n secara "
+"manual di akhir setiap siklus rilis. Ini memerlukan nama dan alamat e-mail "
+"masing-masing penerjemah."
+
+msgid ""
+"At this stage, the master version on Zanata is still open for translations, "
+"but it is strongly suggested to work on a stable version."
+msgstr ""
+"Pada tahap ini, versi master pada Zanata masih terbuka untuk terjemahan, "
+"namun sangat disarankan untuk mengerjakan versi stabil."
+
+msgid ""
+"Before use sphinx-build to build HTML file, we need to feed the translations "
+"from the single PO file into those small PO files. For example:"
+msgstr ""
+"Sebelum menggunakan sphinx-build untuk membangun file HTML, kita perlu "
+"memberi makan terjemahan dari file PO tunggal ke dalam file PO kecil "
+"tersebut. Sebagai contoh:"
+
+msgid ""
+"Before you start contribution, you'll have to `agree to the contributor "
+"license agreement <http://docs.openstack.org/infra/manual/developers."
+"html#account-setup>`_. (You can preview the full text of `the OpenStack "
+"Individual Contributor License Agreement <https://review.opendev.org/static/"
+"cla.html>`_ first if you want.)"
+msgstr ""
+"Sebelum Anda mulai berkontribusi, Anda harus melakukannya `agree to the "
+"contributor license agreement <http://docs.openstack.org/infra/manual/"
+"developers.html#account-setup>`_. (Anda dapat mempratinjau teks lengkap dari "
+"`the OpenStack Individual Contributor License Agreement <https://review."
+"opendev.org/static/cla.html>`_ pertama jika kamu mau.)"
+
+msgid "Bugs in a source project"
+msgstr "Bug dalam sebuah proyek sumber"
+
+msgid "Bugs in tool chains"
+msgstr "Bug dalam rantai alat"
+
+msgid ""
+"Bugs in translated documents or dashboard are mainly classified into the "
+"following areas:"
+msgstr ""
+"Bug dalam dokumen terjemahan atau dasbor terutama diklasifikasikan ke dalam "
+"bidang berikut:"
+
+msgid ""
+"Bugs to report English strings are hard to translate in your language. For "
+"example, translators cannot control the order of words, or a plural form is "
+"not supported. Usually, this kind of bugs are in the original strings and "
+"cannot be fixed just by changing the strings and more work is needed."
+msgstr ""
+"Bug untuk melaporkan string bahasa Inggris sulit diterjemahkan dalam bahasa "
+"Anda. Misalnya, penerjemah tidak dapat mengendalikan urutan kata, atau "
+"bentuk jamak tidak didukung. Biasanya, jenis bug ini ada di string asli dan "
+"tidak bisa diperbaiki hanya dengan mengganti string dan masih banyak "
+"pekerjaan yang dibutuhkan."
+
+msgid "Building"
+msgstr "Building"
+
+msgid "Building: Build HTML from RST documents and the translated results."
+msgstr "Building: build HTML dari dokumen RST dan hasil terjemahannya."
+
+msgid ""
+"Builds release notes in both the original (English) version and translated "
+"versions (if any)."
+msgstr ""
+"Bangunkan catatan rilis baik versi asli (bahasa Inggris) dan versi "
+"terjemahannya (jika ada)."
+
+msgid "CLI (command line interface)"
+msgstr "CLI (command line interface)"
+
+msgid ""
+"Carries out the second Zuul job (Syncing into repos) by executing "
+"`propose_translation_update.sh <https://opendev.org/openstack/openstack-zuul-"
+"jobs/src/roles/prepare-zanata-client/files/propose_translation_update.sh>`__"
+msgstr ""
+"Melakukan tugas Zuul kedua (Menyinkronkan ke dalam repo) dengan menjalankan "
+"`propose_translation_update.sh <https://opendev.org/openstack/openstack-zuul-"
+"jobs/src/roles/prepare-zanata-client/files/propose_translation_update.sh>`__"
+
+msgid ""
+"Check from time to time open reviews on `I18n repo <https://review.opendev."
+"org/#/q/project:openstack/i18n+status:open>`__. In addition to the PTL, the "
+"core reviewers are responsible."
+msgstr ""
+"Periksa dari waktu ke waktu buka ulasan pada `I18n repo <https://review."
+"opendev.org/#/q/project:openstack/i18n+status:open>`__. Selain PTL, pengulas "
+"inti bertanggung jawab."
+
+msgid "Checking Translation Imports"
+msgstr "Memeriksa Impor Terjemahan"
+
+msgid "Click \"...\" on the right, and select \"Request to join team\"."
+msgstr "Klik \"...\" di sebelah kanan, dan pilih \"Request to join team\"."
+
+msgid "Click \"Languages\" on the top, all languages will be listed."
+msgstr "Klik \"Languages\" di bagian atas, semua bahasa akan terdaftar."
+
+msgid "Click \"Log in\" button."
+msgstr "Klik tombol \"Log in\"."
+
+msgid ""
+"Click the language you want to translate, the language page will be shown."
+msgstr ""
+"Klik bahasa yang ingin Anda terjemahkan, halaman bahasa akan ditampilkan."
+
+msgid ""
+"Common code used by **propose_translation_update.sh** and "
+"**upstream_translation_update.sh**"
+msgstr ""
+"Kode umum yang digunakan oleh ** propose_translation_update.sh ** dan "
+"**upstream_translation_update.sh **"
+
+msgid "Contents"
+msgstr "Isi"
+
+msgid "Contributing"
+msgstr "Berkontribusi"
+
+msgid "Convention"
+msgstr "Konvensi"
+
+msgid "Coordinator"
+msgstr "Koordinator"
+
+msgid "Create  file ``babel-djangojs.cfg`` with the following content:"
+msgstr "Buat file ``babel-djangojs.cfg`` dengan konten berikut:"
+
+msgid "Create file ``babel-django.cfg`` with the following content:"
+msgstr "Buat file ``babel-django.cfg`` dengan konten berikut:"
+
+msgid "Creating a Language Team"
+msgstr "Membuat Tim Bahasa"
+
+msgid "Cross Project Liaisons"
+msgstr "Cross Project Liaisons"
+
+msgid ""
+"Currently, we do not support translations for OpenStack developer documents: "
+"http://docs.openstack.org/<project>"
+msgstr ""
+"Saat ini, kami tidak mendukung terjemahan untuk dokumen pengembang "
+"OpenStack: \n"
+"http://docs.openstack.org/<project>"
+
+msgid "Daily Work"
+msgstr "Pekerjaan sehari-hari"
+
+msgid ""
+"Discuss and review glossary changes in your language team before you propose "
+"changes to the Gerrit review system. Reviewers in the Gerrit review system "
+"cannot understand your language in most cases, so they can only check syntax "
+"or conventions."
+msgstr ""
+"Diskusikan dan tinjau glosarium perubahan di tim bahasa Anda sebelum Anda "
+"mengajukan perubahan pada sistem ulasan Gerrit. Peninjau dalam sistem "
+"tinjauan Gerrit tidak dapat memahami bahasa Anda dalam banyak kasus, jadi "
+"mereka hanya bisa memeriksa sintaks atau konvensi."
+
+msgid "Django Projects"
+msgstr "Proyek Django"
+
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+msgid "Documentation projects"
+msgstr "Proyek dokumentasi"
+
+msgid "Downloading"
+msgstr "Downloading"
+
+msgid "Downloading: Download the translated results by automation scripts."
+msgstr "Downloading: download hasil terjemahan dengan skrip otomasi."
+
+msgid ""
+"During translating a dashboard related project, you may want to know \"where "
+"is this string used in the dashboard?\"."
+msgstr ""
+"Selama menerjemahkan proyek terkait dasbor, Anda mungkin ingin tahu \"where "
+"is this string used in the dashboard?\"."
+
+msgid ""
+"Each cycle has a date set for Extra-ATCs, e.g. `Queens Cycle <https://"
+"releases.openstack.org/queens/schedule.html#q-extra-atcs>`__. Maintenance on "
+"I18n site is described in chapter :ref:`project-maintenance`. All the "
+"OpenStack members can propose extra ATCs, but I18n PTL is highly encouraged "
+"to report the list in each cycle. Here are some useful proposals as example:"
+msgstr ""
+"Setiap siklus memiliki tanggal untuk Ekstra-ATC, misal. `Queens Cycle "
+"<https://releases.openstack.org/queens/schedule.html#q-extra-atcs>` __. "
+"Pemeliharaan di situs I18n dijelaskan dalam bab :ref: `project-maintenance`. "
+"Semua anggota OpenStack dapat mengajukan ATC ekstra, tapi di PTL sangat "
+"dianjurkan untuk melaporkan daftar di setiap siklus. Berikut adalah beberapa "
+"usulan yang berguna sebagai contoh:"
+
+msgid ""
+"Each language team has useful information to help our translation efforts. "
+"It is worth visited. You can find your language team at https://wiki."
+"openstack.org/wiki/I18nTeam/team."
+msgstr ""
+"Setiap tim bahasa memiliki informasi yang berguna untuk membantu usaha "
+"terjemahan kami. Perlu dikunjungi. Anda dapat menemukan tim bahasa Anda di "
+"https://wiki.openstack.org/wiki/I18nTeam/team."
+
+msgid ""
+"Each language team may have useful information to help our translation "
+"efforts including translation guidelines, priorities, communication tools "
+"and so on. It is worth visited. You can find your language team page at "
+"https://wiki.openstack.org/wiki/I18nTeam/team. If you have questions, you "
+"can contact your coordinators."
+msgstr ""
+"Setiap tim bahasa mungkin memiliki informasi yang berguna untuk membantu "
+"upaya terjemahan kita termasuk pedoman penerjemahan, prioritas, alat "
+"komunikasi dan sebagainya. Perlu dikunjungi. Anda dapat menemukan halaman "
+"tim bahasa Anda di https://wiki.openstack.org/wiki/I18nTeam/team. Jika ada "
+"pertanyaan, Anda bisa menghubungi koordinator Anda."
+
+msgid "Edit file ``gerrit/projects.yaml`` and add the ``translate`` option:"
+msgstr "Edit file  ``gerrit/projects.yaml`` dan tambahkan opsi ``translate``:"
+
+msgid ""
+"Edit file ``zuul.d/projects.yaml`` and add a template which defines "
+"translation jobs to your repository:"
+msgstr ""
+"Edit file ``zuul.d/projects.yaml`` dan tambahkan templat yang mendefinisikan "
+"pekerjaan terjemahan ke repositori Anda:"
+
+msgid "Election"
+msgstr "Pemilu"
+
+msgid "Enabling Translation Infrastructure"
+msgstr "Mengaktifkan Infrastruktur Terjemahan"
+
+msgid ""
+"Every day, new translations get imported into the repositories using a "
+"proposal job. These need to have a review on whether the bot worked "
+"properly. You can see all open reviews in `Gerrit <https://review.opendev."
+"org/#/q/status:open+topic:zanata/translations,n,z>`_. The subject of these "
+"patches is always \"Imported Translations from Zanata\"."
+msgstr ""
+"Setiap hari, terjemahan baru diimpor ke repositori menggunakan pekerjaan "
+"proposal. Ini perlu ditinjau apakah bot berfungsi dengan baik. Anda dapat "
+"melihat semua ulasan terbuka di `Gerrit <https://review.opendev.org/#/q/"
+"status:open+topic:zanata/translations,n,z>`_. Subjek dari tambalan ini "
+"selalu \"Imported Translations from Zanata\"."
+
+msgid ""
+"Every even week: `07:00 UTC, Thursday <https://www.timeanddate.com/"
+"worldclock/fixedtime.html?hour=07&min=00&sec=0>`_"
+msgstr ""
+"Setiap minggu genap:`07:00 UTC, Thursday <https://www.timeanddate.com/"
+"worldclock/fixedtime.html?hour=07&min=00&sec=0>`_"
+
+msgid ""
+"Every odd week: `16:00 UTC, Thursday <https://www.timeanddate.com/worldclock/"
+"fixedtime.html?hour=16&min=00&sec=0>`_"
+msgstr ""
+"Setiap minggu ganjil: `16:00 UTC, Thursday <https://www.timeanddate.com/"
+"worldclock/fixedtime.html?hour=16&min=00&sec=0>`_"
+
+msgid ""
+"Everybody can propose agenda topics on `I18nTeamMeeting Wiki Page <https://"
+"wiki.openstack.org/wiki/Meetings/I18nTeamMeeting#Agenda_for_next_meeting>`_. "
+"If there are no topics proposed, the meeting might be canceled for that week."
+msgstr ""
+"Semua orang dapat mengusulkan topik agenda `I18nTeamMeeting Wiki Page "
+"<https://wiki.openstack.org/wiki/Meetings/"
+"I18nTeamMeeting#Agenda_for_next_meeting>`_. Jika tidak ada topik yang "
+"diusulkan, rapat mungkin dibatalkan untuk minggu itu."
+
+msgid "Everyone in the OpenStack community is glad to help you."
+msgstr "Semua orang di komunitas OpenStack dengan senang hati membantu Anda."
+
+msgid "Extra-ATCs Deadline"
+msgstr "Tenggat waktu ekstra-ATC"
+
+msgid "Extract Zanata user information"
+msgstr "Ekstrak informasi pengguna Zanata"
+
+msgid "Extracting"
+msgstr "Extracting"
+
+msgid "FAQ: I cannot find my name in Stackalytics"
+msgstr "FAQ: Saya tidak dapat menemukan nama saya di Stackalytics"
+
+msgid ""
+"Finally, propose a patch including all of the above changes to the Gerrit "
+"review system."
+msgstr ""
+"Akhirnya, ajukan sebuah patch termasuk semua perubahan di atas ke sistem "
+"ulasan Gerrit."
+
+msgid "Finally, we could generate HTML files by"
+msgstr "Akhirnya, kita bisa menghasilkan file HTML "
+
+msgid ""
+"Finding and reporting translation bugs is an important step towards better "
+"quality of translations in OpenStack."
+msgstr ""
+"Menemukan dan melaporkan bug terjemahan merupakan langkah penting menuju "
+"kualitas terjemahan yang lebih baik di OpenStack."
+
+msgid ""
+"First enable translation in your project, depending on whether it is a "
+"Django project, a Python project or a ReactJS project."
+msgstr ""
+"Pertama aktifkan terjemahan dalam proyek Anda, tergantung pada apakah itu "
+"proyek Django, proyek Python atau proyek ReactJS."
+
+msgid "Fixing I18n bugs"
+msgstr "Memperbaiki bug I18n"
+
+msgid ""
+"Follow :doc:`the step <official_translator>` to register an ID in the "
+"translation website."
+msgstr ""
+"Ikuti :doc:`the step <official_translator>` untuk mendaftarkan ID di situs "
+"terjemahan."
+
+msgid ""
+"For a document in a stable branch, such as the installation guide for "
+"Liberty, you need to update the file ``doc-tools-check-languages.conf`` in "
+"the target stable branch directly."
+msgstr ""
+"Untuk dokumen di branch stabil, seperti panduan instalasi untuk Liberty, "
+"Anda perlu memperbarui file ``doc-tools-check-languages.conf`` di branch "
+"stabil target secara langsung."
+
+msgid "For documentations, URL and a detail place would be great."
+msgstr "Untuk dokumentasi, URL dan tempat detail akan menjadi hebat."
+
+msgid ""
+"For each Python project in OpenStack, there is an automation job daily to "
+"download the translations in PO file to the \"locale\" folder under the "
+"source folder of each project. See :doc:`here <infra>`. It will generate a "
+"review request in Gerrit. After :doc:`review <reviewing-translation-"
+"import>`, the translation in PO file will be merged."
+msgstr ""
+"Untuk setiap proyek Python di OpenStack, ada pekerjaan otomasi setiap hari "
+"untuk mendownload terjemahan file PO ke folder \"locale\" di bawah folder "
+"sumber setiap proyek. Lihat :doc:`here <infra>`. Ini akan menghasilkan "
+"permintaan review di Gerrit. Setelah :doc: `review <reviewing-translation-"
+"import>`, terjemahan dalam file PO akan digabungkan."
+
+msgid ""
+"For each Python project in OpenStack, there is an automation job to extract "
+"the messages , generate PO template and upload to Zanata, which is triggered "
+"by the \"commit\" event. See :doc:`here <infra>`."
+msgstr ""
+"Untuk setiap proyek Python di OpenStack, ada pekerjaan otomasi untuk "
+"mengekstrak pesan, menghasilkan template PO dan mengunggah ke Zanata, yang "
+"dipicu oleh \"commit\" event. Lihat :doc:`here <infra>`."
+
+msgid "For example, in case of nova,"
+msgstr "Misalnya, dalam kasus nova,"
+
+msgid ""
+"For most of the Python projects, the preferred tools for I18N are gettext "
+"and babel. The gettext module provides internationalization (I18N) and "
+"localization (L10N) services for your Python modules and applications. Babel "
+"are a collection of tools for internationalizing Python applications."
+msgstr ""
+"Untuk sebagian besar proyek Python, alat yang disukai untuk I18N adalah "
+"gettext dan babel. Modul gettext menyediakan layanan internasionalisasi "
+"(I18N) dan lokalisasi (L10N) untuk modul dan aplikasi Python Anda. Babel "
+"adalah kumpulan alat untuk menginternasionalisasi aplikasi Python."
+
+msgid "For the dashboard, panel or form name."
+msgstr "Untuk dasbor, panel atau nama form."
+
+msgid ""
+"For translation of strings in Python files, only a few changes are needed "
+"inside a project."
+msgstr ""
+"Untuk terjemahan string dalam file Python, hanya sedikit perubahan yang "
+"diperlukan di dalam sebuah proyek."
+
+msgid "Foundation member validation note"
+msgstr "Catatan validasi anggota Foundation"
+
+msgid ""
+"Foundation membership was validated by calling a REST API in https://"
+"openstackid-resources.openstack.org"
+msgstr ""
+"Keanggotaan Foundation divalidasi dengan memanggil REST API di https://"
+"openstackid-resources.openstack.org"
+
+msgid "Getting in touch"
+msgstr "Menghubungi"
+
+msgid "Glossary Management"
+msgstr "Glosarium Manajemen"
+
+msgid "Glossary of your language"
+msgstr "Glosarium bahasa Anda"
+
+msgid "Go to `Zanata server <https://translate.openstack.org/>`_"
+msgstr "Pergi ke `Zanata server <https://translate.openstack.org/>`_"
+
+msgid ""
+"Go to the :doc:`translation tools <tools>` page to understand the tools and "
+"scripts which support our translation platform."
+msgstr ""
+"Buka halaman :doc:`translation tools <tools>` untuk memahami alat dan skrip "
+"yang mendukung platform terjemahan kami."
+
+msgid "Handling documentation projects"
+msgstr "Menangani proyek dokumentasi"
+
+msgid "Handling horizon projects"
+msgstr "Menangani proyek horizon"
+
+msgid "Handling python projects"
+msgstr "Penanganan proyek python"
+
+msgid "Handling translation bugs"
+msgstr "Menangani bug terjemahan"
+
+msgid "Handy links (always sort of on the agenda)"
+msgstr "Tautan tersedia (selalu masuk dalam agenda)"
+
+msgid "Heleno Jimenez de la Cruz (id: heleno_jimenez) - Spanish (Mexico)"
+msgstr "Heleno Jimenez de la Cruz (id: heleno_jimenez) - Spanish (Mexico)"
+
+msgid "Here is the check list for such case:"
+msgstr "Berikut adalah daftar periksa untuk kasus tersebut:"
+
+msgid ""
+"Horizon and Horizon plugins are the main targets which affect StringFreezes. "
+"Note that StringFreezes are applied to ``cycle-with-milestone`` release "
+"model."
+msgstr ""
+"Plugin Horizon dan Horizon adalah target utama yang memengaruhi "
+"StringFreezes. Perhatikan bahwa StringFreezes diterapkan pada model rilis "
+"``cycle-with-milestone``."
+
+msgid "How are translations handled?"
+msgstr "Bagaimana terjemahan ditangani?"
+
+msgid "How can I report a bug?"
+msgstr "Bagaimana saya bisa melaporkan bug?"
+
+msgid "How to check translations"
+msgstr "Bagaimana cara memeriksa terjemahan"
+
+msgid "I18n Core Team"
+msgstr "Tim Inti I18n"
+
+msgid "I18n IRC Team Meeting"
+msgstr "Pertemuan Tim IRC I18n"
+
+msgid "I18n Mailing List Management"
+msgstr "Manajemen Daftar Mailing I18n"
+
+msgid "I18n PTL Guide"
+msgstr "I18n PTL Guide"
+
+msgid ""
+"I18n PTL updates the list using Zanata API and translator list. Detail "
+"statistics data is available :ref:`below <atc-stats>`."
+msgstr ""
+"I18n PTL memperbarui daftar menggunakan daftar Zanata API dan penerjemah. "
+"Data statistik detil tersedia :ref:`below <atc-stats>`."
+
+msgid ""
+"I18n blueprints are listed also on `Launchpad <https://blueprints.launchpad."
+"net/openstack-i18n>`__. In normal case a blueprint has an assignee and "
+"describes a larger course of a process."
+msgstr ""
+"Cetak biru I18n juga terdaftar di `Launchpad <https://blueprints.launchpad."
+"net/openstack-i18n>` __. Dalam kasus normal, cetak biru memiliki penerima "
+"tugas dan menjelaskan proses yang lebih besar."
+
+msgid ""
+"I18n team helps release activities on other projects if the projects have "
+"cross-project liaison on I18n team and upon request."
+msgstr ""
+"Tim I18n membantu melepaskan kegiatan pada proyek lain jika proyek tersebut "
+"memiliki hubungan lintas proyek pada tim I18n dan berdasarkan permintaan."
+
+msgid "I18n team meeting"
+msgstr "Pertemuan tim I18n"
+
+msgid ""
+"I18n team participates in cross project liaisons in Oslo, Release "
+"Management, Documentation and Infrastructure. Many other teams are liaisons "
+"in I18n. Visit the `Cross Project Liaisons Wiki Page <https://wiki.openstack."
+"org/wiki/CrossProjectLiaisons>`__ and designate a person for the I18n team. "
+"Note that such liaison roles do not have to be I18n PTL. Active I18n cores "
+"are highly encouraged."
+msgstr ""
+"Tim I18 mengikuti partisipasi lintas proyek di Oslo, Release Management, "
+"Documentation and Infrastructure. Banyak tim lainnya adalah penghubung di "
+"I18n. Kunjungi halaman `Cross Project Liaisons Wiki Page <https://wiki."
+"openstack.org/wiki/CrossProjectLiaisons>` __ dan tentukan seseorang untuk "
+"tim I18n. Perhatikan bahwa peran penghubung semacam itu tidak harus "
+"dilakukan di PTL. Inti I18n aktif sangat dianjurkan."
+
+msgid ""
+"I18n team sets target projects to be translated and prioritizes during "
+"around the Forum (renamed from the Design Summit). Current translation plan "
+"and priority are available on `translation dashboard <https://translate."
+"openstack.org/>`_."
+msgstr ""
+"Tim I18n menetapkan target proyek untuk diterjemahkan dan diprioritaskan "
+"selama di seputar Forum (berganti nama dari Design Summit). Rencana dan "
+"prioritas terjemahan saat ini tersedia di `translation dashboard <https://"
+"translate.openstack.org/>` _."
+
+msgid "IRC meeting commands"
+msgstr "Perintah pertemuan IRC"
+
+msgid "IRC web client"
+msgstr "Klien web IRC"
+
+msgid ""
+"If a bug reports translation errors of a certain language, it could be "
+"called **translation bug**. The translation bug should be fixed in the "
+"translation tool."
+msgstr ""
+"Jika bug melaporkan kesalahan terjemahan dari bahasa tertentu, bisa jadi "
+"disebut **translation bug **. Bug terjemahan harus diperbaiki dalam alat "
+"terjemahan."
+
+msgid ""
+"If a reported bug turns out to be bugs in a source project, You could help"
+msgstr ""
+"Jika bug yang dilaporkan ternyata menjadi bug dalam proyek sumber, Anda bisa "
+"membantu"
+
+msgid ""
+"If the repository is a GUI project, use the ``translation-jobs-master-"
+"stable`` template. Otherwise use the ``translation-jobs-master-only`` "
+"template."
+msgstr ""
+"Jika repositori adalah proyek GUI, gunakan templat ``translation-jobs-master-"
+"stable``. Jika tidak, gunakan template ``translation-jobs-master-only``."
+
+msgid ""
+"If there is a translation bug on a stable version in Zanata, it is highly "
+"recommended to fix the same translation bug on the corresponding string in "
+"the master version."
+msgstr ""
+"Jika ada bug terjemahan pada versi stabil di Zanata, sangat disarankan untuk "
+"memperbaiki bug terjemahan yang sama pada string yang sesuai di versi master."
+
+msgid "If you are a speaker of this language, you could help"
+msgstr "Jika Anda seorang pembicara bahasa ini, Anda bisa membantu"
+
+msgid "If you are a translator of this language, you could help"
+msgstr "Jika Anda penerjemah bahasa ini, Anda bisa membantu"
+
+msgid ""
+"If you are a translator or a person involved in I18n effort, you may be "
+"interested in triaging and fixing translation bugs :)"
+msgstr ""
+"Jika Anda seorang penerjemah atau orang yang terlibat dalam usaha I18n, Anda "
+"mungkin tertarik untuk triaging (merender) dan memperbaiki bug terjemahan :)"
+
+msgid ""
+"If you are lucky to use a same name for launchpad and Zanata IDs, you do not "
+"need to do the above. Stackalytics will find your statistics automatically."
+msgstr ""
+"Jika Anda beruntung menggunakan nama yang sama untuk launchpad dan Zanata "
+"ID, Anda tidak perlu melakukan hal di atas. Stackalytics akan menemukan "
+"statistik Anda secara otomatis."
+
+msgid "If you are reviewing these translations, keep the following in mind:"
+msgstr "Jika Anda meninjau terjemahan ini, ingatlah hal-hal berikut ini:"
+
+msgid ""
+"If you are unfamiliar with translations in OpenStack, read the `Project Team "
+"Guide on Internationalization and Translation <http://docs.openstack.org/"
+"project-team-guide/i18n.html>`_ first."
+msgstr ""
+"Jika Anda tidak terbiasa dengan terjemahan di OpenStack, baca `Project Team "
+"Guide on Internationalization and Translation <http://docs.openstack.org/"
+"project-team-guide/i18n.html>` _ terlebih dahulu."
+
+msgid ""
+"If you cannot find your local team, you can request to :ref:`create a local "
+"translation team <creating-lang-team>`."
+msgstr ""
+"Jika Anda tidak dapat menemukan tim lokal Anda, Anda dapat meminta :ref:"
+"`create a local translation team <creating-lang-team>`."
+
+msgid ""
+"If you don't have OpenStack ID, `register one <https://www.openstack.org/"
+"join/register>`_."
+msgstr ""
+"Jika tidak punya OpenStack ID, `register one <https://www.openstack.org/join/"
+"register>`_."
+
+msgid ""
+"If you encounter more complicated things including translation tool chains "
+"or something others, the most recommended way is to ask it in the I18n "
+"mailing list ``openstack-i18n@lists.openstack.org``. Of course, you can file "
+"a bug against a related project directly."
+msgstr ""
+"Jika Anda menemukan hal-hal yang lebih rumit termasuk rantai alat terjemahan "
+"atau sesuatu yang lain, cara yang paling disarankan adalah menanyainya di "
+"milis I18n ``openstack-i18n @ lists.openstack.org``. Tentu saja, Anda bisa "
+"mengajukan bug terhadap proyek terkait secara langsung."
+
+msgid "If you have a machine running DevStack, there are two ways."
+msgstr "Jika Anda memiliki mesin yang menjalankan DevStack, ada dua cara."
+
+msgid ""
+"If you have a question, feel free to ask it to the PTL or the i18n list."
+msgstr "Jika ada pertanyaan, silakan tanyakan ke daftar PTL atau i18n."
+
+msgid "If you have any, don't hesitate to share it :)"
+msgstr "Jika sudah memilikinya, jangan ragu untuk membagikannya :)"
+
+msgid ""
+"If you notice bad translations in a language, file a bug (see :ref:"
+"`reporting_translation_bugs`). Then the translation team will update the "
+"translation. We recommend to still import this change as is and import later "
+"the fix to not block other valid translations to merge."
+msgstr ""
+"Jika Anda melihat terjemahan buruk dalam bahasa, ajukan bug (lihat :ref: "
+"`reporting_translation_bugs`). Kemudian tim penerjemahan akan memperbarui "
+"terjemahannya. Sebaiknya masih mengimpor perubahan ini sebagaimana adanya "
+"dan impor nanti perbaiki agar tidak menghalangi terjemahan lain yang valid "
+"untuk digabungkan."
+
+msgid ""
+"If you visit `openstack-i18n launchpad <https://bugs.launchpad.net/openstack-"
+"i18n>`_, we can find **Report a bug** at the right-upper corner. Click to "
+"report a bug."
+msgstr ""
+"Jika Anda mengunjungi `launchstack-i18n launchpad <https://bugs.launchpad."
+"net/openstack-i18n>` _, kita dapat menemukan **Report a bug** di sudut kanan "
+"atas. Klik untuk melaporkan bug."
+
+msgid ""
+"If you want to become a translator only, simply speaking, you need to `join "
+"The OpenStack Foundation <https://www.openstack.org/join/>`_ (select "
+"\"Foundation Member\") and `sign the appropriate Individual Contributor "
+"License Agreement <http://docs.openstack.org/infra/manual/developers."
+"html#sign-the-appropriate-individual-contributor-license-agreement>`_."
+msgstr ""
+"Jika Anda ingin menjadi penerjemah saja, cukup berbicara, Anda perlu `join "
+"The OpenStack Foundation <https://www.openstack.org/join/>`_ (select "
+"\"Foundation Member\") and `sign the appropriate Individual Contributor "
+"License Agreement <http://docs.openstack.org/infra/manual/developers."
+"html#sign-the-appropriate-individual-contributor-license-agreement>`_."
+
+msgid ""
+"If you want to create a language team and you want to be a coordinator, "
+"please follow below steps:"
+msgstr ""
+"Jika Anda ingin membuat tim bahasa dan Anda ingin menjadi koordinator, ikuti "
+"langkah-langkah di bawah ini:"
+
+msgid ""
+"If you want to help fix I18n bugs of OpenStack, we can find them in the "
+"following places:"
+msgstr ""
+"Jika Anda ingin memperbaiki bug I18n dari OpenStack, kami dapat menemukannya "
+"di tempat-tempat berikut:"
+
+msgid ""
+"If you want to help to report bugs, add more wishlists, and improve them, "
+"you can report and fix bugs at `openstack-i18n in Launchpad <https://bugs."
+"launchpad.net/openstack-i18n>`_. Mark bugs with a tag \"tools\"."
+msgstr ""
+"Jika Anda ingin melaporkan bug, menambahkan lebih banyak daftar keinginan, "
+"dan memperbaikinya, Anda dapat melaporkan dan memperbaiki bug di `openstack-"
+"i18n in Launchpad <https://bugs.launchpad.net/openstack-i18n>` _. Tandai bug "
+"dengan tag \"tools\"."
+
+msgid ""
+"If your Zanata ID is different from your launchpad ID, Stackalytics will not "
+"find your translation statistics. You need to let Stackalytics know your ID "
+"mappings. To do this, you need to add your user data into ``detault_data."
+"json`` in `the Stackalytics repository <https://github.com/stackalytics/"
+"default_data/>`__."
+msgstr ""
+"Jika ID Zanata Anda berbeda dari ID launchpad Anda, Stackalytics tidak akan "
+"menemukan statistik terjemahan Anda. Anda harus memberi tahu Stackalytics "
+"tentang pemetaan ID Anda. Untuk melakukan ini, Anda perlu menambahkan data "
+"pengguna Anda ``detault_data.json`` in `the Stackalytics repository <https://"
+"github.com/stackalytics/default_data/>`__."
+
+msgid ""
+"If your Zanata ID is not included in the translator list, you need to update "
+"the list to include your Zanata ID. Contact your language coordinator, email "
+"the i18n mailing list. You can also submit a patch to update the list by "
+"yourself (For detail, see :ref:`sync-translator-list`)."
+msgstr ""
+"Jika ID Zanata Anda tidak termasuk dalam daftar penerjemah, Anda perlu "
+"memperbarui daftar untuk memasukkan ID Zanata Anda. Hubungi koordinator "
+"bahasa Anda, kirimkan email ke milis i18n. Anda juga bisa mengirimkan patch "
+"untuk memperbarui daftar sendiri (Untuk detailnya, lihat :ref:`sync-"
+"translator-list`)."
+
+msgid ""
+"If your repository declares multiple python modules in ``packages`` entry in "
+"``[files]`` section in ``setup.cfg``, the infra scripts run translation jobs "
+"for each python module."
+msgstr ""
+"Jika repositori Anda mendeklarasikan beberapa modul python di entri "
+"``packages`` di bagian ``[files] `` di ``setup.cfg``, skrip infra "
+"menjalankan tugas terjemahan untuk setiap modul python."
+
+msgid ""
+"If your repository structure is more complex, for example, with multiple "
+"python modules, or with both Django and Python projects, see :ref:"
+"`translation-setup-complex-case` as well."
+msgstr ""
+"Jika struktur repositori Anda lebih kompleks, misalnya, dengan beberapa "
+"modul python, atau dengan proyek Django dan Python, lihat  :ref:`translation-"
+"setup-complex-case` as well."
+
+msgid ""
+"If your request is pending for long days, you can reach to your language "
+"coordinator through Zanata, to `I18n people <https://wiki.openstack.org/wiki/"
+"I18nTeam#People>`_ through `IRC <https://docs.openstack.org/i18n/latest/"
+"#openstack-i18n-team>`_ , or to `I18n PTL <https://governance.openstack.org/"
+"tc/reference/projects/i18n.html>`_ directly."
+msgstr ""
+"Jika permintaan Anda menunggu beberapa hari, Anda dapat menghubungi "
+"koordinator bahasa Anda melalui Zanata, kepada `I18n people <https://wiki."
+"openstack.org/wiki/I18nTeam#People>`_ melalui `IRC <https://docs.openstack."
+"org/i18n/latest/#openstack-i18n-team>`_ , atau kepada `I18n PTL <https://"
+"governance.openstack.org/tc/reference/projects/i18n.html>`_ secara langsung."
+
+msgid ""
+"Implements the first Zuul job (Syncing to Zanata) by executing "
+"`upstream_translation_update.sh <https://opendev.org/openstack/openstack-"
+"zuul-jobs/src/roles/prepare-zanata-client/files/upstream_translation_update."
+"sh>`__"
+msgstr ""
+"Menerapkan tugas Zuul pertama (Menyinkronkan ke Zanata) dengan menjalankan "
+"`upstream_translation_update.sh <https://opendev.org/openstack/openstack-"
+"zuul-jobs/src/roles/prepare-zanata-client/files/upstream_translation_update."
+"sh>`__"
+
+msgid "Import latest translations"
+msgstr "Impor terjemahan terbaru"
+
+msgid ""
+"In Zanata, some project translations such as `OpenStack User Survey <https://"
+"translate.openstack.org/iteration/view/openstack-user-survey/openstack-user-"
+"survey/documents>`_ and `OpenStack whitepapers <https://translate.openstack."
+"org/version-group/view/Whitepaper-dashboard-translation/projects>`_ are not "
+"in `official projects <https://governance.openstack.org/tc/reference/"
+"projects/index.html>`_ but strongly encouraged to translate for better "
+"OpenStack world, and translators who translated those projects are "
+"recognized as AUCs."
+msgstr ""
+"Di Zanata, beberapa terjemahan proyek seperti `OpenStack User Survey "
+"<https://translate.openstack.org/iteration/view/openstack-user-survey/"
+"openstack-user-survey/documents>`_ dan `OpenStack whitepapers <https://"
+"translate.openstack.org/version-group/view/Whitepaper-dashboard-translation/"
+"projects>`_ tidak masuk `official projects <https://governance.openstack.org/"
+"tc/reference/projects/index.html>`_ tetapi sangat dianjurkan untuk "
+"menerjemahkan untuk dunia OpenStack yang lebih baik, dan penerjemah yang "
+"menerjemahkan proyek-proyek tersebut diakui sebagai AUC."
+
+msgid ""
+"In addition to IRC, I18n team communication takes place via a mailing list. "
+"The `Mailing List Administrator <http://lists.openstack.org/cgi-bin/mailman/"
+"admin/openstack-i18n>`__ is watching new subscribers, not allowed posts, and "
+"all the other things that come with the operation of such a list."
+msgstr ""
+"Selain IRC, komunikasi tim I18n berlangsung via milis. `Mailing List "
+"Administrator <http://lists.openstack.org/cgi-bin/mailman/admin/openstack-"
+"i18n>` __ mengamati pelanggan baru, tidak mengizinkan posting, dan semua hal "
+"lain yang menyertai pengoperasian daftar seperti itu"
+
+msgid "In most cases, a source project would be one of:"
+msgstr ""
+"Dalam kebanyakan kasus, sebuah proyek sumber akan menjadi salah satu dari:"
+
+msgid ""
+"In such cases you can declare how each python module should be handled "
+"manually in ``setup.cfg``. Python modules declared in ``django_modules`` and "
+"``python_modules`` are treated as Django project and Python project "
+"respectively. If ``django_modules`` or ``python_modules`` entry does not "
+"exist, it is interpreted that there are no such modules."
+msgstr ""
+"Dalam kasus seperti itu, Anda dapat mendeklarasikan bagaimana setiap modul "
+"python harus ditangani secara manual di ``setup.cfg``. Modul Python yang "
+"dideklarasikan dalam ``django_modules`` dan ``python_modules`` diperlakukan "
+"sebagai proyek Django dan proyek Python masing-masing. Jika entri "
+"``django_modules`` atau ``python_modules`` tidak ada, itu diartikan bahwa "
+"tidak ada modul seperti itu."
+
+msgid ""
+"In the beginning of each cycle it is a good idea to think about goals for "
+"the project in the next months and establish a translation plan. Goals are "
+"maybe still left from the last cycle and are to be reviewed. New goals are "
+"to be defined on `PTG <https://www.openstack.org/ptg/>`__ or an equivalent "
+"event. Orient the team to the `OpenStack-wide goals <https://governance."
+"openstack.org/tc/goals/>`__."
+msgstr ""
+"Pada awal setiap siklus, ada baiknya memikirkan tentang tujuan proyek pada "
+"bulan berikutnya dan membuat rencana penerjemahan. Sasaran mungkin masih "
+"tertinggal dari siklus terakhir dan harus ditinjau ulang. Tujuan baru harus "
+"didefinisikan pada `PTG <https://www.openstack.org/ptg/>` __ atau acara yang "
+"setara. Arahkan tim ke tujuan `OpenStack-wide <https://governance.openstack."
+"org/tc/goals/>` __."
+
+msgid ""
+"Input a short introduction of yourself, including your name, as \"Additional "
+"information\", then click \"Send message\"."
+msgstr ""
+"Masukan pengenalan singkat tentang diri Anda, termasuk nama Anda, sebagai "
+"\"Additional information\", lalu klik \"Send message\"."
+
+msgid ""
+"Internationalization (I18n) is essential to make OpenStack ubiquitous. The "
+"mission of OpenStack I18n team is to make OpenStack ubiquitously accessible "
+"to people of all language backgrounds, by enhancing OpenStack software "
+"internationalization, providing translation, maintaining a translation "
+"platform and managing translation process for better quality of outcomes."
+msgstr ""
+"Internasionalisasi (I18n) sangat penting untuk membuat OpenStack di mana-"
+"mana. Misi tim OpenStack I18n adalah membuat OpenStack diakses dengan mudah "
+"oleh orang-orang dari semua latar belakang bahasa, dengan meningkatkan "
+"internasionalisasi perangkat lunak OpenStack, memberikan terjemahan, "
+"memelihara platform terjemahan dan mengelola proses terjemahan untuk "
+"kualitas hasil yang lebih baik."
+
+msgid "Is your Zanata ID different from your launchpad ID?"
+msgstr "Apakah ID Zanata Anda berbeda dengan ID launchpad Anda?"
+
+msgid ""
+"Is your Zanata ID included in the `translator list <https://opendev.org/"
+"openstack/i18n/src/tools/zanata/translation_team.yaml>`__?"
+msgstr ""
+"Apakah ID Zanata Anda termasuk dalam `translator list <https://opendev.org/"
+"openstack/i18n/src/tools/zanata/translation_team.yaml>`__?"
+
+msgid ""
+"It is a good idea to organize glossaries and initiate related discussion."
+msgstr ""
+"Ini adalah ide bagus untuk mengatur glosarium dan memulai diskusi terkait."
+
+msgid "It is highly recommended to include the following information."
+msgstr "Sangat disarankan untuk menyertakan informasi berikut."
+
+msgid ""
+"It is important to check your translations by using a real situation where "
+"your translation is used. This page describes how to check your translations."
+msgstr ""
+"Penting untuk memeriksa terjemahan Anda dengan menggunakan situasi nyata di "
+"mana terjemahan Anda digunakan. Halaman ini menjelaskan cara memeriksa "
+"terjemahan Anda."
+
+msgid ""
+"It is important to understand how an original string is used in the source "
+"code with contextual knowledge for better quality of translations. "
+"Unfortunately Zanata translation interface does not show where a target "
+"string is used in a source code correspondingly."
+msgstr ""
+"Penting untuk memahami bagaimana string asli digunakan dalam kode sumber "
+"dengan pengetahuan kontekstual untuk kualitas terjemahan yang lebih baik. "
+"Sayangnya antarmuka terjemahan Zanata tidak menunjukkan di mana string "
+"target digunakan dalam kode sumber."
+
+msgid "Jori Kuusinen (id: nuyori) - Finnish (Finland)"
+msgstr "Jori Kuusinen (id: nuyori) - Finnish (Finland)"
+
+msgid ""
+"Keep in mind to work with your `local user group <https://groups.openstack."
+"org/>`_ and the `OpenStack Ambassadors <https://groups.openstack.org/"
+"ambassador-program>`_ to raise awareness and gather members :)"
+msgstr ""
+"Perlu diingat untuk bekerja dengan Anda `local user group <https://groups."
+"openstack.org/>`_ dan `OpenStack Ambassadors <https://groups.openstack.org/"
+"ambassador-program>`_ untuk meningkatkan kesadaran dan mengumpulkan "
+"anggota :)"
+
+msgid "Language Team"
+msgstr "Tim Bahasa"
+
+msgid "Language translation team"
+msgstr "Tim terjemahan bahasa"
+
+msgid "Launchpad I18n Core Team"
+msgstr "Tim Inti I18n Launchpad"
+
+msgid "Launchpad bugs & blueprints"
+msgstr "Cetak biru & bug Launchpad"
+
+msgid "Launchpad bugs, Gerrit reviews, and broken Zuul jobs"
+msgstr "Bug launchpad, ulasan Gerrit, dan pekerjaan Zuul yang rusak"
+
+msgid "Liberty cycle"
+msgstr "Siklus Liberty"
+
+msgid ""
+"Mailing List: `openstack-i18n@lists.openstack.org <http://lists.openstack."
+"org/cgi-bin/mailman/listinfo/openstack-i18n>`_"
+msgstr ""
+"Mailing List: `openstack-i18n@lists.openstack.org <http://lists.openstack."
+"org/cgi-bin/mailman/listinfo/openstack-i18n>`_"
+
+msgid ""
+"Make sure to include a short introduction because it is the only information "
+"which language coordinators can use to determine your join request is valid "
+"or not."
+msgstr ""
+"Pastikan untuk menyertakan pengantar singkat karena ini adalah satu-satunya "
+"informasi yang dapat digunakan oleh koordinator bahasa untuk menentukan "
+"permintaan bergabung Anda valid atau tidak."
+
+msgid "Managing a Language Team"
+msgstr "Mengelola Tim Bahasa"
+
+msgid "Masaki Matsushita (id: mmasaki) - Japanese"
+msgstr "Masaki Matsushita (id: mmasaki) - Japanese"
+
+msgid "Master glossary"
+msgstr "Glosarium master"
+
+msgid "Meeting agenda"
+msgstr "Agenda pertemuan"
+
+msgid "Member (translator)"
+msgstr "Anggota (penerjemah)"
+
+msgid ""
+"Missed translations. Missed translations might be caused by not extracting "
+"English strings from the source project, or be caused by real missed "
+"translations. If the translations are missed in two different languages, "
+"they are probably bugs in the source project. Or else, they are real missed "
+"translations."
+msgstr ""
+"Terjemahan tak terjawab. Terjemahan tak terjawab mungkin disebabkan oleh "
+"tidak mengekstrak string bahasa Inggris dari proyek sumber, atau disebabkan "
+"oleh terjemahan yang tidak terjawab. Jika terjemahannya tidak terjawab dalam "
+"dua bahasa yang berbeda, kemungkinan terjemahan tersebut merupakan bug dalam "
+"proyek sumber. Atau, terjemahan yang sebenarnya tidak terjawab."
+
+msgid "Mitaka cycle"
+msgstr "Siklus Mitaka"
+
+msgid "Monitoring translation jobs status"
+msgstr "Memantau status pekerjaan terjemahan"
+
+msgid "More complex cases"
+msgstr "Kasus yang lebih kompleks"
+
+msgid ""
+"More convenient way is to use **tox** like ``tox -e venv -- python <script-"
+"name>``."
+msgstr ""
+"Cara yang lebih mudah adalah dengan menggunakan **tox** like ``tox -e venv "
+"-- python <script-name>``."
+
+msgid ""
+"More information on mailing list: http://lists.openstack.org/pipermail/"
+"openstack-i18n/2015-July/001220.html"
+msgstr ""
+"Informasi lebih lanjut tentang milis: http://lists.openstack.org/pipermail/"
+"openstack-i18n/2015-July/001220.html"
+
+msgid ""
+"More information: https://releases.openstack.org/ocata/schedule.html & "
+"https://ttx.re/splitting-out-design-summit.html"
+msgstr ""
+"Informasi lebih lanjut: https://releases.openstack.org/ocata/schedule.html & "
+"https://ttx.re/splitting-out-design-summit.html"
+
+msgid ""
+"Most teams have single approval for translation imports instead of two core "
+"reviewers."
+msgstr ""
+"Sebagian besar tim memiliki persetujuan tunggal untuk impor terjemahan, "
+"bukan dua pengulas inti."
+
+msgid "Newton cycle"
+msgstr "Siklus Newton"
+
+msgid "No detail data."
+msgstr "Tidak ada data detail."
+
+msgid ""
+"Nobody should change translation files (the `.po` files in the `locale` "
+"directory) besides the bot. The next automatic import will override any "
+"change again. Therefore, leave a ``-1`` vote on any such changes and point "
+"developer to this document."
+msgstr ""
+"Tidak ada yang harus mengubah file terjemahan (file `.po` di direktori "
+"`locale`) selain bot. Impor otomatis berikutnya akan menggantikan perubahan "
+"apapun lagi. Oleh karena itu, tinggalkan vote ``-1` pada perubahan dan titik "
+"pengembang pada dokumen ini."
+
+msgid "Not a Foundation member"
+msgstr "Bukan anggota Foundation"
+
+msgid ""
+"Note that code or documentation contributors to openstack/i18n repository "
+"are acknowledged as ATC automatically in the same way as for most OpenStack "
+"projects."
+msgstr ""
+"Perhatikan bahwa kode atau kontributor dokumentasi untuk repositori "
+"openstack / i18n diakui sebagai ATC secara otomatis dengan cara yang sama "
+"seperti untuk sebagian besar proyek OpenStack."
+
+msgid ""
+"Note that not all translation changes are the target for translation jobs. "
+"The goal is to have consistent translated programs, UIs, and documentation. "
+"There is not much sense if only a few lines are translated. The team has "
+"decided that files that have at least 75 percent of messages translated will "
+"be in the git repositories."
+msgstr ""
+"Perhatikan bahwa tidak semua perubahan terjemahan menjadi target pekerjaan "
+"penerjemahan. Tujuannya adalah untuk memiliki program terjemahan, UI, dan "
+"dokumentasi yang konsisten. Tidak banyak masuk akal jika hanya beberapa "
+"baris yang diterjemahkan. Tim telah memutuskan bahwa file yang memiliki "
+"setidaknya 75 persen pesan yang diterjemahkan akan berada di git repository."
+
+msgid ""
+"Note that the infra scripts run the same test, so adding it to your project "
+"is optional."
+msgstr ""
+"Perhatikan bahwa skrip infra menjalankan pengujian yang sama, jadi "
+"menambahkannya ke proyek Anda bersifat opsional."
+
+msgid ""
+"Note that the scripts in the tasks use `zanata-cli <http://docs.zanata.org/"
+"en/release/client/>`__ to pull and push translation content."
+msgstr ""
+"Perhatikan bahwa skrip dalam tugas menggunakan `zanata-cli <http://docs."
+"zanata.org/en/release/client/>` __ untuk menarik dan mendorong konten "
+"terjemahan."
+
+msgid ""
+"Note that this is just enabling translations, the actual translations are "
+"done by the i18n team, and they have to prioritize which projects to "
+"translate."
+msgstr ""
+"Perhatikan bahwa ini hanya mengaktifkan terjemahan, terjemahan sebenarnya "
+"dilakukan oleh tim i18n, dan mereka harus memprioritaskan proyek mana yang "
+"akan diterjemahkan."
+
+msgid ""
+"Note that you need to log into Zanata to see your activity in the above "
+"pages."
+msgstr ""
+"Perhatikan bahwa Anda perlu masuk ke Zanata untuk melihat aktivitas Anda di "
+"halaman di atas."
+
+msgid "Note: the period is relative short because of release cycle change"
+msgstr ""
+"Catatan: jangka waktunya relatif pendek karena perubahan siklus pelepasan"
+
+msgid ""
+"Now you can start your translation. You can actually become an OpenStack "
+"official translator by contributing translations. You can find :doc:`various "
+"ways of contributions <contributing>`."
+msgstr ""
+"Sekarang Anda bisa memulai terjemahan Anda. Anda sebenarnya bisa menjadi "
+"penerjemah resmi OpenStack dengan menyumbangkan terjemahan. Kamu dapat "
+"menemukan :doc:`various ways of contributions <contributing>`."
+
+msgid "Ocata cycle"
+msgstr "Siklus Ocata"
+
+msgid ""
+"Odd and even values are calculated based on `ISO week numbers <https://www."
+"timeanddate.com/date/weeknumber.html>`_."
+msgstr ""
+"Nomor ganjil dan genap dihitung berdasarkan `ISO week numbers  <https://www."
+"timeanddate.com/date/weeknumber.html>`_."
+
+msgid ""
+"Of course there is no need that team coordinators do all items. You can "
+"collaborate your team members and share ideas."
+msgstr ""
+"Tentu tidak perlu koordinator tim melakukan semua barang. Anda dapat "
+"berkolaborasi dengan anggota tim Anda dan berbagi gagasan."
+
+msgid "Official OpenStack translator"
+msgstr "Penerjemah resmi OpenStack"
+
+msgid ""
+"On the other hand, translating stable version as upstream contribution is "
+"not encouraged after the translated strings are packaged with releases. The "
+"stable version will be closed earlier than or around EOL."
+msgstr ""
+"Di sisi lain, menerjemahkan versi stabil sebagai kontribusi hulu tidak "
+"dianjurkan setelah string terjemahan dikemas dengan rilis. Versi stabil akan "
+"ditutup lebih awal dari atau sekitar EOL."
+
+msgid ""
+"Once a stable version corresponding to a project stable branch is created on "
+"Zanata, the infra script will push strings automatically."
+msgstr ""
+"Setelah versi stabil yang sesuai dengan cabang stabil proyek dibuat di "
+"Zanata, skrip infra akan mendorong string secara otomatis."
+
+msgid ""
+"Once you find location(s) of a string you would like to check, you can check "
+"more detail context where the string is used by looking at the code in the "
+"git repository. Zanata project and git repository are one-to-one "
+"relationship. If Zanata project name is ``<Zanata-project-name>``, the "
+"corresponding git repository location is ``https://opendev.org/openstack/"
+"<Zanata-project-name>/``. For example, if you are translating ``horizon``, "
+"the git repository is found at https://opendev.org/openstack/horizon/."
+msgstr ""
+"Setelah Anda menemukan lokasi string yang ingin Anda periksa, Anda dapat "
+"memeriksa konteks lebih detail di mana string digunakan dengan melihat kode "
+"di repositori git. Proyek Zanata dan repositori git adalah hubungan satu-ke-"
+"satu. Jika nama proyek Zanata adalah ``<Zanata-project-name> ``, lokasi "
+"repositori git yang sesuai adalah ``https://opendev.org/openstack/<Zanata-"
+"project-name>/``. Misalnya, jika Anda menerjemahkan ``horizon``, repositori "
+"git ditemukan di https://opendev.org/openstack/horizon/."
+
+msgid ""
+"Once you have your project set up, you might want to enable translations. "
+"For this, you first need to mark all strings so that they can be localized, "
+"for Python projects use `oslo.i18n`_ for this and follow the `guidelines`_."
+msgstr ""
+"Setelah Anda menyiapkan proyek, Anda mungkin ingin mengaktifkan terjemahan. "
+"Untuk ini, Anda harus terlebih dahulu menandai semua string agar bisa "
+"dilokalkan, untuk proyek Python gunakan `oslo.i18n`_ untuk ini dan ikut "
+"i`guidelines`_."
+
+msgid ""
+"Once your change is merged, the updated glossary will be uploaded to Zanata. "
+"Note that the upload to Zanata is a **manual** process now. Only the Zanata "
+"administrator (usually the I18n PTL and some limited folks) can upload a "
+"glossary. If your glossary is not uploaded, contact the I18n team or the PTL "
+"via the i18n mailing list."
+msgstr ""
+"Begitu perubahan Anda digabungkan, glosarium yang diperbarui akan diunggah "
+"ke Zanata. Perhatikan bahwa upload ke Zanata adalah proses **manual ** "
+"sekarang. Hanya administrator Zanata (biasanya PTL I18n dan beberapa orang "
+"terbatas) yang bisa mengunggah glossary. Jika glosarium Anda tidak diunggah, "
+"hubungi tim I18n atau PTL melalui milis i18n."
+
+msgid ""
+"One of main goals in I18n team is to incorporate translated strings into a "
+"new release so that more global users experience translated version of "
+"OpenStack. To accomplish this goal, some of team activities need to be "
+"aligned with a release schedule."
+msgstr ""
+"Salah satu tujuan utama tim I18n adalah menggabungkan string yang "
+"diterjemahkan ke dalam rilis baru sehingga pengguna global lebih banyak "
+"mengalami versi terjemahan OpenStack. Untuk mencapai tujuan ini, beberapa "
+"kegiatan tim perlu disesuaikan dengan jadwal rilis."
+
+msgid ""
+"One way is to update the horizon code only. The following shell script "
+"fetches the latest horizon code, compiles translation message catalogs and "
+"reloads the apache httpd server. Replace ``$BRANCH`` with an appropriate "
+"branch such as ``master``, ``stable/newton`` or ``stable/mitaka``."
+msgstr ""
+"Salah satunya adalah dengan mengupdate kode horizon saja. Skrip shell "
+"berikut mengambil kode horizon terbaru, menyusun katalog pesan terjemahan "
+"dan memuat kembali server httpd apache. Ganti ``$BRANCH`` dengan cabang yang "
+"sesuai seperti ``master``, ``stable/newton`` atau ``stable/mitaka``."
+
+msgid ""
+"Open a POT file you find and search a string you are interested in. Then you "
+"can find an entry like:"
+msgstr ""
+"Buka file POT yang Anda temukan dan cari string yang Anda minati. Kemudian "
+"Anda dapat menemukan entri seperti:"
+
+msgid "Open discussion"
+msgstr "Diskusi terbuka"
+
+msgid "Open reviews I18n repository"
+msgstr "Ulasan Terbuka repositori I18n"
+
+msgid "OpenStack Dashboard"
+msgstr "Dasbor OpenStack"
+
+msgid "OpenStack I18n Guide"
+msgstr "Panduan OpenStack I18n"
+
+msgid "OpenStack I18n team"
+msgstr "Tim OpenStack I18n"
+
+msgid ""
+"OpenStack I18n team is a team to coordinate all language translations and "
+"cooperation with the I18n team and the development teams. I18n team usually "
+"has a working plan."
+msgstr ""
+"Tim OpenStack I18n adalah tim untuk mengkoordinasikan semua terjemahan "
+"bahasa dan kerja sama dengan tim I18n dan tim pengembangan. Tim I18n "
+"biasanya memiliki rencana kerja."
+
+msgid ""
+"OpenStack I18n team uses `Launchpad <https://bugs.launchpad.net/openstack-"
+"i18n>`_ for the bug tracking."
+msgstr ""
+"Tim OpenStack I18n menggunakan `Launchpad <https://bugs.launchpad.net/"
+"openstack-i18n>` _ untuk pelacakan bug."
+
+msgid "OpenStack I18n team: See :ref:`label-i18n-team-contact`"
+msgstr "Tim OpenStack I18n: Lihat :ref:`label-i18n-team-contact`"
+
+msgid "OpenStack developer documentation"
+msgstr "Dokumentasi pengembang OpenStack"
+
+msgid ""
+"OpenStack documents are using RST format. The steps to translate RST "
+"documents include:"
+msgstr ""
+"Dokumen OpenStack menggunakan format RST. Langkah-langkah untuk "
+"menerjemahkan dokumen RST meliputi:"
+
+msgid ""
+"OpenStack uses Zanata as a translation platform. While most operations "
+"around the translation platform are automated, if you want to communicate "
+"with the translation platform manually, you can use `Zanata CLI <http://docs."
+"zanata.org/en/release/client/>`__."
+msgstr ""
+"OpenStack menggunakan Zanata sebagai platform terjemahan. Sementara sebagian "
+"besar operasi di sekitar platform terjemahan otomatis, jika Anda ingin "
+"berkomunikasi dengan platform terjemahan secara manual, Anda dapat "
+"menggunakan `Zanata CLI <http://docs.zanata.org/en/release/client/>` __."
+
+msgid "Or, more convenient way would be:"
+msgstr "Atau, cara yang lebih mudah adalah:"
+
+msgid "Original string or message is not correct."
+msgstr "String atau pesan asli tidak benar"
+
+msgid "Other projects supported with translation jobs"
+msgstr "Proyek lain yang didukung dengan pekerjaan terjemahan"
+
+msgid ""
+"POT files are no longer stored in git repositories. The change was made at "
+"the beginning of Newton development cycle [#]_."
+msgstr ""
+"File POT tidak lagi disimpan di repositori git. Perubahan itu dilakukan pada "
+"awal siklus pengembangan Newton [#] _."
+
+msgid ""
+"PTLs are elected by ATCs for each cycle. Please read `Governance Election "
+"Page <https://governance.openstack.org/election/>`__. Time and rules are "
+"announced there and on `OpenStack Discuss Mailing List <http://lists."
+"openstack.org/cgi-bin/mailman/listinfo/openstack-discuss>`__. Your candidacy "
+"is highly encouraged to share via there and on `OpenStack I18n Mailing List "
+"<http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-i18n>`__ . "
+"The proposal must be submitted to election repository (e.g. `https://review."
+"opendev.org/#/c/425775/ <https://review.opendev.org/#/c/425775/>`__). For "
+"this reason it is a good idea to subscribe to these mailing lists before :-)"
+msgstr ""
+"PTL dipilih oleh ATC untuk setiap siklus. Silakan baca `Governance Election "
+"Page <https://governance.openstack.org/election/>`__. Waktu dan peraturan "
+"diumumkan di sana dan di `OpenStack Discuss Mailing List <http://lists."
+"openstack.org/cgi-bin/mailman/listinfo/openstack-discuss>`__. Pencalonan "
+"Anda sangat dianjurkan untuk dibagikan melalui sana dan seterusnya "
+"`OpenStack I18n Mailing List <http://lists.openstack.org/cgi-bin/mailman/"
+"listinfo/openstack-i18n>`__ . Proposal harus diserahkan ke repositori "
+"pemilihan (e.g. `https://review.opendev.org/#/c/425775/ <https://review."
+"opendev.org/#/c/425775/>`__). Untuk alasan ini, sebaiknya berlangganan ke "
+"milis ini sebelumnya :-)"
+
+msgid ""
+"Patch on governance repository: https://review.opendev.org/#/c/213989/ "
+"(`diff <https://opendev.org/openstack/governance/commit/"
+"a229d38469c5135af496d3c739695acbe1146a76>`__)"
+msgstr ""
+"Patch pada governance repository: https://review.opendev.org/#/c/213989/ "
+"(`diff <https://opendev.org/openstack/governance/commit/"
+"a229d38469c5135af496d3c739695acbe1146a76>`__)"
+
+msgid ""
+"Patch on governance repository: https://review.opendev.org/#/c/281145/ "
+"(`diff <https://opendev.org/openstack/governance/"
+"commit/8b3c83f28102c7b47688fbaca970a52a76eb6de5>`__)"
+msgstr ""
+"Patch pada governance repository: https://review.opendev.org/#/c/281145/ "
+"(`diff <https://opendev.org/openstack/governance/"
+"commit/8b3c83f28102c7b47688fbaca970a52a76eb6de5>`__)"
+
+msgid ""
+"Patch on governance repository: https://review.opendev.org/#/c/351480/ "
+"(`diff <https://opendev.org/openstack/governance/"
+"commit/3aa6cb3e52944f8bed250e0714c7373605b2ebc5>`__)"
+msgstr ""
+"Patch pada governance repository: https://review.opendev.org/#/c/351480/ "
+"(`diff <https://opendev.org/openstack/governance/"
+"commit/3aa6cb3e52944f8bed250e0714c7373605b2ebc5>`__)"
+
+msgid ""
+"Patch on governance repository: https://review.opendev.org/#/c/417569/ "
+"(`diff <https://opendev.org/openstack/governance/commit/"
+"bd71cefff1302ed04fc21faac5cf967365a7d7c7>`__)"
+msgstr ""
+"Patch pada governance repository: https://review.opendev.org/#/c/417569/ "
+"(`diff <https://opendev.org/openstack/governance/commit/"
+"bd71cefff1302ed04fc21faac5cf967365a7d7c7>`__)"
+
+msgid "Patch on governance repository: https://review.opendev.org/483452"
+msgstr "Patch pada governance repository: https://review.opendev.org/483452"
+
+msgid "Patch on governance repository: https://review.opendev.org/532982"
+msgstr "Patch pada governance repository: https://review.opendev.org/532982"
+
+msgid "Patch on governance repository: https://review.opendev.org/586751"
+msgstr "Patch pada governance repository: https://review.opendev.org/586751"
+
+msgid "Patch on governance repository: https://review.opendev.org/633398"
+msgstr "Patch pada governance repository: https://review.opendev.org/633398"
+
+msgid "Period: 2015-08-01 to 2016-01-30"
+msgstr "Periode: 2015-08-01 sampai 2016-01-30"
+
+msgid "Period: 2016-02-01 to 2016-07-31"
+msgstr "Periode: 2016-02-01 sampai 2016-07-31"
+
+msgid "Period: 2016-08-01 to 2017-01-05"
+msgstr "Periode: 2016-08-01 sampai 2017-01-05"
+
+msgid "Period: 2017-01-06 to 2017-06-30"
+msgstr "Periode: 2017-01-06 sampai 2017-06-30"
+
+msgid "Period: 2017-07-01 to 2018-01-10"
+msgstr "Periode: 2017-07-01 to 2018-01-10"
+
+msgid "Period: 2018-01-11 to 2018-07-09"
+msgstr "Periode: 2018-01-11 sampai 2018-07-09"
+
+msgid "Period: 2018-07-10 to 2019-01-25"
+msgstr "Period: 2018-07-10 to 2019-01-25"
+
+msgid "Period: from 2014-11-01 to 2015-07-16"
+msgstr "Periode: dari 2014-11-01 sampai 2015-07-16"
+
+msgid "Pike cycle"
+msgstr "Siklus Pike"
+
+msgid "Previous meetings"
+msgstr "Pertemuan sebelumnya"
+
+msgid ""
+"Previously ``setup.cfg`` needed sections ``compile_catalog``, "
+"``update_catalog``, and ``extract_messages`` and a ``babel.cfg`` file. These "
+"are not needed anymore and can be removed."
+msgstr ""
+"Sebelumnya ``setup.cfg`` membutuhkan bagian ``compile_catalog``, "
+"``update_catalog``, dan ``extract_messages`` serta satu a``babel.cfg`` "
+"file.   Ini tidak diperlukan lagi dan dapat dihapus."
+
+msgid "Project Goals And Translation Plan"
+msgstr "Project Goals And Translation Plan"
+
+msgid "Project configuration"
+msgstr "Konfigurasi proyek"
+
+msgid "Project maintenance"
+msgstr "Pemeliharaan proyek"
+
+msgid "Projects affecting StringFreezes"
+msgstr "Proyek yang mempengaruhi StringFreezes"
+
+msgid ""
+"Propose a change to the ``openstack/project-config`` repository including "
+"the following changes:"
+msgstr ""
+"Usulkan perubahan ke repositori  ``openstack/project-config``  termasuk "
+"perubahan berikut:"
+
+msgid "Pull translations from Zanata"
+msgstr "Tarik terjemahan dari Zanata"
+
+msgid "Python Projects"
+msgstr "Proyek Python"
+
+msgid "Python script to setup projects for Zanata"
+msgstr "Script Python untuk setup proyek untuk Zanata"
+
+msgid "Queens cycle"
+msgstr "Siklus Queens"
+
+msgid "ReactJS Projects"
+msgstr "Proyek ReactJS"
+
+msgid "Register a user ID in Zanata"
+msgstr "Daftarkan ID pengguna di Zanata"
+
+msgid "Release Management"
+msgstr "Manajemen rilis"
+
+msgid ""
+"Replace ``$BRANCH`` with an appropriate branch such as ``master``, ``stable/"
+"newton`` or ``stable/mitaka``."
+msgstr ""
+"Ganti ``$BRANCH`` dengan cabang yang sesuai seperti ``master``, ``stable/"
+"newton`` atau ``stable/mitaka``."
+
+msgid ""
+"Replace ``${MODULENAME}`` with the name of your main module like ``nova`` or "
+"``novaclient``. Your i18n setup file, normally named ``_i18n.py``, should "
+"use the name of your module as domain name:"
+msgstr ""
+"Ganti``${MODULENAME}`` dengan nama modul utama Anda seperti ``nova`` atau "
+"``novaclient``. File setup i18n Anda, biasanya bernama \"_i18n.py``, harus "
+"menggunakan nama modul Anda sebagai nama domain:"
+
+msgid "Reporting translation bugs"
+msgstr "Pelaporan bug terjemahan"
+
+msgid "Request to join a translation team"
+msgstr "Meminta untuk bergabung dengan tim penerjemah"
+
+msgid "Retrieve translation statistics"
+msgstr "Ambil statistik penerjemahan"
+
+msgid "Review of action items from the previous meeting"
+msgstr "Tinjau kembali item tindakan dari pertemuan sebelumnya"
+
+msgid "Reviewer"
+msgstr "Reviewer"
+
+msgid "Reviewing"
+msgstr "Meninjau ulang"
+
+msgid "Reviewing translation imports"
+msgstr "Meninjau impor terjemahan"
+
+msgid "Rob Cresswell (id: robcresswell) - English (United Kingdom)"
+msgstr "Rob Cresswell (id: robcresswell) - English (United Kingdom)"
+
+msgid "Rocky cycle"
+msgstr "Rocky cycle"
+
+msgid "Roles in a Language Team"
+msgstr "Peran dalam Tim Bahasa"
+
+msgid "Running DevStack"
+msgstr "Menjalankan DevStack"
+
+msgid "Running OpenStack-Ansible"
+msgstr "Menjalankan OpenStack-Ansible"
+
+msgid ""
+"Schedules and rules for the team meeting are described in chapter :doc:"
+"`i18n_team_meeting` PTL is chairing the meeting or determines someone to "
+"takeover. He (the PTL) also has to check if the meeting time suits most "
+"people. Configuration of chair and time is done by `irc-meeting repo "
+"<https://opendev.org/opendev/irc-meetings>`__."
+msgstr ""
+"Jadwal dan aturan untuk rapat tim dijelaskan di bab :doc: "
+"`i18n_team_meeting` PTL memimpin rapat atau menentukan seseorang untuk "
+"diambil alih. Dia (PTL) juga harus memeriksa apakah waktu pertemuan cocok "
+"untuk kebanyakan orang. Konfigurasi kursi dan waktu dilakukan oleh `irc-"
+"meeting repo <https://opendev.org/opendev/irc-meetings>`__."
+
+msgid "Search in this guide"
+msgstr "Cari di buku petunjuk ini"
+
+msgid "Server projects"
+msgstr "Proyek server"
+
+msgid "Set up the project on the translation server."
+msgstr "Siapkan proyek di server terjemahan."
+
+msgid ""
+"Setting up a communication channel among team members is recommended. It "
+"encourage team communications to discuss various translation related topics."
+msgstr ""
+"Menyiapkan saluran komunikasi antar anggota tim dianjurkan. Ini mendorong "
+"komunikasi tim untuk membahas berbagai topik terkait terjemahan."
+
+msgid "Slicing"
+msgstr "Slicing"
+
+msgid "Slicing: generate PO templates from RST documents"
+msgstr "Slicing: buat template PO dari dokumen RST"
+
+msgid ""
+"Sphinx is a tool to translate RST source files to various output formats, "
+"including POT and HTML. You need to install Sphinx before you go to below "
+"steps. Almost all projects have ``test-requirements.txt`` in their "
+"repositories and you can check the required version of Sphinx by checking "
+"this file."
+msgstr ""
+"Sphinx adalah alat untuk menerjemahkan file sumber RST ke berbagai format "
+"output, termasuk POT dan HTML. Anda perlu menginstal Sphinx sebelum "
+"melangkah ke langkah-langkah di bawah ini. Hampir semua proyek memiliki ` "
+"test-requirements.txt`` di repositori mereka dan Anda dapat memeriksa versi "
+"Sphinx yang diperlukan dengan memeriksa file ini."
+
+msgid "Stackalytics"
+msgstr "Stackalytics"
+
+msgid ""
+"Statistics are available through: https://docs.google.com/spreadsheets/"
+"d/1YpDJU_uNA4I5fzFG69T6L9gpFsy5yNtA9a-lSxnqeAY/edit#gid=1366189722"
+msgstr ""
+"Statistik tersedia melalui: https://docs.google.com/spreadsheets/"
+"d/1YpDJU_uNA4I5fzFG69T6L9gpFsy5yNtA9a-lSxnqeAY/edit#gid=1366189722"
+
+msgid "Stein cycle"
+msgstr "Stein cycle"
+
+msgid "Steps to become a OpenStack translator"
+msgstr "Langkah menjadi penerjemah OpenStack"
+
+msgid "Sync the translator list with Zanata"
+msgstr "Sinkronkan daftar penerjemah dengan Zanata"
+
+msgid "TBD"
+msgstr "TBD"
+
+msgid "Team activities with release"
+msgstr "Kegiatan tim dengan pelepasan"
+
+msgid ""
+"The I18n project is an official OpenStack project, so official translators "
+"who have contributed translations to `official OpenStack projects <https://"
+"governance.openstack.org/tc/reference/projects/index.html>`_ in a specific "
+"period are regarded as \"ATC\" (Active Technical Contributor) and \"APC"
+"\" (Active Project Contributor) of the I18n project. APC can vote for the "
+"I18n PTL (Project Team Lead), and ATC can vote for OpenStack TC (Technical "
+"Committee). For more detail on ATC, APC and TC, see `OpenStack Technical "
+"Committee Charter <http://governance.openstack.org/reference/charter."
+"html>`__."
+msgstr ""
+"Proyek I18n adalah proyek OpenStack resmi, jadi penerjemah resmi yang telah "
+"berkontribusi terjemahan `official OpenStack projects <https://governance."
+"openstack.org/tc/reference/projects/index.html>`_ dalam periode tertentu "
+"dianggap sebagai \"ATC\" (Active Technical Contributor) and \"APC\" (Active "
+"Project Contributor) dari proyek I18n. APC dapat memilih I18n PTL (Project "
+"Team Lead), dan ATC dapat memilih OpenStack TC (Technical Committee). Untuk "
+"detail lebih lanjut tentang ATC, APC dan TC, lihat `OpenStack Technical "
+"Committee Charter <http://governance.openstack.org/reference/charter."
+"html>`__."
+
+msgid ""
+"The I18n project maintains a list of language teams and their members. The "
+"list is used by Stackalytics to gather translation statistics (See :ref:"
+"`stats-stackalytics` for detail). It is also used by the scripts below."
+msgstr ""
+"Proyek I18n mempertahankan daftar tim bahasa dan anggotanya. Daftar ini "
+"digunakan oleh Stackalytics untuk mengumpulkan statistik terjemahan (lihat :"
+"ref: `stats-stackalytics` untuk  detail). Hal ini juga digunakan oleh script "
+"di bawah ini."
+
+msgid ""
+"The I18n team holds weekly Team Meetings on Thursdays at alternating times "
+"in #openstack-meeting IRC channel. To download ICS file, please visit "
+"`eavesdrop <http://eavesdrop.openstack.org/#I18N_Team_Meeting>`_ page."
+msgstr ""
+"Tim I18n mengadakan Team Meeting mingguan pada hari Kamis pada waktu yang "
+"bergantian di saluran #openstack-meeting IRC.  Untuk mengunduh file ICS, "
+"silakan kunjungi halaman `eavesdrop <http://eavesdrop.openstack.org/"
+"#I18N_Team_Meeting>` _."
+
+msgid "The I18n team welcomes any kinds of contribution."
+msgstr "Tim I18n menyambut baik segala bentuk kontribusi."
+
+msgid ""
+"The OpenStack infra scripts executed by tasks currently download new files "
+"that are at least **75 percent** translated and if files grow over time but "
+"do not get new translations (or strings change too much), they will be "
+"removed again automatically from the project with a lower threshold of "
+"currently **40 percent**."
+msgstr ""
+"Skrip infra OpenStack yang dijalankan oleh tugas saat ini mengunduh file "
+"baru yang setidaknya ** 75 persen ** diterjemahkan dan jika file bertambah "
+"seiring waktu tetapi tidak mendapatkan terjemahan baru (atau string terlalu "
+"banyak berubah), mereka akan dihapus lagi secara otomatis dari proyek dengan "
+"ambang batas yang lebih rendah saat ini ** 40 persen **."
+
+msgid ""
+"The POT file is found under ``http://tarballs.openstack.org/translation-"
+"source/<Zanata-project-name>/<Zanata-project-version>/<path>/<resource>."
+"pot``, where:"
+msgstr ""
+"File POT ditemukan di bawah ``http://tarballs.openstack.org/translation-"
+"source/<Zanata-project-name>/<Zanata-project-version>/<path>/<resource>."
+"pot``, dimana:"
+
+msgid ""
+"The PTL is supported in the work by the `I18n core team <https://review."
+"opendev.org/#/admin/groups/1132,members>`__. He designates such kind of "
+"project team members and reviews the list from time to time. The work of the "
+"core team is described in the `Project Team Guide <https://docs.openstack."
+"org/project-team-guide/ptl.html>`__. Of course, core team member be can also "
+"proposed by the project team."
+msgstr ""
+"PTL didukung dalam pekerjaan oleh `I18n core team <https://review.opendev."
+"org/#/admin/groups/1132,members>`__. Dia menunjuk anggota tim proyek semacam "
+"itu dan meninjau daftar itu dari waktu ke waktu. Pekerjaan tim inti "
+"dijelaskan dalam `Project Team Guide <https://docs.openstack.org/project-"
+"team-guide/ptl.html>`__. Tentu saja, anggota tim inti juga dapat diusulkan "
+"oleh tim proyek."
+
+msgid ""
+"The `Zuul Builds Page <https://zuul.opendev.org/t/openstack/builds>`__ "
+"provides us a convenient way to check the translation job status."
+msgstr ""
+"The `Zuul Builds Page <https://zuul.opendev.org/t/openstack/builds>`__ "
+"memberi kami cara mudah untuk memeriksa status pekerjaan terjemahan."
+
+msgid "The above run the following internally:"
+msgstr "Jalankan perintah di atas berikut ini secara internal:"
+
+msgid ""
+"The bug triaging process are following the `general bug triaging process "
+"<https://wiki.openstack.org/wiki/BugTriage>`_. If you want to help bug "
+"triaging tasks, join the `OpenStack I18n bug team <https://launchpad.net/"
+"~openstack-i18n-bugs>`_ first."
+msgstr ""
+"Proses triaging bug mengikuti proses triaging bug umum <https://wiki."
+"openstack.org/wiki/BugTriage> `_. Jika Anda ingin membantu tugas bug "
+"triaging, bergabunglah dengan tim bug OpenStack I18n <https://launchpad.net/"
+"~openstack-i18n-bugs> `_ sebelumnya."
+
+msgid ""
+"The change is done by a bot. If anything looks wrong with it, you need to "
+"actively reach out to the :ref:`OpenStack I18n team <openstack_i18n_team>` "
+"and point the problem out."
+msgstr ""
+"Perubahan itu dilakukan oleh bot. Jika ada yang salah dengan itu, Anda perlu "
+"secara aktif menjangkau :ref: `OpenStack I18n team <openstack_i18n_team>` "
+"dan arahkan masalahnya."
+
+msgid "The convention for heading levels is as follows::"
+msgstr "Konvensi untuk tingkat pos adalah sebagai berikut ::"
+
+msgid ""
+"The easiest way would be to open http://tarballs.openstack.org/translation-"
+"source and then follow ``<Zanata-project-name>``, ``<Zanata-version>`` and "
+"corresponding links."
+msgstr ""
+"Cara termudah adalah membuka http://tarballs.openstack.org/translation-"
+"source lalu ikuti ``<Zanata-project-name>``, ``<Zanata-version>`` dan link "
+"yang sesuai."
+
+msgid "The filename of the list is ``tools/translation_team.yaml``."
+msgstr "Nama file dari daftar adalah ``tools/translation_team.yaml``."
+
+msgid ""
+"The following is an example of ``local.conf`` for Newton release which runs "
+"core components (keystone, nova, glance, neutron, cinder), horizon, swift "
+"and heat. The components which the main horizon code supports are chosen."
+msgstr ""
+"Berikut ini adalah contoh ``local.conf`` untuk pelepasan Newton yang "
+"menjalankan komponen inti (keystone, nova, glance, neutron, cinder), "
+"horizon, swift and heat. Komponen dipilih adalah komponen yang mendukung "
+"kode horizon utama."
+
+msgid ""
+"The following is an example of ``zanata.xml``. In most cases, what you need "
+"to edit are **project** and **project-version**."
+msgstr ""
+"Berikut ini adalah contoh ``zanata.xml``. Dalam kebanyakan kasus, yang perlu "
+"Anda edit adalah **project** dan **project-version**."
+
+msgid "The followings are useful links when writing documents in RST."
+msgstr "Berikut adalah link yang berguna saat menulis dokumen di RST."
+
+msgid ""
+"The goal of the review is that the structure of the change is fine, it's not "
+"that the strings are translated properly. The review of translated strings "
+"is done by teams using the translation server."
+msgstr ""
+"Tujuan dari tinjauan ini adalah bahwa struktur perubahan itu baik, bukan "
+"berarti senar diterjemahkan dengan benar. Peninjauan ulang string "
+"diterjemahkan dilakukan oleh tim yang menggunakan server terjemahan."
+
+msgid ""
+"The guide is written in reStructuredText (RST) markup syntax with Sphinx "
+"extensions. Most conventions follow `those of the openstack-manuals project "
+"<http://docs.openstack.org/contributor-guide/rst-conv.html>`__."
+msgstr ""
+"Panduan ini ditulis dalam sintaks markup reStructuredText (RST) dengan "
+"ekstensi Sphinx. Sebagian besar konvensi mengikuti `those of the openstack-"
+"manuals project <http://docs.openstack.org/contributor-guide/rst-conv.html>` "
+"__."
+
+msgid ""
+"The infra scripts consider a project as a Django project when your "
+"repository name ends with ``-dashboard``, ``-ui``, ``horizon`` or "
+"``django_openstack_auth``. Otherwise your project will be recognized as a "
+"Python project. Projects using ReactJS need special treatment."
+msgstr ""
+"Skrip infra menganggap proyek sebagai proyek Django ketika nama repositori "
+"Anda diakhiri dengan  ``-dashboard``, ``-ui``, ``horizon`` atau  "
+"``django_openstack_auth``.  Jika tidak, proyek Anda akan dikenali sebagai "
+"proyek Python. Proyek yang menggunakan ReactJS membutuhkan perlakuan khusus."
+
+msgid "The infra scripts for translation setup work as follows:"
+msgstr "Skrip infra untuk pengaturan terjemahan bekerja sebagai berikut:"
+
+msgid ""
+"The infra scripts recognize a project type based on its repository name. If "
+"the repository name ends with ``-dashboard``, ``-ui``, ``horizon`` or "
+"``django_openstack_auth``, it is treated as a Django project. Otherwise it "
+"is treated as a Python project."
+msgstr ""
+"Skrip infra mengenali jenis proyek berdasarkan nama repositori. Jika nama "
+"repositori diakhiri dengan ``-dashboard``, ``-ui``, ``horizon`` atau  "
+"``django_openstack_auth``, itu diperlakukan sebagai proyek Django. Jika "
+"tidak, ini akan diperlakukan sebagai proyek Python."
+
+msgid ""
+"The master glossary is an usual POT file. You can edit it in your favorite "
+"editor as usual."
+msgstr ""
+"Glosarium master adalah file POT yang biasa. Anda bisa mengeditnya di editor "
+"favorit Anda seperti biasa."
+
+msgid ""
+"The meeting is interconnected with the `Documentation Team Meeting <http://"
+"eavesdrop.openstack.org/#Documentation_Team_Meeting>`_. The first 30 minutes "
+"are reserved for I18n topics and the second part is for Documentation Team "
+"topics."
+msgstr ""
+"Pertemuan tersebut saling berhubungan dengan `Documentation Team Meeting "
+"<http://eavesdrop.openstack.org/#Documentation_Team_Meeting>`_. 30 menit "
+"pertama dicadangkan untuk topik I18n dan bagian kedua adalah untuk topik Tim "
+"Dokumentasi."
+
+msgid ""
+"The other way is to rerun DevStack. Ensure to include ``RECLONE=True`` in "
+"your ``local.conf`` before running ``stack.sh`` again so that DevStack "
+"retrieve the latest codes of horizon and other projects."
+msgstr ""
+"Cara lain adalah dengan memutarkan kembali DevStack. Pastikan untuk "
+"menyertakan ``RECLONE=True`` di `` local.conf`` Anda sebelum menjalankan "
+"``stack.sh`` lagi sehingga DevStack mengambil kode horizon dan proyek "
+"terbaru lainnya."
+
+msgid ""
+"The proposal bot also removes files, it removes files that have very few "
+"translations in them. Note that no translations will be lost, they are still "
+"in the translation server."
+msgstr ""
+"Bot proposal juga menghapus file, file tersebut menghapus file yang memiliki "
+"sedikit terjemahan di dalamnya. Perhatikan bahwa tidak ada terjemahan yang "
+"hilang, mereka masih berada di server terjemahan."
+
+msgid ""
+"The script ``tools/zanata/zanata_stats.py`` helps retrieving translation "
+"statistics from Zanata."
+msgstr ""
+"Script ``tools/zanata/zanata_stats.py`` membantu mengambil statistik "
+"terjemahan dari Zanata."
+
+msgid ""
+"The script ``tools/zanata/zanata_userinfo.py`` helps this. It generates a "
+"CSV file by reading a YAML file which contains the list of translators (e."
+"g., ``translation_team.yaml``) with user name and e-mail addresses by "
+"interacting with Zanata API."
+msgstr ""
+"Script ``tools/zanata/zanata_userinfo.py`` membantu ini. Ini menghasilkan "
+"file CSV dengan membaca file YAML yang berisi daftar penerjemah (misal, "
+"``translation_team.yaml``) dengan nama pengguna dan alamat e-mail dengan "
+"berinteraksi dengan Zanata API."
+
+msgid ""
+"The scripts below depend on several python modules. To install these "
+"dependencies, run ``pip install -e requirements.txt``."
+msgstr ""
+"Skrip di bawah ini bergantung pada beberapa modul python. Untuk menginstal "
+"dependensi ini, jalankan ``pip install -e requirements.txt``."
+
+msgid ""
+"The stable version is created from the master version on Zanata once RC1 is "
+"cut and a stable branch is created in a git repository."
+msgstr ""
+"Versi stabil dibuat dari versi master pada Zanata setelah RC1 dipotong dan "
+"cabang stabil dibuat di repositori git."
+
+msgid ""
+"The stable version is well reviewed, so it makes sense to merge translations "
+"into the master version on Zanata to avoid translating the same strings "
+"again."
+msgstr ""
+"Versi stabil ditinjau dengan baik, jadi masuk akal untuk menggabungkan "
+"terjemahan ke versi master di Zanata agar tidak menerjemahkan strings yang "
+"sama lagi."
+
+msgid ""
+"The statistics are calculated using `a Python script <https://opendev.org/"
+"openstack/i18n/src/tools/zanata/zanata_stats.py>`__ powered by `Zanata "
+"statistics API <http://zanata.org/zanata-platform/rest-api-docs/"
+"resource_StatisticsResource.html>`__ Translator list is maintained by "
+"`translation_team.yaml <https://opendev.org/openstack/i18n/src/tools/zanata/"
+"translation_team.yaml>`__ stored in `openstack/i18n git repository <https://"
+"opendev.org/openstack/i18n>`__."
+msgstr ""
+"Statistik dihitung menggunakan `a Python script <https://opendev.org/"
+"openstack/i18n/src/tools/zanata/zanata_stats.py>`__ dipersembahkan oleh "
+"`Zanata statistics API <http://zanata.org/zanata-platform/rest-api-docs/"
+"resource_StatisticsResource.html>`__ Daftar penerjemah dikelola oleh  "
+"`translation_team.yaml <https://opendev.org/openstack/i18n/src/tools/zanata/"
+"translation_team.yaml>`__ disimpan di `openstack/i18n git repository "
+"<https://opendev.org/openstack/i18n>`__."
+
+msgid "The terms in this page follow release schedule pages."
+msgstr "Istilah di halaman ini mengikuti halaman jadwal pelepasan."
+
+msgid ""
+"The translatable strings are extracted from a source project. So some i18n "
+"bugs might be caused by bugs in the original strings/source codes of a "
+"source project which contains these translatable strings. Those kind of bugs "
+"should be fixed in the source project."
+msgstr ""
+"String yang dapat diterjemahkan diekstraksi dari sebuah proyek sumber. Jadi "
+"beberapa bug i18 mungkin disebabkan oleh bug dalam string asli / kode sumber "
+"dari proyek sumber yang berisi string yang dapat diterjemahkan ini. Jenis "
+"bug tersebut harus diperbaiki dalam proyek sumber."
+
+msgid ""
+"The translated PO files will converted into JSON and placed into the ``./"
+"i18n/locales`` directory."
+msgstr ""
+"File PO yang diterjemahkan akan diubah menjadi JSON dan ditempatkan ke "
+"direktori ``./i18n/locales``."
+
+msgid ""
+"The translation plan is announced on `Zanata <https://translate.openstack."
+"org>`__ and contains the projects with the highest priority in translation. "
+"Usually these are all user-visible projects, like Horizon."
+msgstr ""
+"Rencana penerjemahan diumumkan di `Zanata <https://translate.openstack.org>` "
+"__ dan berisi proyek dengan prioritas tertinggi dalam terjemahan. Biasanya "
+"ini semua proyek yang terlihat pengguna, seperti Horizon."
+
+msgid ""
+"The translation team is translating stable branches only for GUI projects, "
+"so for horizon and its plugins."
+msgstr ""
+"Tim terjemahan menerjemahkan stable branches hanya untuk proyek GUI, jadi "
+"untuk horizon dan pluginnya."
+
+msgid ""
+"The work for PTL and Zanata administrator is described in chapter :doc:"
+"`release_management`. This covers also questions about string freezes and "
+"work with stable branches."
+msgstr ""
+"Pekerjaan untuk administrator PTL dan Zanata dijelaskan di bab :doc: "
+"`release_management`. Ini mencakup juga pertanyaan tentang string membeku "
+"dan bekerja dengan cabang yang stabil."
+
+msgid ""
+"Then, for every PO file, we should execute the following command to build "
+"into MO file:"
+msgstr ""
+"Kemudian, untuk setiap file PO, kita harus menjalankan perintah berikut "
+"untuk membangun file MO:"
+
+msgid ""
+"Then, your locale translation team is created successfully. You can enroll "
+"more people to join and start your translation work."
+msgstr ""
+"Kemudian, tim penerjemah lokal Anda berhasil dibuat. Anda dapat mendaftarkan "
+"lebih banyak orang untuk bergabung dan memulai pekerjaan terjemahan Anda."
+
+msgid ""
+"There are cases where you cannot see your translation statistics in "
+"Stackalytics even after you translate strings in Zanata."
+msgstr ""
+"Ada banyak kasus di mana Anda tidak dapat melihat statistik terjemahan Anda "
+"di Stackalytics bahkan setelah Anda menerjemahkan string di Zanata."
+
+msgid "There are several ways to know your translation activity."
+msgstr "Ada beberapa cara untuk mengetahui aktivitas penerjemahan Anda."
+
+msgid "There are three different roles in a translation team:"
+msgstr "Ada tiga peran berbeda dalam tim terjemahan:"
+
+msgid ""
+"This `Script in I18n repo <https://opendev.org/openstack/i18n/src/tools/"
+"zanata/zanata_users.py>`__ collects all users and their activities."
+msgstr ""
+"Ini `Script in I18n repo <https://opendev.org/openstack/i18n/src/tools/"
+"zanata/zanata_users.py>`__ mengumpulkan semua pengguna dan aktivitasnya."
+
+msgid ""
+"This document explains to reviewers details about the automatic import of "
+"translations from Zanata."
+msgstr ""
+"Dokumen ini menjelaskan kepada pengulas rincian tentang impor otomatis "
+"terjemahan dari Zanata."
+
+msgid "This document gives additional information."
+msgstr "Dokumen ini memberikan informasi tambahan."
+
+msgid ""
+"This following statistics data is calculated using up-to-date "
+"`translation_team.yaml <https://opendev.org/openstack/i18n/src/commit/"
+"a67e08d86cc78907da38d5f09b8be6f71d1979a0/tools/zanata/translation_team."
+"yaml>`__ (date: Jan 15, 2017)."
+msgstr ""
+"Data statistik berikut ini dihitung menggunakan informasi terkini "
+"`translation_team.yaml <https://opendev.org/openstack/i18n/src/commit/"
+"a67e08d86cc78907da38d5f09b8be6f71d1979a0/tools/zanata/translation_team."
+"yaml>`__ (date: Jan 15, 2017)."
+
+msgid ""
+"This guide itself is I18n-ed and you can translate it into your language. To "
+"translate it, visit `i18n <https://translate.openstack.org/project/view/"
+"i18n>`__ project in `Zanata <https://translate.openstack.org/>`__. Document "
+"**doc** in **i18n** project corresponds to this guide. You can translate it "
+"in the same way as you do for other projects like dashboard or manuals. Once "
+"the translation progress becomes higher than the threshold (For more "
+"information on the threshold, see :ref:`translation-jobs`), the translated "
+"version of the guide will be published."
+msgstr ""
+"Panduan ini sendiri adalah I18n-ed dan Anda bisa menerjemahkannya ke dalam "
+"bahasa Anda. Untuk menerjemahkannya, kunjungi `i18n <https://translate."
+"openstack.org/project/view/i18n>` __ proyek di `Zanata <https://translate."
+"openstack.org/>` __. Dokumen ** doc ** di ** i18n ** proyek sesuai dengan "
+"panduan ini. Anda bisa menerjemahkannya dengan cara yang sama seperti yang "
+"Anda lakukan untuk proyek lain seperti dasbor atau manual. Setelah kemajuan "
+"terjemahan menjadi lebih tinggi dari ambang batas (Untuk informasi lebih "
+"lanjut tentang ambang batas, lihat: ref: `translation-jobs`), versi "
+"terjemahan dari panduan ini akan dipublikasikan."
+
+msgid ""
+"This guide provides detailed instructions on the I18n contribution workflow "
+"and conventions to be considered by all contributors."
+msgstr ""
+"Panduan ini memberikan petunjuk rinci tentang alur kerja dan konvensi "
+"kontribusi I18n untuk dipertimbangkan oleh semua kontributor."
+
+msgid "This is a useful commands for the IRC meeting."
+msgstr "Ini adalah perintah yang berguna untuk pertemuan IRC."
+
+msgid ""
+"This is written about openstack-manuals project. As of the end of Pike "
+"development cycle, `the document migration community-wide effort <https://"
+"specs.openstack.org/openstack/docs-specs/specs/pike/os-manuals-migration."
+"html>`__ is being done. The process documented here might be changed in near "
+"future."
+msgstr ""
+"Ini ditulis tentang proyek manual openstack. Sampai akhir siklus "
+"pengembangan Pike, `the document migration community-wide effort <https://"
+"specs.openstack.org/openstack/docs-specs/specs/pike/os-manuals-migration."
+"html>` __ dalam penyelesaian. Proses yang didokumentasikan di sini mungkin "
+"akan berubah dalam waktu dekat."
+
+msgid ""
+"This list is a cache of information on Zanata, and we need to keep it synced "
+"with Zanata."
+msgstr ""
+"Daftar ini adalah cache informasi tentang Zanata, dan kita perlu "
+"merahasiakannya dengan Zanata."
+
+msgid ""
+"This means \"Aggregates\" menu in \"Admin\" group in the left side menu. In "
+"Horizon code, the second level corresponds to a dashboard group like "
+"\"Project\" or \"Admin\" and the third level corresponds to a panel like "
+"\"Aggregates\" (in this example), \"Instances\" or \"Networks\"."
+msgstr ""
+"Ini berarti menu \"Aggregates\" di grup \"Admin\" di menu sisi kiri. Dalam "
+"kode Horizon, tingkat kedua sesuai dengan kelompok dasbor seperti \"Projek\" "
+"atau \"Admin\" dan tingkat ketiga sesuai dengan panel seperti \"Aggregates"
+"\" (dalam contoh ini), \"Instances\" or \"Networks\"."
+
+msgid "This page collects small tips and tricks around translations."
+msgstr "Halaman ini mengumpulkan tip dan trik kecil seputar terjemahan."
+
+msgid "This page covers various operations around i18n activities."
+msgstr "Halaman ini mencakup berbagai operasi seputar aktivitas i18n."
+
+msgid "This page describes how end users can report translation bugs."
+msgstr ""
+"Halaman ini menjelaskan bagaimana pengguna akhir dapat melaporkan bug "
+"terjemahan."
+
+msgid ""
+"This page describes the conventions and tips on writing this guide itself."
+msgstr ""
+"Halaman ini menjelaskan tentang konvensi dan tip untuk menulis panduan ini "
+"sendiri."
+
+msgid ""
+"This page documents what I18n team concerns and which things are needed to "
+"do with OpenStack releases. Each OpenStack release has around 6-month cycle "
+"and the corresponding schedule is available on https://releases.openstack."
+"org/ (e.g., https://releases.openstack.org/ocata/schedule.html describes "
+"Ocata release schedule)."
+msgstr ""
+"Halaman ini mendokumentasikan apa yang menjadi perhatian tim saya dan hal "
+"mana yang perlu dilakukan dengan rilis OpenStack. Setiap rilis OpenStack "
+"memiliki siklus sekitar 6 bulan dan jadwal yang sesuai tersedia di https://"
+"releases.openstack.org/ (mis., https://releases.openstack.org/ocata/schedule."
+"html menjelaskan jadwal rilis Ocata)."
+
+msgid "This script requires Zanata admin privilege."
+msgstr "Script ini membutuhkan privilege admin Zanata."
+
+msgid ""
+"This section tries to share best practices on how team coordinators manages "
+"their language team. Feel free to add useful information!"
+msgstr ""
+"Bagian ini mencoba berbagi praktik terbaik tentang bagaimana koordinator tim "
+"mengelola tim bahasa mereka. Jangan ragu untuk menambahkan informasi yang "
+"berguna!"
+
+msgid "This should be done after a stable version on Zanata is created."
+msgstr "Ini harus dilakukan setelah versi stabil pada Zanata dibuat."
+
+msgid "This usually happens within a week after the release."
+msgstr "Hal ini biasanya terjadi dalam waktu seminggu setelah rilis."
+
+msgid ""
+"Three new dependencies are required : ``react-intl``, ``babel-plugin-react-"
+"intl``, and ``react-intl-po``."
+msgstr ""
+"Tiga dependensi baru diperlukan: ``react-intl``, ``babel-plugin-react-"
+"intl``, dan ``react-intl-po``."
+
+msgid "Titles"
+msgstr "Judul"
+
+msgid ""
+"To add a link to a generated document, you need to update the file ``www/"
+"<lang>/index.html`` in the ``master`` branch of the ``openstack-manuals`` "
+"repository. Note that the web pages are published from ``master`` branch, "
+"which contains the pages for all releases, such as Liberty. Therefore, you "
+"don't need to update the file ``www/<lang>/index.html`` in the stable branch."
+msgstr ""
+"Untuk menambahkan link ke dokumen yang dihasilkan, Anda perlu memperbarui "
+"file `` www / <lang> / index.html`` di cabang ``master`` dari repository `` "
+"openstack-manuals``. Perhatikan bahwa halaman web diterbitkan dari cabang `` "
+"master``, yang berisi halaman untuk semua rilis, seperti Liberty. Oleh "
+"karena itu, Anda tidak perlu mengupdate file `` www / <lang> / index.html`` "
+"di cabang yang stabil."
+
+msgid ""
+"To build a translated document, you need to update the file ``doc-tools-"
+"check-languages.conf`` in each repository, and add an entry to ``BOOKS`` "
+"like ``[\"ja\"]=\"install-guide\"``."
+msgstr ""
+"Untuk membangun dokumen yang diterjemahkan, Anda perlu memperbarui file "
+"``doc-tools-check-languages.conf`` di setiap repositori, dan menambahkan "
+"entri ke ``BOOKS`` seperti ``[\"ja\"] = \"install -guide\"` `."
+
+msgid ""
+"To communicate with the translation platform, you need to prepare a project "
+"configuration file named ``zanata.xml`` in the top directory of a project "
+"you are interested in. OpenStack projects does not contain ``zanata.xml`` in "
+"their git repositories, so you need to create it manually."
+msgstr ""
+"Untuk berkomunikasi dengan platform terjemahan, Anda perlu menyiapkan file "
+"konfigurasi proyek yang bernama ``zanata.xml`` di direktori atas proyek yang "
+"Anda minati. Proyek OpenStack tidak mengandung ``zanata.xml`` di git "
+"repositori mereka, jadi anda perlu membuatnya secara manual."
+
+msgid ""
+"To display translated messages in python server projects, you need to "
+"compile message catalogs and also need to configure your server services "
+"following instructions described at `oslo.i18n documentation <https://docs."
+"openstack.org/oslo.i18n/latest/user/usage.html#displaying-translated-"
+"messages>`__."
+msgstr ""
+"Untuk menampilkan pesan yang diterjemahkan dalam proyek server python, Anda "
+"perlu mengkompilasi katalog pesan dan juga perlu mengkonfigurasi layanan "
+"server Anda mengikuti petunjuk yang dijelaskan di `oslo.i18n documentation "
+"<https://docs.openstack.org/oslo.i18n/latest/user/usage.html#displaying-"
+"translated-messages>`__."
+
+msgid ""
+"To download translations from Zanata, run the following command after going "
+"into a project directory. You are usually interested in only a few of "
+"languages, so ``--locales`` option would be useful. For more options, see "
+"the output of ``zanata pull --help``."
+msgstr ""
+"Untuk mendownload terjemahan dari Zanata, jalankan perintah berikut setelah "
+"masuk ke direktori proyek. Anda biasanya hanya tertarik pada beberapa bahasa "
+"saja, jadi opsi ``--locales`` akan berguna. Untuk pilihan lebih, lihat "
+"output dari ``zanata pull --help``."
+
+msgid ""
+"To fetch translated files regularly, execute this command manually or as a "
+"cron:"
+msgstr ""
+"Untuk mengambil file yang diterjemahkan secara teratur, jalankan perintah "
+"ini secara manual atau sebagai cron:"
+
+msgid ""
+"To help with translation, :doc:`become an official translator "
+"<official_translator>` and join your language team. Then go to `translation "
+"website <https://translate.openstack.org/>`_ to start translation. You can "
+"find prioritized translation jobs as I18n team at the top of the page."
+msgstr ""
+"Untuk membantu terjemahan, :doc:`become an official translator "
+"<official_translator>` dan bergabunglah dengan tim bahasa Anda. Lalu pergi "
+"ke `translation website <https://translate.openstack.org/>`_ untuk memulai "
+"terjemahan. Anda dapat menemukan pekerjaan terjemahan yang diprioritaskan "
+"sebagai tim I18n di bagian atas halaman."
+
+msgid ""
+"To not have too much churn and last minute string fixes lead to files get "
+"removed, there is also a lower threshold for releases of **66 percent** of "
+"messages translated as policy - which is only manually enforced."
+msgstr ""
+"Untuk tidak memiliki terlalu banyak churn dan perbaikan string menit "
+"terakhir menyebabkan file dapat dihapus, ada juga ambang yang lebih rendah "
+"untuk rilis ** 66 persen ** pesan yang diterjemahkan sebagai kebijakan - "
+"yang hanya diterapkan secara manual."
+
+msgid "To report translation errors, see :doc:`bug_report`."
+msgstr "Untuk melaporkan kesalahan terjemahan, lihat :doc:`bug_report`."
+
+msgid "To run the script:"
+msgstr "Untuk menjalankan skrip:"
+
+msgid "To sync the translator list, run the following command:"
+msgstr "Untuk menyinkronkan daftar penerjemah, jalankan perintah berikut:"
+
+msgid "Tools"
+msgstr "Alat (tool)"
+
+msgid "Train cycle"
+msgstr "Train cycle"
+
+msgid "Translate **master** version on Zanata."
+msgstr "Translate **master** version on Zanata."
+
+msgid ""
+"Translated documents are available at the OpenStack Documentation site. It "
+"is updated daily. Most contents are linked from either of:"
+msgstr ""
+"Dokumen yang diterjemahkan tersedia di situs Dokumentasi OpenStack. Ini "
+"diperbarui setiap hari. Sebagian besar konten dihubungkan dari salah satu "
+"dari:"
+
+msgid ""
+"Translated strings are automatically synced between translation server and "
+"Openstack infrastructure. The procedure is robust, but sometimes something "
+"can go wrong. For this reason there is a section :ref:`monitoring-"
+"translation-job-status` in the infrastructure chapter."
+msgstr ""
+"String yang diterjemahkan disinkronkan secara otomatis antara server "
+"terjemahan dan infrastruktur Openstack. Prosedurnya kuat, tapi terkadang ada "
+"yang salah. Untuk alasan ini ada bagian :ref: `monitoring-translation-job-"
+"status` di bab infrastruktur."
+
+msgid ""
+"Translating: manage the translation in Zanata, including the translation "
+"memory and glossary management"
+msgstr ""
+"Translating: mengelola terjemahan di Zanata, termasuk memori terjemahan dan "
+"glosarium manajemen"
+
+msgid "Translation"
+msgstr "Terjemahan"
+
+msgid "Translation Job Control"
+msgstr "Kontrol PekerjaanPenerjemahan"
+
+msgid "Translation Statistics"
+msgstr "Statistik Penerjemahan"
+
+msgid "Translation activities with plans from language teams"
+msgstr "Kegiatan penerjemahan dengan rencana dari tim bahasa"
+
+msgid "Translation bugs"
+msgstr "Bug terjemahan"
+
+msgid ""
+"Translation bugs are tracked on `Launchpad <https://bugs.launchpad.net/"
+"openstack-i18n>`__. Often only the language teams are able to handle "
+"translation bugs, e.g. wrong translation words or senses. PTL fits thereon "
+"or designates bug triage liaison."
+msgstr ""
+"Bug terjemahan dilacak di `Launchpad <https://bugs.launchpad.net/openstack-"
+"i18n>` __. Seringkali hanya tim bahasa yang dapat menangani bug terjemahan, "
+"misal. kata atau rasa (sense) terjemahan salah. PTL membetulkan di atas atau "
+"menunjuk penghubung bug triage."
+
+msgid "Translation bugs in all languages can be reported here."
+msgstr "Bug terjemahan dalam semua bahasa dapat dilaporkan di sini."
+
+msgid "Translation infrastructure"
+msgstr "Infrastruktur terjemahan"
+
+msgid "Translation infrastructure tasks and scripts"
+msgstr "Skrip dan tugas infrastruktur penerjemahan"
+
+msgid ""
+"Translation infrastructure tasks are stored and managed in `openstack/"
+"project-config <https://opendev.org/openstack/project-config/>`__ "
+"repository. The translation infrastructure scripts are stored and managed in "
+"`openstack/openstack-zuul-jobs <https://opendev.org/openstack/openstack-zuul-"
+"jobs>`__ repository."
+msgstr ""
+"Tugas infrastruktur terjemahan disimpan dan dikelola `openstack/project-"
+"config <https://opendev.org/openstack/project-config/>`__ repository. Skrip "
+"infrastruktur terjemahan disimpan dan dikelola di `openstack/openstack-zuul-"
+"jobs <https://opendev.org/openstack/openstack-zuul-jobs>`__ repository."
+
+msgid ""
+"Translation is another kind of important contribution to OpenStack "
+"community. If you want to become a official translator, you need to finish "
+"following steps:"
+msgstr ""
+"Terjemahan merupakan jenis kontribusi penting lainnya bagi komunitas "
+"OpenStack. Jika Anda ingin menjadi penerjemah resmi, Anda harus "
+"menyelesaikan langkah-langkah berikut:"
+
+msgid "Translation jobs"
+msgstr "Pekerjaan penerjemahan"
+
+msgid "Translation tips"
+msgstr "Tip terjemahan"
+
+msgid "Translation tools"
+msgstr "Alat terjemahan"
+
+msgid "Translations"
+msgstr "Terjemahan"
+
+msgid ""
+"Translations are being imported into a project repository daily, so in most "
+"cases you do not need to pull translations from Zanata manually. What you "
+"need is to pull the latest horizon code."
+msgstr ""
+"Terjemahan sedang diimpor ke repositori proyek setiap hari, jadi dalam "
+"kebanyakan kasus Anda tidak perlu menarik terjemahan dari Zanata secara "
+"manual. Yang Anda butuhkan adalah menarik kode horizon terbaru."
+
+msgid ""
+"Translations on master version in Zanata are normally recommended for "
+"upstream contribution."
+msgstr ""
+"Terjemahan pada versi master di Zanata biasanya direkomendasikan untuk "
+"kontribusi upstream."
+
+msgid ""
+"Translators translate repositories using the `translation server <http://"
+"translate.openstack.org>`_ which runs the Zanata software."
+msgstr ""
+"Penerjemah menerjemahkan repositori menggunakan `translation server <http://"
+"translate.openstack.org>`_ yang menjalankan perangkat lunak Zanata."
+
+msgid ""
+"Translators who translate and review 300 and more words combinedly in the "
+"last six months until the deadline of AUC nomination are nominated as AUCs, "
+"and translation count and review count can be added up. The detail period is "
+"determined by the PTL in each cycle. For Train cycle, the six month period "
+"was from 2019-01-26 to 2019-07-25."
+msgstr ""
+"Penerjemah yang menerjemahkan dan mengulas 300 kata dan lebih banyak kata "
+"secara bersamaan dalam enam bulan terakhir hingga batas waktu nominasi AUC "
+"dinominasikan sebagai AUC, dan jumlah terjemahan serta jumlah ulasan dapat "
+"ditambahkan. Periode detail ditentukan oleh PTL dalam setiap siklus. Untuk "
+"siklus Train, periode enam bulan adalah dari 2019-01-26 hingga 2019-07-25."
+
+msgid ""
+"Translators who translate and review 300 and more words combinedly in the "
+"last six months until the deadline of extra ATCs nomination are nominated as "
+"ATCs, and the ATC status of translators is valid for one year. Translation "
+"count and review count can be added up. The detail period is determined by "
+"the PTL in each cycle. For Newton cycle, the six month period was from "
+"2016-02-01 to 2016-07-31, and this ATC status will expire on July 2017 if "
+"there will be no additional translation contributions."
+msgstr ""
+"Penerjemah yang menerjemahkan dan meninjau 300 kata dan lebih banyak lagi "
+"dalam enam bulan terakhir sampai batas waktu nominasi ekstra ATC "
+"dinominasikan sebagai ATC, dan status penerjemah ATC berlaku selama satu "
+"tahun. Jumlah terjemahan dan jumlah peninjauan dapat ditambahkan. Periode "
+"detail ditentukan oleh PTL pada setiap siklus. Untuk siklus Newton, periode "
+"enam bulan adalah dari 2016-02-01 sampai 2016-07-31, dan status ATC ini akan "
+"berakhir pada Juli 2017 jika tidak akan ada kontribusi terjemahan tambahan."
+
+msgid ""
+"Update jobs for Zanata start after patches are merged on OpenStack project "
+"repositories, and Zuul starts to run tasks everyday at **6:00 UTC** for the "
+"updates on OpenStack project repositories."
+msgstr ""
+"Update pekerjaan untuk Zanata dimulai setelah patch digabung pada repositori "
+"proyek OpenStack, dan Zuul mulai menjalankan tugas setiap hari di **6:00 "
+"UTC* untuk pembaruan pada repositori proyek OpenStack."
+
+msgid ""
+"Update your ``package.json`` file. It should contain references to the "
+"``json2pot`` and ``po2json`` commands."
+msgstr ""
+"Perbarui file ``package.json``  Anda. Ini harus berisi referensi ke perintah "
+"``json2pot`` dan ``po2json``."
+
+msgid ""
+"Update your ``setup.cfg`` file. It should contain a ``packages`` entry in "
+"the ``files`` section:"
+msgstr ""
+"Perbarui file ``setup.cfg`` Anda. Ini harus berisi entri ``packages` di "
+"bagian ``files``:"
+
+msgid "Uploading"
+msgstr "Uploading"
+
+msgid "Uploading: Upload the translation resources to Zanata"
+msgstr "Uploading: Upload sumber terjemahan ke Zanata"
+
+msgid "User configuration"
+msgstr "Konfigurasi pengguna"
+
+msgid "Using docs.openstack.org"
+msgstr "Menggunakan docs.openstack.org"
+
+msgid "Using translations"
+msgstr "Menggunakan terjemahan"
+
+msgid "Usual topics"
+msgstr "Topik biasa"
+
+msgid ""
+"Visit `Stackalytics <http://stackalytics.com/>`__ and choose "
+"``Translations`` as ``Metric`` dropdown menu at the upper-right."
+msgstr ""
+"Kunjungi `Stackalytics <http://stackalytics.com/>` __ dan pilih "
+"``Translations`` sebagai menu tarik turun `Metric`` di kanan atas."
+
+msgid ""
+"We have two types of Zuul jobs for translations: syncing source strings into "
+"Zanata with the latest repositories and pushing translations from Zanata "
+"into the repositories. The first job is for Zanata-side updates. Up-to-date "
+"source strings to be translated are compared and updated between OpenStack "
+"project repositories and Zanata. If source texts in OpenStack project "
+"repositories are changed, then change sets are pushed into Zanata so "
+"translators deal with up-to-date source strings. On the other hand, the "
+"second job is aimed to reflect changes in translated strings in Zanata "
+"(after translators do translation activities) into corresponding OpenStack "
+"project repositories. The job will propose changes as :doc:`Translation "
+"Import <reviewing-translation-import>` Gerrit patches."
+msgstr ""
+"Kami memiliki dua jenis pekerjaan Zuul untuk terjemahan: menyinkronkan "
+"string sumber ke Zanata dengan repositori terbaru dan mendorong terjemahan "
+"dari Zanata ke repositori. Pekerjaan pertama adalah untuk pembaruan sisi "
+"Zanata. String sumber terkini yang akan diterjemahkan dibandingkan dan "
+"diperbarui antara repositori proyek OpenStack dan Zanata. Jika teks sumber "
+"dalam repositori proyek OpenStack diubah, maka set perubahan didorong ke "
+"Zanata sehingga penerjemah berurusan dengan string sumber terbaru. Di sisi "
+"lain, pekerjaan kedua ditujukan untuk mencerminkan perubahan dalam string "
+"terjemahan di Zanata (setelah penerjemah melakukan kegiatan terjemahan) ke "
+"dalam repositori proyek OpenStack yang sesuai. Pekerjaan akan mengusulkan "
+"perubahan sebagai :doc: `Impor Impor <reviewing-translation-import>` Gerrit "
+"patches."
+
+msgid ""
+"We strongly recommend to follow the above guideline, but in some cases this "
+"behavior does not satisfy your project structure. For example,"
+msgstr ""
+"Kami sangat menyarankan untuk mengikuti pedoman di atas, tetapi dalam "
+"beberapa kasus, perilaku ini tidak memenuhi struktur proyek Anda. Sebagai "
+"contoh,"
+
+msgid ""
+"We use :ref:`Zanata CLI <zanata-cli>` to download the translated PO files "
+"from the translation platform."
+msgstr ""
+"Kami menggunakan :ref: `Zanata CLI <zanata-cli>` untuk mendownload file PO "
+"yang diterjemahkan dari platform terjemahan."
+
+msgid ""
+"We use :ref:`Zanata CLI <zanata-cli>` to upload the POT file to the "
+"translate platform."
+msgstr ""
+"Kami menggunakan :ref: `Zanata CLI <zanata-cli>` untuk mengupload file POT "
+"ke platform translate."
+
+msgid ""
+"We use sphinx-build to translate RST files to POT files. Because we want to "
+"have a single POT file per document, we use msgcat to merge those POTs after "
+"sphinx-build."
+msgstr ""
+"Kami menggunakan sphinx-build untuk menerjemahkan file RST ke file POT. "
+"Karena kami ingin memiliki file POT tunggal per dokumen, kami menggunakan "
+"msgcat untuk menggabungkan POT tersebut setelah sphinx-build."
+
+msgid "What is wrong? What should be improved?"
+msgstr "Apa yang salah? Apa yang harus diperbaiki?"
+
+msgid ""
+"When a filename is ``workflows.py`` or ``forms.py``, it means it is used in "
+"a form for creating or editing something."
+msgstr ""
+"Bila nama file adalah ``workflows.py`` atau ``forms.py``, itu berarti "
+"digunakan dalam bentuk untuk membuat atau mengedit sesuatu."
+
+msgid ""
+"When a new member request is received, a coordinator approves (or rarely "
+"rejects) the request. At the moment, Zanata provides no way to communicate "
+"with language team members, so it is better to inform the new member of ways "
+"usually used in the language team."
+msgstr ""
+"Saat permintaan anggota baru diterima, koordinator menyetujui (atau jarang "
+"menolak) permintaan tersebut. Saat ini, Zanata tidak menyediakan cara untuk "
+"berkomunikasi dengan anggota tim bahasa, jadi lebih baik memberi tahu "
+"anggota baru cara yang biasa digunakan dalam tim bahasa."
+
+msgid ""
+"When a translation period towards a new OpenStack release approaches, it is "
+"recommended to coordinate and prioritize translation efforts."
+msgstr ""
+"Ketika periode terjemahan menuju pendekatan rilis OpenStack yang baru, "
+"disarankan untuk mengkoordinasikan dan memprioritaskan upaya penerjemahan."
+
+msgid ""
+"When proposing extra ATCs at that time, some translators were not included "
+"in `translation_team.yaml <https://opendev.org/openstack/i18n/src/"
+"commit/73a36041dbdc45212051c60cbeef3f7783200fd2/tools/zanata/"
+"translation_team.yaml>`__ file. It seems that 1) new translators were joined "
+"and the statistics was calculated but the file was already created, or 2) "
+"there might be some lack of communication with language coordinators, since "
+"I18n encouraged each language coordinator to update this file."
+msgstr ""
+"Ketika mengusulkan ATC tambahan pada waktu itu, beberapa penerjemah tidak "
+"termasuk dalam `translation_team.yaml <https://opendev.org/openstack/i18n/"
+"src/commit/73a36041dbdc45212051c60cbeef3f7783200fd2/tools/zanata/"
+"translation_team.yaml>`__ file. Tampaknya 1) penerjemah baru bergabung dan "
+"statistik dihitung tetapi file sudah dibuat, atau 2) mungkin ada beberapa "
+"komunikasi dengan koordinator bahasa, karena saya mendorong setiap "
+"koordinator bahasa untuk memperbarui file ini."
+
+msgid ""
+"When submitting the change to ``openstack/project-config`` for review, use "
+"the ``translation_setup`` topic so it receives the appropriate attention:"
+msgstr ""
+"Saat mengirimkan perubahan ke ``openstack/project-config`` untuk ditinjau, "
+"gunakan topik ``translation_setup`` sehingga menerima perhatian yang sesuai:"
+
+msgid ""
+"When you add a new entry to the glossary, it is highly recommended to add "
+"the entry to the master glossary ``glossary/locale/glossary.pot``. By doing "
+"this, all language teams can share the glossary."
+msgstr ""
+"Bila Anda menambahkan entri baru ke glossary, sangat disarankan untuk "
+"menambahkan entri ke glossary master ``glossary/locale/glossary.pot``. "
+"Dengan melakukan ini, semua tim bahasa bisa berbagi glosarium."
+
+msgid ""
+"When you are using OpenStack (including the dashboard, API or CLI) or are "
+"reading translated documentations, if you find something wrong, something "
+"you cannot understand, something you cannot agree, or something to be "
+"improved, please consider reporting it."
+msgstr ""
+"Bila Anda menggunakan OpenStack (termasuk dasbor, API atau CLI) atau membaca "
+"dokumentasi terjemahan, jika Anda menemukan sesuatu yang salah, sesuatu yang "
+"tidak dapat Anda pahami, sesuatu yang tidak dapat Anda setujui, atau sesuatu "
+"yang perlu ditingkatkan, pertimbangkan untuk melaporkannya."
+
+msgid ""
+"When you want to update a glossary of your language, edit a corresponding "
+"glossary file using your favorite editor and propose a change to the Gerrit "
+"review system."
+msgstr ""
+"Bila Anda ingin memperbarui glosarium bahasa Anda, edit file glosarium yang "
+"sesuai menggunakan editor favorit Anda dan ajukan perubahan pada sistem "
+"ulasan Gerrit."
+
+msgid ""
+"When your request is approved, add an item in \"Local Translation Teams\" in "
+"the wiki page, create a wiki page under page `I18nTeam <https://wiki."
+"openstack.org/wiki/I18nTeam/team>`_ (for example, I18nTeam/team/zh_cn) to "
+"introduce your team, with the following information at least: the contact "
+"information, the web page, and the work items."
+msgstr ""
+"Bila permintaan Anda disetujui, tambahkan item dalam \"Local Translation "
+"Teams\" di halaman wiki, buat halaman wiki di bawah halaman `I18nTeam "
+"<https://wiki.openstack.org/wiki/I18nTeam/team>` _ (misalnya , I18nTeam/team/"
+"zh_cn)  untuk mengenalkan tim Anda, dengan informasi berikut setidaknya: "
+"informasi kontak, halaman web, dan item pekerjaan."
+
+msgid "When your request is approved, you will get an email notification."
+msgstr ""
+"Bila permintaan Anda disetujui, Anda akan mendapatkan notifikasi email."
+
+msgid "Where a string is used in Dashboard UI?"
+msgstr "Dimana string digunakan di UI Dasbor?"
+
+msgid "Where a string is used in source code?"
+msgstr "Dimana string digunakan dalam kode sumber?"
+
+msgid "Where can I report a bug?"
+msgstr "Dimana saya bisa melaporkan bug?"
+
+msgid "Where you find a bug you are reporting?"
+msgstr "Di mana Anda menemukan bug yang Anda laporkan?"
+
+msgid "Who can help you?"
+msgstr "Siapa yang bisa membantu Anda?"
+
+msgid ""
+"With these changes merged, the strings marked for translation are sent to "
+"the translation server after each merge to your project. Also, a periodic "
+"job is set up that checks daily whether there are translated strings and "
+"proposes them to your project together with translation source files. Note "
+"that the daily job will only propose translated files where the majority of "
+"the strings are translated."
+msgstr ""
+"Dengan perubahan ini digabungkan, string yang ditandai untuk terjemahan "
+"dikirim ke server terjemahan setelah setiap penggabungan ke proyek Anda. "
+"Selain itu, tugas berkala disiapkan yang memeriksa setiap hari apakah ada "
+"string yang diterjemahkan dan mengusulkannya ke proyek Anda bersama dengan "
+"file sumber terjemahan. Perhatikan bahwa pekerjaan harian hanya akan "
+"mengusulkan file yang diterjemahkan di mana sebagian besar string "
+"diterjemahkan."
+
+msgid ""
+"Write an email to \"openstack-i18n@lists.openstack.org\" to introduce "
+"yourself and the language team you want to create, together with your ID on "
+"Zanata."
+msgstr ""
+"Tulislah email ke \"openstack-i18n@lists.openstack.org\" untuk "
+"memperkenalkan diri dan tim bahasa yang ingin Anda buat, bersama dengan ID "
+"Anda di Zanata."
+
+msgid ""
+"You also need to setup your repository following the instruction for Python "
+"and/or Django project above appropriately."
+msgstr ""
+"Anda juga perlu menyiapkan repositori Anda mengikuti instruksi untuk Python "
+"dan/atau proyek Django di atas secara tepat."
+
+msgid ""
+"You are encouraged to register with your business email, which will help "
+"your company to get the credit. If you don't want to, use your personal "
+"email will be OK too."
+msgstr ""
+"Anda dianjurkan untuk mendaftar dengan email bisnis Anda, yang akan membantu "
+"perusahaan Anda untuk mendapatkan kredit. Jika Anda tidak mau, gunakan email "
+"pribadi Anda juga akan baik-baik saja."
+
+msgid "You can also check:"
+msgstr "Anda juga dapat memeriksa:"
+
+msgid ""
+"You can check a generated document for a specified branch on http://docs."
+"openstack.org/<branch>/<language>/<document>. For example, the link of "
+"Ubuntu Installation Guide for Liberty is http://docs.openstack.org/liberty/"
+"ja/install-guide-ubuntu/."
+msgstr ""
+"Anda dapat memeriksa dokumen yang dihasilkan untuk cabang tertentu di http://"
+"docs.openstack.org/ <branch> / <language> / <document>. Misalnya, link "
+"Panduan Instalasi Ubuntu untuk Liberty adalah http://docs.openstack.org/"
+"liberty/ja/install-guide-ubuntu/."
+
+msgid ""
+"You can check on `Gerrit <https://review.opendev.org/#/q/topic:zanata/"
+"translations+(status:open+OR+status:merged)>`__, if the translated strings "
+"are imported by the project teams. Core reviewers in each repository are "
+"strong encouraged to approve translation sync patches but do not be sad if "
+"the translations are not accepted. Zanata Sync jobs are repeated every day "
+"until they are merged."
+msgstr ""
+"Anda bisa memeriksanya `Gerrit <https://review.opendev.org/#/q/topic:zanata/"
+"translations+(status:open+OR+status:merged)>`__, jika string yang "
+"diterjemahkan diimpor oleh tim proyek. Peninjau inti dalam setiap repositori "
+"sangat dianjurkan untuk menyetujui tambalan sinkronisasi terjemahan tetapi "
+"jangan sedih jika terjemahannya tidak diterima. Pekerjaan Zanata Sync "
+"diulang setiap hari sampai digabung."
+
+msgid ""
+"You can estimate where a string is used from a location in a source code. "
+"(See the previous entry on how to find a location.)"
+msgstr ""
+"Anda dapat memperkirakan di mana string digunakan dari lokasi dalam kode "
+"sumber. (Lihat entri sebelumnya tentang cara menemukan lokasi.)"
+
+msgid ""
+"You can extract the messages in code to PO template (POT) with pybabel, "
+"where **PROJECT** is a project name like ``nova`` and **VERSION** is a "
+"version number. Note that you can omit ``--project`` and ``--version`` "
+"options if you just use them locally as they are just used in the POT file "
+"header."
+msgstr ""
+"Anda dapat mengekstrak pesan dalam kode ke template PO (POT) dengan pybabel, "
+"di mana **PROJECT ** adalah nama proyek seperti ``nova`` dan ** VERSION ** "
+"adalah nomor versi. Perhatikan bahwa Anda dapat menghilangkan opsi ``--"
+"project`` dan ``--version`` jika Anda menggunakannya secara lokal karena "
+"hanya digunakan di header file POT."
+
+msgid "You can find the location in a source code by checking the POT file."
+msgstr ""
+"Anda dapat menemukan lokasi dalam kode sumber dengan memeriksa file POT."
+
+msgid ""
+"You can refer to `previous meeting logs with their notes <http://eavesdrop."
+"openstack.org/meetings/openstack_i18n_team_meeting/>`_."
+msgstr ""
+"Anda bisa merujuk `previous meeting logs with their notes <http://eavesdrop."
+"openstack.org/meetings/openstack_i18n_team_meeting/>`_."
+
+msgid "You can report a bug in your language (or English)."
+msgstr "Anda dapat melaporkan bug dalam bahasa Anda (atau bahasa Inggris)."
+
+msgid ""
+"You can see detail member-level statistics data on `HTML version of the page "
+"<https://docs.openstack.org/i18n/latest/atc-stats.html>`_."
+msgstr ""
+"Anda dapat melihat detail data statistik tingkat anggota `HTML version of "
+"the page <https://docs.openstack.org/i18n/latest/atc-stats.html>`_."
+
+msgid ""
+"You can set the components of your AIO installation in ``tests/vars/"
+"bootstrap-aio-vars.yml``. Dependly on your environment the installation "
+"takes 1-2 hours. For more details on the AIO configuration, please see `OSA "
+"AIO documentation <https://docs.openstack.org/openstack-ansible/latest/user/"
+"aio/quickstart.html#building-an-aio>`_."
+msgstr ""
+"Anda dapat mengatur komponen instalasi AIO Anda dalam ``tests/vars/bootstrap-"
+"aio-vars.yml``. Tergantung pada lingkungan Anda, instalasi membutuhkan waktu "
+"1-2 jam. Untuk detail lebih lanjut tentang konfigurasi AIO, silakan lihat "
+"`OSA AIO documentation <https://docs.openstack.org/openstack-ansible/latest/"
+"user/aio/quickstart.html#building-an-aio>` _."
+
+msgid ""
+"You must determine whether bugs are **translation bugs** or **bugs in a "
+"source project**. Typical i18n bugs in the source project include:"
+msgstr ""
+"Anda harus menentukan apakah bug adalah **translation bugs** atau **bugs in "
+"a source project**.  Bug khas i18n dalam proyek sumber meliputi:"
+
+msgid ""
+"You need to create a configuration file in ``$HOME/.config/zanata.ini`` that "
+"contains user-specific configuration. For information on how to create a "
+"configuration file, see `Zanata CLI configuration <http://docs.zanata.org/en/"
+"release/client/configuration/#user-configuration>`__."
+msgstr ""
+"Anda perlu membuat file konfigurasi di ``$HOME/.config/zanata.ini`` yang "
+"berisi konfigurasi khusus pengguna. Untuk informasi tentang cara membuat "
+"file konfigurasi, lihat konfigurasi `Zanata CLI <http://docs.zanata.org/en/"
+"release/client/configuration/#user-configuration>` __."
+
+msgid ""
+"You need to update the infra scripts as well to mark a repository as ReactJS "
+"project for translation, for details see :ref:`translation_scripts`."
+msgstr ""
+"Anda perlu memperbarui skrip infra juga untuk menandai repositori sebagai "
+"proyek ReactJS untuk terjemahan, untuk detailnya lihat :ref: "
+"`translation_scripts`."
+
+msgid "Your repository contains both Django and Python code."
+msgstr "Repositori Anda berisi kode Django dan Python."
+
+msgid ""
+"Your repository defines multiple python modules, but you just want to run "
+"the translation jobs for specific module(s)."
+msgstr ""
+"Repositori Anda mendefinisikan beberapa modul python, tetapi Anda hanya "
+"ingin menjalankan pekerjaan terjemahan untuk modul tertentu."
+
+msgid "Zanata"
+msgstr "Zanata"
+
+msgid "Zanata CLI"
+msgstr "Zanata CLI"
+
+msgid ""
+"Zanata provides suggestions for translation based on a glossary of your "
+"language. The glossary is maintained in the i18n repository."
+msgstr ""
+"Zanata memberikan saran untuk terjemahan berdasarkan glosarium bahasa Anda. "
+"Glosarium dipelihara dalam repositori i18n."
+
+msgid "Zanata provides ways to know your activity on Zanata."
+msgstr "Zanata menyediakan cara untuk mengetahui aktivitas Anda di Zanata."
+
+msgid "Zbyněk Schwarz (id: tsbook) - Czech"
+msgstr "Zbyněk Schwarz (id: tsbook) - Czech"
+
+msgid "[I18n PTL] Call for translation"
+msgstr "[I18n PTL] Call for translation"
+
+msgid ""
+"[I18n PTL] Coordinate release and translation import schedule of individual "
+"projects with PTL or I18n liaison."
+msgstr ""
+"[I18n PTL] Koordinasi pelepasan dan penjabaran jadwal impor proyek "
+"individual dengan penghubung PTL atau I18n."
+
+msgid ""
+"[Infra] Setup translation jobs such as ``translation-jobs-newton`` to import "
+"translations for stable branches."
+msgstr ""
+"[Infra] Menetapkan pekerjaan terjemahan seperti ``translation-jobs-newton`` "
+"untuk mengimpor terjemahan untuk cabang yang stabil."
+
+msgid "[Project] Official release!"
+msgstr "[Project] Official release!"
+
+msgid ""
+"[Project] RC2 or RC3 release will be shipped with latest translations. Final "
+"RC release will happen one week before the official release week."
+msgstr ""
+"[Proyek] Rilis RC2 atau RC3 akan dikirimkan dengan terjemahan terbaru. Rilis "
+"akhir RC akan terjadi satu minggu sebelum rilis resmi minggu ini."
+
+msgid ""
+"[Project] Release RC1 and create a stable branch. ``Hard StringFreeze`` is "
+"in effect."
+msgstr ""
+"[Project] Release RC1 dan membuat cabang yang stabil. ``Hard StringFreeze`` "
+"sedang berlaku."
+
+msgid "[Project] Release milestone-3. ``Soft StringFreeze`` is in effect."
+msgstr "[Project] Release milestone-3. ``Soft StringFreeze`` sedang berlaku."
+
+msgid ""
+"[Translator] It is suggested to complete translation work by Monday or "
+"Tuesday of the Final RC week."
+msgstr ""
+"[Translator] Disarankan untuk menyelesaikan pekerjaan penerjemahan pada hari "
+"Senin atau Selasa minggu RC Final."
+
+msgid "[Translator] Start translations for the release."
+msgstr "[Translator] Start translations for the release."
+
+msgid ""
+"[Translator] Translate **stable-XXXX** version instead of master version on "
+"Zanata."
+msgstr ""
+"[Translator] Translate versi **stable-XXXX** bukan versi master pada Zanata."
+
+msgid "[Zanata admin] Create a stable version such as ``stable-newton``"
+msgstr "[Zanata admin] Create versi stabil seperti ``stable-newton``"
+
+msgid "[Zanata admin] Merge a stable version back into the master version."
+msgstr ""
+"[Zanata admin] Bergabunglah dengan versi stabil kembali ke versi master."
+
+msgid ""
+"[ianychoi] Although one year was already passed (as of now: Jan 15, 2017), I "
+"really would like to say those translators also contributed translations "
+"with I18n team members. For acknowledgement purpose, I write their Zanata "
+"ID, name, and language team in here :"
+msgstr ""
+"[Ianychoi] Meskipun satu tahun telah berlalu (sampai sekarang: 15 Januari "
+"2017), saya benar-benar ingin mengatakan bahwa penerjemah tersebut juga "
+"memberikan kontribusi terjemahan dengan anggota tim I18n. Untuk tujuan "
+"pengakuan, saya menulis nama Zanata ID, nama, dan bahasa mereka di sini:"
+
+msgid ""
+"[ianychoi] Note: only \"translated\" metric was considered to follow the "
+"description in I18n contributor guide. After more detail investigation on "
+"previous ATC criteria, review metrics were also considered. Fortunately, the "
+"three translators (jftalta - 117 translated & 2897 reviews, myamamot - 725 "
+"reviews, mucahit - 1241 reviews) are also regarded ATCs from Newton cycle :) "
+"- I keep it as record for the next ATC list changes."
+msgstr ""
+"[Ianychoi] Catatan: hanya metrik \"translated\" yang dianggap mengikuti "
+"deskripsi dalam panduan kontributor I18n. Setelah penyelidikan lebih rinci "
+"mengenai kriteria ATC sebelumnya, metrik penilaian juga dipertimbangkan. "
+"Untungnya, ketiga penerjemah (jftalta - 117 diterjemahkan & 2897 ulasan, "
+"myamamot - 725 ulasan, mucahit - 1241 ulasan) juga dianggap ATC dari siklus "
+"Newton :) - Saya menyimpannya sebagai catatan untuk perubahan daftar ATC "
+"berikutnya."
+
+msgid ""
+"`Broken Translation Jobs on Zuul <http://zuul.openstack.org/builds?"
+"job_name=upstream-translation-update&job_name=propose-translation-"
+"update&result=Failure>`_"
+msgstr ""
+"`Broken Translation Jobs on Zuul <http://zuul.openstack.org/builds?"
+"job_name=upstream-translation-update&job_name=propose-translation-"
+"update&result=Failure>`_"
+
+msgid "`Bug lists <https://bugs.launchpad.net/openstack-i18n>`_"
+msgstr "`Daftar bug <https://bugs.launchpad.net/openstack-i18n>`_"
+
+msgid ""
+"`Dashboard <https://translate.openstack.org/dashboard/>`__ page shows your "
+"recent activity statistics this month and detail activity."
+msgstr ""
+"Halaman `Dashboard <https://translate.openstack.org/dashboard/>`__ "
+"menunjukkan statistik aktivitas terkini bulan ini dan aktivitas detail."
+
+msgid "`Horizon (OpenStack dashboard) <https://bugs.launchpad.net/horizon>`_"
+msgstr "`Horizon (OpenStack dashboard) <https://bugs.launchpad.net/horizon>`_"
+
+msgid ""
+"`Horizon I18n bugs <https://bugs.launchpad.net/horizon/+bugs?field."
+"tag=i18n>`_"
+msgstr ""
+"`Horizon I18n bugs <https://bugs.launchpad.net/horizon/+bugs?field."
+"tag=i18n>`_"
+
+msgid ""
+"`Language translation team <https://wiki.openstack.org/wiki/I18nTeam/"
+"team>`_: you can ask in your language :-)"
+msgstr ""
+"`Language translation team <https://wiki.openstack.org/wiki/I18nTeam/"
+"team>`_: Anda bisa bertanya dalam bahasa Anda :-)"
+
+msgid ""
+"`Open reviews in openstack/i18n <https://review.opendev.org/#/q/status:open"
+"+project:openstack/i18n>`_"
+msgstr ""
+"`Open reviews in openstack/i18n <https://review.opendev.org/#/q/status:open"
+"+project:openstack/i18n>`_"
+
+msgid "`OpenStack manuals <https://bugs.launchpad.net/openstack-manuals>`_"
+msgstr "`OpenStack manuals <https://bugs.launchpad.net/openstack-manuals>`_"
+
+msgid ""
+"`OpenStack-Ansible (OSA) <https://docs.openstack.org/openstack-ansible/"
+"latest/>`__ provides Ansible playbooks and roles for the deployment and "
+"configuration of an OpenStack environment. As part of the project a feature "
+"named 'Translation Check Site' is developed. An OSA instance will fetch "
+"translation strings from `translation platform <https://translate.openstack."
+"org/>`__, compile and serve these strings in Horizon. You need a machine "
+"with two or four CPU cores, at least 8 GB memory and 70 GB disk to run OSA."
+msgstr ""
+"`OpenStack-Ansible (OSA) <https://docs.openstack.org/openstack-ansible/"
+"latest/>`__ menyediakan playbook dan peran Ansible untuk penyebaran dan "
+"konfigurasi lingkungan OpenStack. Sebagai bagian dari proyek, sebuah fitur "
+"bernama 'Translation Check Site' dikembangkan. Instance OSA akan mengambil "
+"string terjemahan dari ``translation platform <https://translate.openstack."
+"org/>` __, mengkompilasi dan melayani string ini di Horizon. Anda memerlukan "
+"mesin dengan dua atau empat core CPU, setidaknya 8 GB memori dan 70 GB disk "
+"untuk menjalankan OSA."
+
+msgid ""
+"`Periodic jobs: Syncing into repos <http://zuul.opendev.org/t/openstack/"
+"builds?job_name=propose-translation-update>`__"
+msgstr ""
+"`Periodic jobs: Syncing into repos <http://zuul.opendev.org/t/openstack/"
+"builds?job_name=propose-translation-update>`__"
+
+msgid ""
+"`Post jobs - Syncing to Zanata <https://zuul.opendev.org/t/openstack/builds?"
+"job_name=upstream-translation-update>`__"
+msgstr ""
+"`Post jobs - Syncing to Zanata <https://zuul.opendev.org/t/openstack/builds?"
+"job_name=upstream-translation-update>`__"
+
+msgid ""
+"`Profile <https://translate.openstack.org/profile/>`__ page provides more "
+"nice statistics view. It shows your statistics in this month and last month."
+msgstr ""
+"Halaman `Profile <https://translate.openstack.org/profile/>`__ menyediakan "
+"tampilan statistik yang lebih bagus. Ini menunjukkan statistik Anda di bulan "
+"ini dan bulan lalu."
+
+msgid ""
+"`Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/"
+"quickref.html>`__"
+msgstr ""
+"`Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/"
+"quickref.html>`__"
+
+msgid ""
+"`Sphinx documentation <http://sphinx.readthedocs.io/en/latest/rest.html>`__"
+msgstr ""
+"`Sphinx documentation <http://sphinx.readthedocs.io/en/latest/rest.html>`__"
+
+msgid ""
+"`Stackalytics <http://stackalytics.com/>`__ is a popular web site which "
+"allows us to know various statistics related to OpenStack. It supports "
+"translation statistics :)"
+msgstr ""
+"`Stackalytics <http://stackalytics.com/>`__ Adalah situs web populer yang "
+"memungkinkan kita mengetahui berbagai statistik yang berkaitan dengan "
+"OpenStack. Ini mendukung statistik terjemahan :)"
+
+msgid "`Translation plan <https://translate.openstack.org/>`_"
+msgstr "`Rencana penerjemahan <https://translate.openstack.org/>`_"
+
+msgid ""
+"`Translation statistics <http://stackalytics.com/?metric=translations>`_"
+msgstr ""
+"`Statistik penerjemahan <http://stackalytics.com/?metric=translations>`_"
+
+msgid "``--help`` option shows the detail usage."
+msgstr "Opsi ``--help`` menunjukkan penggunaan detail."
+
+msgid "``<Zanata-project-name>`` is Zanata project name,"
+msgstr "``<Zanata-project-name>`` adalah nama proyek Zanata,"
+
+msgid ""
+"``<Zanata-project-version>`` is Zanata project version such as ``master`` or "
+"``stable-mitaka``,"
+msgstr ""
+"``<Zanata-project-version>`` adalah versi proyek Zanata seperti ``master`` "
+"atau ``stable-mitaka``,"
+
+msgid ""
+"``<path>`` is a path of a document such as ``nova/locale``, "
+"``openstack_dashboard/locale`` or ``releasenotes/source/locale``,"
+msgstr ""
+"``<path>`` adalah jalur dokumen seperti ``nova/locale``, "
+"``openstack_dashboard/locale`` atau  ``releasenotes/source/locale``,"
+
+msgid "``<resource>`` is a document name in Zanata."
+msgstr "``<resource>`` adalah nama dokumen di Zanata."
+
+msgid "``dashboards/admin/aggregates/views.py:104``"
+msgstr "``dashboards/admin/aggregates/views.py:104``"
+
+msgid "``dashboards/project/containers/templates/containers/_update.html:21``"
+msgstr "``dashboards/project/containers/templates/containers/_update.html:21``"
+
+msgid "``dashboards/project/loadbalancers/workflows.py:44``"
+msgstr "``dashboards/project/loadbalancers/workflows.py:44``"
+
+msgid ""
+"`build status for publishing on Zuul <http://zuul.openstack.org/builds.html?"
+"job_name=publish-openstack-manuals>`__"
+msgstr ""
+"`build status for publishing on Zuul <http://zuul.openstack.org/builds.html?"
+"job_name=publish-openstack-manuals>`__"
+
+msgid ""
+"`checkbuild with drafts on Zuul <http://zuul.openstack.org/builds.html?"
+"job_name=build-tox-manuals-checkbuild>`__"
+msgstr ""
+"`checkbuild with drafts on Zuul <http://zuul.openstack.org/builds.html?"
+"job_name=build-tox-manuals-checkbuild>`__"
+
+msgid ""
+"`common_translation_update.sh <https://opendev.org/openstack/openstack-zuul-"
+"jobs/src/roles/prepare-zanata-client/files/common_translation_update.sh>`__"
+msgstr ""
+"`common_translation_update.sh <https://opendev.org/openstack/openstack-zuul-"
+"jobs/src/roles/prepare-zanata-client/files/common_translation_update.sh>`__"
+
+msgid ""
+"`create-zanata-xml.py <https://opendev.org/openstack/openstack-zuul-jobs/src/"
+"roles/prepare-zanata-client/files/create-zanata-xml.py>`__"
+msgstr ""
+"`create-zanata-xml.py <https://opendev.org/openstack/openstack-zuul-jobs/src/"
+"roles/prepare-zanata-client/files/create-zanata-xml.py>`__"
+
+msgid ""
+"`https://review.opendev.org/#/c/451625/ <https://review.opendev.org/#/"
+"c/451625/>`__"
+msgstr ""
+"`https://review.opendev.org/#/c/451625/ <https://review.opendev.org/#/"
+"c/451625/>`__"
+
+msgid ""
+"`https://review.opendev.org/#/c/483452/ <https://review.opendev.org/#/"
+"c/483452/>`__"
+msgstr ""
+"`https://review.opendev.org/#/c/483452/ <https://review.opendev.org/#/"
+"c/483452/>`__"
+
+msgid ""
+"`https://review.opendev.org/#/c/488226/ <https://review.opendev.org/#/"
+"c/488226/>`__"
+msgstr ""
+"`https://review.opendev.org/#/c/488226/ <https://review.opendev.org/#/"
+"c/488226/>`__"
+
+msgid ""
+"`openstack-i18n in Launchpad <https://bugs.launchpad.net/openstack-i18n>`_"
+msgstr ""
+"`openstack-i18n in Launchpad <https://bugs.launchpad.net/openstack-i18n>`_"
+
+msgid ""
+"`propose-translation-update.yaml <https://opendev.org/openstack/project-"
+"config/src/playbooks/translation/propose-translation-update.yaml>`__"
+msgstr ""
+"`propose-translation-update.yaml <https://opendev.org/openstack/project-"
+"config/src/playbooks/translation/propose-translation-update.yaml>`__"
+
+msgid ""
+"`releasenotes/pre.yaml <https://opendev.org/openstack/project-config/src/"
+"playbooks/releasenotes/pre.yaml>`__"
+msgstr ""
+"`releasenotes/pre.yaml <https://opendev.org/openstack/project-config/src/"
+"playbooks/releasenotes/pre.yaml>`__"
+
+msgid ""
+"`releasenotes/run.yaml <https://opendev.org/openstack/project-config/src/"
+"playbooks/releasenotes/run.yaml>`__"
+msgstr ""
+"`releasenotes/run.yaml <https://opendev.org/openstack/project-config/src/"
+"playbooks/releasenotes/run.yaml>`__"
+
+msgid ""
+"`upstream-translation-update.yaml <https://opendev.org/openstack/project-"
+"config/src/playbooks/translation/upstream-translation-update.yaml>`__"
+msgstr ""
+"`upstream-translation-update.yaml <https://opendev.org/openstack/project-"
+"config/src/playbooks/translation/upstream-translation-update.yaml>`__"
+
+msgid "add the source project to \"Also affects project\" of this bug."
+msgstr "tambahkan proyek sumber untuk \"Also affects project\" dari bug ini."
+
+msgid "adiantum"
+msgstr "adiantum"
+
+msgid "adri2000"
+msgstr "adri2000"
+
+msgid "akihito_inoh"
+msgstr "akihito_inoh"
+
+msgid "albertomolina"
+msgstr "albertomolina"
+
+msgid "aleksey"
+msgstr "aleksey"
+
+msgid "alessandra"
+msgstr "alessandra"
+
+msgid "alexanderloew2"
+msgstr "alexanderloew2"
+
+msgid "amikhalev"
+msgstr "amikhalev"
+
+msgid "amotoki"
+msgstr "amotoki"
+
+msgid "andibing"
+msgstr "andibing"
+
+msgid "andrecampos"
+msgstr "andrecampos"
+
+msgid "angelique_pillal16"
+msgstr "angelique_pillal16"
+
+msgid "anikitenkov"
+msgstr "anikitenkov"
+
+msgid "anndro"
+msgstr "anndro"
+
+msgid "antoniok"
+msgstr "antoniok"
+
+msgid "apapsujko"
+msgstr "apapsujko"
+
+msgid "aperri"
+msgstr "aperri"
+
+msgid "approved"
+msgstr "approved"
+
+msgid "ar"
+msgstr "ar"
+
+msgid "ardentpark"
+msgstr "ardentpark"
+
+msgid ""
+"assign the bug to you or a member of your language team, and then mark it as "
+"\"In Progress\""
+msgstr ""
+"tetapkan bug itu kepada Anda atau anggota tim bahasa Anda, lalu tandai "
+"sebagai \"In Progress\""
+
+msgid "benjenwong"
+msgstr "benjenwong"
+
+msgid "betorvalds"
+msgstr "betorvalds"
+
+msgid "bg-BG"
+msgstr "bg-BG"
+
+msgid "billxiang"
+msgstr "billxiang"
+
+msgid "bin"
+msgstr "bin"
+
+msgid "blkart"
+msgstr "blkart"
+
+msgid "bnitech"
+msgstr "bnitech"
+
+msgid "bokaitseng"
+msgstr "bokaitseng"
+
+msgid "bryan_tak"
+msgstr "bryan_tak"
+
+msgid "bugs in a source project"
+msgstr "bug dalam proyek sumber"
+
+msgid "bugs in tool chains"
+msgstr "bug di rantai alat"
+
+msgid "caihui"
+msgstr "caihui"
+
+msgid "ccamacho"
+msgstr "ccamacho"
+
+msgid "cduch"
+msgstr "cduch"
+
+msgid "chancethecoder"
+msgstr "chancethecoder"
+
+msgid "changhuiyuan"
+msgstr "changhuiyuan"
+
+msgid "chasetherabbit"
+msgstr "chasetherabbit"
+
+msgid "chuinggun"
+msgstr "chuinggun"
+
+msgid "ciello89"
+msgstr "ciello89"
+
+msgid "confirm the bug"
+msgstr "confirmasi bug"
+
+msgid "confirm the bug or mark it as incomplete"
+msgstr "Konfirmasikan bug atau tandai sebagai tidak lengkap"
+
+msgid "corin"
+msgstr "corin"
+
+msgid "croe"
+msgstr "croe"
+
+msgid "cs"
+msgstr "cs"
+
+msgid "csucom"
+msgstr "csucom"
+
+msgid "daisyycguo"
+msgstr "daisyycguo"
+
+msgid "danny"
+msgstr "danny"
+
+msgid "dayou"
+msgstr "dayou"
+
+msgid "de"
+msgstr "de"
+
+msgid "deejay1"
+msgstr "deejay1"
+
+msgid "derekjhyang"
+msgstr "derekjhyang"
+
+msgid "dmakarov"
+msgstr "dmakarov"
+
+msgid "dsantos"
+msgstr "dsantos"
+
+msgid "duyarli"
+msgstr "duyarli"
+
+msgid "dynarro"
+msgstr "dynarro"
+
+msgid "eblock"
+msgstr "eblock"
+
+msgid "ebrandi"
+msgstr "ebrandi"
+
+msgid "egongu90"
+msgstr "egongu90"
+
+msgid "el"
+msgstr "el"
+
+msgid "elliswu"
+msgstr "elliswu"
+
+msgid "en-AU"
+msgstr "en-AU"
+
+msgid "en-GB"
+msgstr "en-GB"
+
+msgid "eo"
+msgstr "eo"
+
+msgid "ericbaum"
+msgstr "ericbaum"
+
+msgid "es"
+msgstr "es"
+
+msgid "es-MX"
+msgstr "es-MX"
+
+msgid "eugeniato"
+msgstr "eugeniato"
+
+msgid "eumel8"
+msgstr "eumel8"
+
+msgid ""
+"exported the translators contribution statistics from Transifex since "
+"2014-11-01 to 2015-07-16"
+msgstr ""
+"Mengekspor statistik penerjemah dari Transifex sejak 2014-11-01 sampai "
+"2015-07-16"
+
+msgid "fcpimenta"
+msgstr "fcpimenta"
+
+msgid "fdotfr"
+msgstr "fdotfr"
+
+msgid "fi-FI"
+msgstr "fi-FI"
+
+msgid "fifieldt"
+msgstr "fifieldt"
+
+msgid ""
+"fix it by visiting a corresponding resource in Zanata and correcting "
+"translations."
+msgstr ""
+"Perbaiki dengan mengunjungi sumber yang sesuai di Zanata dan memperbaiki "
+"terjemahan."
+
+msgid "fr"
+msgstr "fr"
+
+msgid "franciosi"
+msgstr "franciosi"
+
+msgid "frank"
+msgstr "frank"
+
+msgid "frontjang"
+msgstr "frontjang"
+
+msgid "ftarasenko"
+msgstr "ftarasenko"
+
+msgid "gael\\_\\_"
+msgstr "gael\\_\\_"
+
+msgid "gael\\__"
+msgstr "gael\\__"
+
+msgid "gael_rehault"
+msgstr "gael_rehault"
+
+msgid "gecong"
+msgstr "gecong"
+
+msgid "gehennem"
+msgstr "gehennem"
+
+msgid "geraldlonlas"
+msgstr "geraldlonlas"
+
+msgid "gomarivera"
+msgstr "gomarivera"
+
+msgid "gonarys"
+msgstr "gonarys"
+
+msgid "gouthamr"
+msgstr "gouthamr"
+
+msgid "h3c_wuhan"
+msgstr "h3c_wuhan"
+
+msgid "ha_miyamoto"
+msgstr "ha_miyamoto"
+
+msgid "haruki"
+msgstr "haruki"
+
+msgid "heetaeahn"
+msgstr "heetaeahn"
+
+msgid "heleno_jimenez"
+msgstr "heleno_jimenez"
+
+msgid "henris"
+msgstr "henris"
+
+msgid "hidekazuna"
+msgstr "hidekazuna"
+
+msgid "hitomi_koba"
+msgstr "hitomi_koba"
+
+msgid ""
+"http://docs.openstack.org/<lang> contains released documents. Follow "
+"\"Languages\" in http://docs.openstack.org/."
+msgstr ""
+"http://docs.openstack.org/<lang> contains released documents. Follow "
+"\"Languages\" in http://docs.openstack.org/."
+
+msgid "http://lists.openstack.org/pipermail/openstack-dev/2016-May/094215.html"
+msgstr ""
+"http://lists.openstack.org/pipermail/openstack-dev/2016-May/094215.html"
+
+msgid "huyupeng"
+msgstr "huyupeng"
+
+msgid "hybridpollo"
+msgstr "hybridpollo"
+
+msgid "ianychoi"
+msgstr "ianychoi"
+
+msgid "id"
+msgstr "id"
+
+msgid "igene"
+msgstr "igene"
+
+msgid "ikochetova"
+msgstr "ikochetova"
+
+msgid "iranzo"
+msgstr "iranzo"
+
+msgid "isbaran"
+msgstr "isbaran"
+
+msgid "ishashero"
+msgstr "ishashero"
+
+msgid "istartsev"
+msgstr "istartsev"
+
+msgid "it"
+msgstr "it"
+
+msgid "itlinux"
+msgstr "itlinux"
+
+msgid "ja"
+msgstr "ja"
+
+msgid "jaegerandi"
+msgstr "jaegerandi"
+
+msgid "jaeho93"
+msgstr "jaeho93"
+
+msgid "jaewook_oh"
+msgstr "jaewook_oh"
+
+msgid "james_kim"
+msgstr "james_kim"
+
+msgid "jameslee"
+msgstr "jameslee"
+
+msgid "janghe11"
+msgstr "janghe11"
+
+msgid "jenner"
+msgstr "jenner"
+
+msgid "jenniferkuo"
+msgstr "jenniferkuo"
+
+msgid "jftalta"
+msgstr "jftalta"
+
+msgid "jiangyikun"
+msgstr "jiangyikun"
+
+msgid "jimidar"
+msgstr "jimidar"
+
+msgid "jimmyli"
+msgstr "jimmyli"
+
+msgid "jitaejang"
+msgstr "jitaejang"
+
+msgid "jmont"
+msgstr "jmont"
+
+msgid "johjuhyun"
+msgstr "johjuhyun"
+
+msgid "jongsoo_ha"
+msgstr "jongsoo_ha"
+
+msgid "jongwooh"
+msgstr "jongwooh"
+
+msgid "josemello"
+msgstr "josemello"
+
+msgid "jpichon"
+msgstr "jpichon"
+
+msgid "jsshin"
+msgstr "jsshin"
+
+msgid "kapoulas"
+msgstr "kapoulas"
+
+msgid "kepark07"
+msgstr "kepark07"
+
+msgid "ko-KR"
+msgstr "ko-KR"
+
+msgid "koain"
+msgstr "koain"
+
+msgid "kodokuu"
+msgstr "kodokuu"
+
+msgid "komatineni"
+msgstr "komatineni"
+
+msgid "kuroshun"
+msgstr "kuroshun"
+
+msgid "kyle"
+msgstr "kyle"
+
+msgid "kzaitsev"
+msgstr "kzaitsev"
+
+msgid "lang"
+msgstr "lang"
+
+msgid "lapalm"
+msgstr "lapalm"
+
+msgid "lee_dogeon"
+msgstr "lee_dogeon"
+
+msgid "leiyahsuai"
+msgstr "leiyahsuai"
+
+msgid "lenkahusakova"
+msgstr "lenkahusakova"
+
+msgid "liced"
+msgstr "liced"
+
+msgid "lindayang"
+msgstr "lindayang"
+
+msgid "linkid"
+msgstr "linkid"
+
+msgid "linlin"
+msgstr "linlin"
+
+msgid "liujiong"
+msgstr "liujiong"
+
+msgid "liujunpeng"
+msgstr "liujunpeng"
+
+msgid "lnic"
+msgstr "lnic"
+
+msgid "loewal"
+msgstr "loewal"
+
+msgid "lony"
+msgstr "lony"
+
+msgid "loures"
+msgstr "loures"
+
+msgid "lstemmle"
+msgstr "lstemmle"
+
+msgid "ltoscano"
+msgstr "ltoscano"
+
+msgid "lucasagomes"
+msgstr "lucasagomes"
+
+msgid "majed_alangari"
+msgstr "majed_alangari"
+
+msgid "makowals"
+msgstr "makowals"
+
+msgid "maoshuai"
+msgstr "maoshuai"
+
+msgid "marcelodieder"
+msgstr "marcelodieder"
+
+msgid "marcio"
+msgstr "marcio"
+
+msgid "mariantb"
+msgstr "mariantb"
+
+msgid "marquesc"
+msgstr "marquesc"
+
+msgid "masami_sasahara"
+msgstr "masami_sasahara"
+
+msgid "max821214"
+msgstr "max821214"
+
+msgid "mbozhenko"
+msgstr "mbozhenko"
+
+msgid "michaelko"
+msgstr "michaelko"
+
+msgid "mimisheep"
+msgstr "mimisheep"
+
+msgid "minwookshin"
+msgstr "minwookshin"
+
+msgid "mmarin"
+msgstr "mmarin"
+
+msgid "mmasaki"
+msgstr "mmasaki"
+
+msgid "mokhin2"
+msgstr "mokhin2"
+
+msgid "mucahit"
+msgstr "mucahit"
+
+msgid "myamamot"
+msgstr "myamamot"
+
+msgid "nburtsev"
+msgstr "nburtsev"
+
+msgid "ne"
+msgstr "ne"
+
+msgid "needReview"
+msgstr "needReview"
+
+msgid "nexusz99"
+msgstr "nexusz99"
+
+msgid "nikoul"
+msgstr "nikoul"
+
+msgid "nokostya"
+msgstr "nokostya"
+
+msgid "noonedeadpunk"
+msgstr "noonedeadpunk"
+
+msgid "norop00"
+msgstr "norop00"
+
+msgid "northward"
+msgstr "northward"
+
+msgid "nsmirnov"
+msgstr "nsmirnov"
+
+msgid "nuyori"
+msgstr "nuyori"
+
+msgid "openstack"
+msgstr "openstack"
+
+msgid "openstackhc"
+msgstr "openstackhc"
+
+msgid "otsuka"
+msgstr "otsuka"
+
+msgid "oussemos"
+msgstr "oussemos"
+
+msgid "pa-IN"
+msgstr "pa-IN"
+
+msgid "pat"
+msgstr "pat"
+
+msgid "pcaruana"
+msgstr "pcaruana"
+
+msgid "petro"
+msgstr "petro"
+
+msgid "pl-PL"
+msgstr "pl-PL"
+
+msgid "plarivee"
+msgstr "plarivee"
+
+msgid "porrua"
+msgstr "porrua"
+
+msgid "prioritize the bug"
+msgstr "memprioritaskan bug"
+
+msgid "project"
+msgstr "project"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "pt-BR"
+msgstr "pt-BR"
+
+msgid "raildomascena"
+msgstr "raildomascena"
+
+msgid "rbraga"
+msgstr "rbraga"
+
+msgid "rejected"
+msgstr "rejected"
+
+msgid "review-approved"
+msgstr "review-approved"
+
+msgid "review-rejected"
+msgstr "review-rejected"
+
+msgid "review-total"
+msgstr "review-total"
+
+msgid "ricardobras"
+msgstr "ricardobras"
+
+msgid "riku_kobane"
+msgstr "riku_kobane"
+
+msgid "robcresswell"
+msgstr "robcresswell"
+
+msgid "robin_x"
+msgstr "robin_x"
+
+msgid "romainsc"
+msgstr "romainsc"
+
+msgid "rsimai"
+msgstr "rsimai"
+
+msgid "ru"
+msgstr "ru"
+
+msgid "rustinpeace"
+msgstr "rustinpeace"
+
+msgid "sanporci"
+msgstr "sanporci"
+
+msgid "sasukeh"
+msgstr "sasukeh"
+
+msgid "seeung_kang"
+msgstr "seeung_kang"
+
+msgid "sendz"
+msgstr "sendz"
+
+msgid "senk"
+msgstr "senk"
+
+msgid "seokjae"
+msgstr "seokjae"
+
+msgid "seonhopark"
+msgstr "seonhopark"
+
+msgid "seyeon"
+msgstr "seyeon"
+
+msgid "sfilatov"
+msgstr "sfilatov"
+
+msgid "shintaro"
+msgstr "shintaro"
+
+msgid "shu"
+msgstr "shu"
+
+msgid "shuquan"
+msgstr "shuquan"
+
+msgid "sitle"
+msgstr "sitle"
+
+msgid "spielkind"
+msgstr "spielkind"
+
+msgid "stanislavulrych"
+msgstr "stanislavulrych"
+
+msgid "suhartono"
+msgstr "suhartono"
+
+msgid "sunanchen"
+msgstr "sunanchen"
+
+msgid "sunjing"
+msgstr "sunjing"
+
+msgid "surit"
+msgstr "surit"
+
+msgid "sylvie_chesneau"
+msgstr "sylvie_chesneau"
+
+msgid "t09sunny"
+msgstr "t09sunny"
+
+msgid "tag it with the project name, for example \"horizon\" or \"docs\"."
+msgstr "Tandai dengan nama proyek, misalnya \"horizon\" atau \"docs\"."
+
+msgid "tag the bug with a language name"
+msgstr "Tag bug dengan nama bahasa"
+
+msgid "te-IN"
+msgstr "te-IN"
+
+msgid "terrytai820"
+msgstr "terrytai820"
+
+msgid "tfu"
+msgstr "tfu"
+
+msgid "thnam"
+msgstr "thnam"
+
+msgid "thomas_vysokos"
+msgstr "thomas_vysokos"
+
+msgid "tigerfang"
+msgstr "tigerfang"
+
+msgid "tmorin"
+msgstr "tmorin"
+
+msgid "to222"
+msgstr "to222"
+
+msgid "topicblue"
+msgstr "topicblue"
+
+msgid "tr-TR"
+msgstr "tr-TR"
+
+msgid "translated"
+msgstr "translated"
+
+msgid "translated + reviewed"
+msgstr "translated + reviewed"
+
+msgid "translation bugs"
+msgstr "bug terjemahan"
+
+msgid "translation-total"
+msgstr "translation-total"
+
+msgid "travisn"
+msgstr "travisn"
+
+msgid "ts5516"
+msgstr "ts5516"
+
+msgid "tsbook"
+msgstr "tsbook"
+
+msgid "tsuji"
+msgstr "tsuji"
+
+msgid "tsutomu_kimura"
+msgstr "tsutomu_kimura"
+
+msgid "ujuc"
+msgstr "ujuc"
+
+msgid "user_id"
+msgstr "user_id"
+
+msgid "valentin"
+msgstr "valentin"
+
+msgid "vcomas3"
+msgstr "vcomas3"
+
+msgid "version"
+msgstr "version"
+
+msgid "vgerardojr"
+msgstr "vgerardojr"
+
+msgid "vi01et"
+msgstr "vi01et"
+
+msgid "vponomaryov"
+msgstr "vponomaryov"
+
+msgid "vsokolov"
+msgstr "vsokolov"
+
+msgid "vstepurova"
+msgstr "vstepurova"
+
+msgid "vuuv"
+msgstr "vuuv"
+
+msgid "wall_dirk"
+msgstr "wall_dirk"
+
+msgid "webberguo"
+msgstr "webberguo"
+
+msgid "willychen"
+msgstr "willychen"
+
+msgid "wonil22"
+msgstr "wonil22"
+
+msgid "woobee"
+msgstr "woobee"
+
+msgid "xhkjoe"
+msgstr "xhkjoe"
+
+msgid "xiangbinbin"
+msgstr "xiangbinbin"
+
+msgid "xuyang"
+msgstr "xuyang"
+
+msgid "xywang"
+msgstr "xywang"
+
+msgid "yagehu"
+msgstr "yagehu"
+
+msgid "yanghongyu"
+msgstr "yanghongyu"
+
+msgid "yasemindemiral"
+msgstr "yasemindemiral"
+
+msgid "yasir"
+msgstr "yasir"
+
+msgid "yeguchi"
+msgstr "yeguchi"
+
+msgid "yfukuda"
+msgstr "yfukuda"
+
+msgid "ygbo"
+msgstr "ygbo"
+
+msgid "yihleong"
+msgstr "yihleong"
+
+msgid "ykatabam"
+msgstr "ykatabam"
+
+msgid "yongxiangwang"
+msgstr "yongxiangwang"
+
+msgid "yosshy"
+msgstr "yosshy"
+
+msgid "yryndenkova"
+msgstr "yryndenkova"
+
+msgid "yu_kasuya"
+msgstr "yu_kasuya"
+
+msgid "yukinori_yagisawa"
+msgstr "yukinori_yagisawa"
+
+msgid "yusuke1219"
+msgstr "yusuke1219"
+
+msgid "yuta_hono"
+msgstr "yuta_hono"
+
+msgid "zenglulu"
+msgstr "zenglulu"
+
+msgid "zero00072"
+msgstr "zero00072"
+
+msgid "zeusal"
+msgstr "zeusal"
+
+msgid "zh-CN"
+msgstr "zh-CN"
+
+msgid "zh-TW"
+msgstr "zh-TW"
+
+msgid "zhangjingwen"
+msgstr "zhangjingwen"
+
+msgid "zhengjie7800"
+msgstr "zhengjie7800"
+
+msgid "zhonghuali"
+msgstr "zhonghuali"
+
+msgid "zhouchangxun"
+msgstr "zhouchangxun"
+
+msgid "zhsj"
+msgstr "zhsj"
+
+msgid "zhubx007"
+msgstr "zhubx007"
+
+msgid "zhugaoxiao"
+msgstr "zhugaoxiao"
+
+msgid "zigmax"
+msgstr "zigmax"
+
+msgid "zloykaban"
+msgstr "zloykaban"
+
+msgid "zzxwill"
+msgstr "zzxwill"
+
+msgid "Łukasz Jernas (id: deejay1) - Polish (Poland)"
+msgstr "Łukasz Jernas (id: deejay1) - Polish (Poland)"
