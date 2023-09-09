@@ -1,0 +1,549 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-11 17:32+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+msgid "aggregate"
+msgstr "aggregato"
+
+#, fuzzy
+msgid "allocate IP"
+msgstr "Assegna IP"
+
+msgid "API endpoint"
+msgstr ""
+
+#, fuzzy
+msgid "architecture"
+msgstr "Architettura"
+
+msgid "association"
+msgstr "associazione"
+
+#, fuzzy
+msgid "associate IP"
+msgstr "associazione"
+
+msgid "attribute"
+msgstr ""
+
+msgid "authenticate"
+msgstr "autenticare"
+
+msgid "authorize"
+msgstr "autorizzare"
+
+msgid "availability zone"
+msgstr "zona di disponibilità"
+
+msgid "backend"
+msgstr "backend"
+
+msgid "backup"
+msgstr "backup"
+
+msgid "Bare Metal service"
+msgstr ""
+
+#, fuzzy
+msgid "Block Storage service"
+msgstr "Servizi Compute"
+
+msgid "body"
+msgstr ""
+
+msgid "boot"
+msgstr "avvio"
+
+msgid "cache"
+msgstr "cache"
+
+msgid "CIDR"
+msgstr "CIDR"
+
+msgid "client"
+msgstr "client"
+
+msgid "cluster"
+msgstr "cluster"
+
+msgid "comma"
+msgstr ""
+
+#, fuzzy
+msgid "compute"
+msgstr "Compute"
+
+#, fuzzy
+msgid "Compute service"
+msgstr "Servizi Compute"
+
+msgid "config drive"
+msgstr ""
+
+msgid "configuration"
+msgstr ""
+
+msgid "connection"
+msgstr ""
+
+#, fuzzy
+msgid "consistency group"
+msgstr "Gruppo di sicurezza"
+
+msgid "container"
+msgstr "contenitore"
+
+#, fuzzy
+msgid "container format"
+msgstr "Formato contenitore"
+
+msgid "controller"
+msgstr ""
+
+#, fuzzy
+msgid "credential"
+msgstr "credenziali"
+
+msgid "Database service"
+msgstr ""
+
+#, fuzzy
+msgid "data processing"
+msgstr "Data Processing"
+
+msgid "Data Processing service"
+msgstr ""
+
+#, fuzzy
+msgid "destination container"
+msgstr "Contenitore di destinazione"
+
+#, fuzzy
+msgid "destination object name"
+msgstr "Nome oggetto di destinazione"
+
+msgid "device"
+msgstr "dispositivo"
+
+#, fuzzy
+msgid "disassociate IP"
+msgstr "Annulla associazione IP"
+
+msgid "disk"
+msgstr "disco"
+
+#, fuzzy
+msgid "disk format"
+msgstr "Formato disco"
+
+#, fuzzy
+msgid "disk GB hours"
+msgstr "Ore GB di disco"
+
+msgid "distribution"
+msgstr ""
+
+msgid "domain"
+msgstr "dominio"
+
+msgid "domain group"
+msgstr "gruppo di dominio"
+
+msgid "environment"
+msgstr ""
+
+#, fuzzy
+msgid "ephemeral disk"
+msgstr "Disco temporaneo"
+
+#, fuzzy
+msgid "ephemeral drive"
+msgstr "Unità temporanea"
+
+msgid "existence"
+msgstr "esistenza"
+
+msgid "export"
+msgstr ""
+
+#, fuzzy
+msgid "export location"
+msgstr "replica"
+
+#, fuzzy
+msgid "fetching"
+msgstr "In fase di recupero"
+
+#, fuzzy
+msgid "fingerprint"
+msgstr "Impronta digitale"
+
+#, fuzzy
+msgid "fixed IP"
+msgstr "IP fisso"
+
+#, fuzzy
+msgid "flavor"
+msgstr "Flavor"
+
+#, fuzzy
+msgid "floating IP"
+msgstr "IP mobile"
+
+msgid "gateway"
+msgstr "gateway"
+
+msgid "guide"
+msgstr "guida"
+
+#, fuzzy
+msgid "health monitor"
+msgstr "Monitor di integrità"
+
+msgid "host"
+msgstr "host"
+
+#, fuzzy
+msgid "host aggregate"
+msgstr "Aggregato host"
+
+msgid "hypervisor"
+msgstr "hypervisor"
+
+msgid "identifier"
+msgstr "identificativo"
+
+#, fuzzy
+msgid "identity provider"
+msgstr "identificativo"
+
+#, fuzzy
+msgid "Identity service"
+msgstr "identificativo"
+
+msgid "image"
+msgstr "immagine"
+
+#, fuzzy
+msgid "Image service"
+msgstr "Servizi Compute"
+
+msgid "initiator"
+msgstr "programma di inizializzazione"
+
+#, fuzzy
+msgid "injected file"
+msgstr "File inseriti"
+
+msgid "instance"
+msgstr "istanza"
+
+msgid "interface"
+msgstr "interfaccia"
+
+msgid "job"
+msgstr "job"
+
+msgid "job template"
+msgstr "template job"
+
+msgid "key"
+msgstr ""
+
+#, fuzzy
+msgid "keypair"
+msgstr "Coppia di chiavi"
+
+msgid "killed"
+msgstr ""
+
+#, fuzzy
+msgid "L2population"
+msgstr "replica"
+
+msgid "launch"
+msgstr "avviare"
+
+msgid "layer-2 population mechanism"
+msgstr ""
+
+msgid "load balancer"
+msgstr "bilanciatore di carico"
+
+msgid "library"
+msgstr "libreria"
+
+msgid "management interface"
+msgstr ""
+
+msgid "master"
+msgstr "master"
+
+msgid "member"
+msgstr "membro"
+
+msgid "Memcached"
+msgstr ""
+
+msgid "memory"
+msgstr "memoria"
+
+msgid "meter"
+msgstr "misuratore"
+
+msgid "N/A"
+msgstr ""
+
+msgid "namespace"
+msgstr "spazio dei nomi"
+
+msgid "Networking service"
+msgstr ""
+
+msgid "NFS share"
+msgstr ""
+
+msgid "node"
+msgstr "nodo"
+
+msgid "object"
+msgstr "oggetto"
+
+msgid "object storage"
+msgstr ""
+
+msgid "Object Storage service"
+msgstr ""
+
+#, fuzzy
+msgid "orchestration"
+msgstr "orchestrazione"
+
+msgid "Orchestration service"
+msgstr ""
+
+msgid "over commit"
+msgstr "over commit"
+
+msgid "owner"
+msgstr ""
+
+#, fuzzy
+msgid "pagination"
+msgstr "replica"
+
+#, fuzzy
+msgid "parameter"
+msgstr "parametro"
+
+#, fuzzy
+msgid "perfect forward secrecy"
+msgstr "PFS (Perfect Forward Secrecy) "
+
+#, fuzzy
+msgid "permission"
+msgstr "hypervisor"
+
+msgid "plugin"
+msgstr "plugin"
+
+msgid "policy"
+msgstr "criterio"
+
+msgid "pool"
+msgstr "pool"
+
+#, fuzzy
+msgid "project"
+msgstr "Progetto"
+
+#, fuzzy
+msgid "property"
+msgstr "Progetto"
+
+#, fuzzy
+msgid "public key"
+msgstr "Chiave pubblica"
+
+msgid "quota"
+msgstr "quota"
+
+#, fuzzy
+msgid "quotas"
+msgstr "quota"
+
+msgid "raw image"
+msgstr ""
+
+msgid "reboot"
+msgstr "riavvio"
+
+#, fuzzy
+msgid "region"
+msgstr "Regione"
+
+msgid "release IP"
+msgstr ""
+
+msgid "remote"
+msgstr "remoto"
+
+msgid "replication"
+msgstr "replica"
+
+#, fuzzy
+msgid "restore"
+msgstr "memoria"
+
+#, fuzzy
+msgid "role"
+msgstr "Ruolo"
+
+msgid "router"
+msgstr "router"
+
+msgid "section"
+msgstr ""
+
+#, fuzzy
+msgid "security group"
+msgstr "Gruppo di sicurezza"
+
+msgid "server"
+msgstr "server"
+
+msgid "shard"
+msgstr ""
+
+#, fuzzy
+msgid "share"
+msgstr "Utilizzo"
+
+msgid "share network"
+msgstr ""
+
+#, fuzzy
+msgid "share server"
+msgstr "server"
+
+msgid "Shared File Systems service"
+msgstr ""
+
+#, fuzzy
+msgid "shelve instance"
+msgstr "istanza"
+
+msgid "signature"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "snapshot"
+msgstr "istantanea"
+
+msgid "stack"
+msgstr "stack"
+
+#, fuzzy
+msgid "state"
+msgstr "memoria"
+
+msgid "status"
+msgstr ""
+
+msgid "storage"
+msgstr "memoria"
+
+msgid "submit"
+msgstr "inoltrare"
+
+msgid "subnet"
+msgstr "sottorete"
+
+#, fuzzy
+msgid "swap disk"
+msgstr "Disco swap"
+
+#, fuzzy
+msgid "system panel"
+msgstr "Pannello di sistema"
+
+msgid "tag"
+msgstr "tag"
+
+msgid "Telemetry service"
+msgstr ""
+
+msgid "template"
+msgstr "template"
+
+#, fuzzy
+msgid "tenant"
+msgstr "Tenant"
+
+#, fuzzy
+msgid "terminate instance"
+msgstr "istanza"
+
+msgid "token"
+msgstr "token"
+
+msgid "transfer"
+msgstr ""
+
+#, fuzzy
+msgid "unshelve instance"
+msgstr "istanza"
+
+#, fuzzy
+msgid "usage"
+msgstr "Utilizzo"
+
+msgid "user"
+msgstr "utente"
+
+msgid "vCPU"
+msgstr ""
+
+msgid "VCPU hours"
+msgstr ""
+
+#, fuzzy
+msgid "vNIC"
+msgstr "dispositivo"
+
+msgid "volume"
+msgstr "volume"
+
+#, fuzzy
+msgid "volume snapshot"
+msgstr "Istantanea volume"
+
+msgid "web"
+msgstr ""
+
+#~ msgid "Associate IP"
+#~ msgstr "Associa IP"
+
+#~ msgid "Quotas"
+#~ msgstr "Quote"
+
+#~ msgid "VCPU Hours"
+#~ msgstr "Ore VCPU"
+
+#~ msgid "Telemetry"
+#~ msgstr ""
+

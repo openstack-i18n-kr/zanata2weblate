@@ -1,0 +1,4617 @@
+# Ian Y. Choi <ianyrchoi@gmail.com>, 2017. #zanata
+# Jongwoo Han <jongwoohan@gmail.com>, 2017. #zanata
+# Sungjin Kang <gang.sungjin@gmail.com>, 2017. #zanata
+# Wonil Choi <wonil0522@gmail.com>, 2017. #zanata
+# minwook-shin <minwook0106@gmail.com>, 2017. #zanata
+# Gu YeongJun <guyeongjun95@gmail.com>, 2018. #zanata
+# Ian Y. Choi <ianyrchoi@gmail.com>, 2018. #zanata
+# Jaeho Cho <jaeho8032@gmail.com>, 2018. #zanata
+# Jaewook Oh <kyle.oh95@gmail.com>, 2018. #zanata
+# Soonyeul Park <ardentpark@gmail.com>, 2018. #zanata
+# Sungjin Kang <gang.sungjin@gmail.com>, 2018. #zanata
+# Wonil Choi <wonil0522@gmail.com>, 2018. #zanata
+# Ian Y. Choi <ianyrchoi@gmail.com>, 2019. #zanata
+# Ian Y. Choi <ianyrchoi@gmail.com>, 2020. #zanata
+# Yoon Soo Lim <msdbtjd123@naver.com>, 2022. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: I18n Contributor Guide\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-28 16:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-08-22 11:46+0000\n"
+"Last-Translator: Yoon Soo Lim <msdbtjd123@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko_KR\n"
+"X-Generator: Zanata 4.3.3\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "(optional) Put your language name as bug tag."
+msgstr "(선택) 언어명을 버그 태그에 넣습니다."
+
+msgid ""
+"**Make sure to include your English language name in a bug summary**. It is "
+"also suggested to write a bug summary in English. For example:"
+msgstr ""
+"**버그 요약에 언어명을 영문으로 포함하는지를 확인합니다**. 버그 요약을 영문으"
+"로 작성하기를 권장합니다. 예를 들면 다음과 같습니다:"
+
+msgid ""
+"**tox** is available on PyPI and also available in various Linux "
+"distribution. ``pip install tox`` or ``apt-get install python-tox`` (in case "
+"of Ubuntu) installs **tox**."
+msgstr ""
+"** tox ** 는 PyPI에서 사용할 수 있으며 다양한 Linux 배포판에서도 사용할 수 있"
+"습니다. ``pip install tox`` 또는 (Ubuntu인 경우) ``apt-get install python-"
+"tox`` 로 **tox** 를 설치합니다."
+
+msgid "..."
+msgstr "..."
+
+msgid "0"
+msgstr "0"
+
+msgid "1"
+msgstr "1"
+
+msgid "10"
+msgstr "10"
+
+msgid "1002"
+msgstr "1002"
+
+msgid "100222"
+msgstr "100222"
+
+msgid "10069"
+msgstr "10069"
+
+msgid "10092"
+msgstr "10092"
+
+msgid "10095"
+msgstr "10095"
+
+msgid "10101"
+msgstr "10101"
+
+msgid "10102"
+msgstr "10102"
+
+msgid "10128"
+msgstr "10128"
+
+msgid "1015"
+msgstr "1015"
+
+msgid "10156"
+msgstr "10156"
+
+msgid "1025"
+msgstr "1025"
+
+msgid "1045"
+msgstr "1045"
+
+msgid "1048"
+msgstr "1048"
+
+msgid "1065"
+msgstr "1065"
+
+msgid "1067"
+msgstr "1067"
+
+msgid "107"
+msgstr "107"
+
+msgid "1077"
+msgstr "1077"
+
+msgid "1079"
+msgstr "1079"
+
+msgid "10797"
+msgstr "10797"
+
+msgid "11"
+msgstr "11"
+
+msgid "110"
+msgstr "110"
+
+msgid "113"
+msgstr "113"
+
+msgid "1131"
+msgstr "1131"
+
+msgid "11384"
+msgstr "11384"
+
+msgid "1139"
+msgstr "1139"
+
+msgid "1141"
+msgstr "1141"
+
+msgid "115"
+msgstr "115"
+
+msgid "11506"
+msgstr "11506"
+
+msgid "116"
+msgstr "116"
+
+msgid "1160"
+msgstr "1160"
+
+msgid "1179"
+msgstr "1179"
+
+msgid "11820"
+msgstr "11820"
+
+msgid "119"
+msgstr "119"
+
+msgid "11994"
+msgstr "11994"
+
+msgid "1216"
+msgstr "1216"
+
+msgid "1222"
+msgstr "1222"
+
+msgid "12384"
+msgstr "12384"
+
+msgid "1248"
+msgstr "1248"
+
+msgid "1255"
+msgstr "1255"
+
+msgid "1261"
+msgstr "1261"
+
+msgid "1266"
+msgstr "1266"
+
+msgid "128"
+msgstr "128"
+
+msgid "1293"
+msgstr "1293"
+
+msgid "13"
+msgstr "13"
+
+msgid "130"
+msgstr "130"
+
+msgid "13272"
+msgstr "13272"
+
+msgid "133"
+msgstr "133"
+
+msgid "1341"
+msgstr "1341"
+
+msgid "13481"
+msgstr "13481"
+
+msgid "1353"
+msgstr "1353"
+
+msgid "137"
+msgstr "137"
+
+msgid "138"
+msgstr "138"
+
+msgid "13813"
+msgstr "13813"
+
+msgid "1386"
+msgstr "1386"
+
+msgid "1388"
+msgstr "1388"
+
+msgid "13995"
+msgstr "13995"
+
+msgid "14"
+msgstr "14"
+
+msgid "1400"
+msgstr "1400"
+
+msgid "1408"
+msgstr "1408"
+
+msgid "141"
+msgstr "141"
+
+msgid "14132"
+msgstr "14132"
+
+msgid "1439"
+msgstr "1439"
+
+msgid "146"
+msgstr "146"
+
+msgid "1471"
+msgstr "1471"
+
+msgid "15"
+msgstr "15"
+
+msgid "15079"
+msgstr "15079"
+
+msgid "152"
+msgstr "152"
+
+msgid "1531"
+msgstr "1531"
+
+msgid "1538"
+msgstr "1538"
+
+msgid "1547"
+msgstr "1547"
+
+msgid "156"
+msgstr "156"
+
+msgid "1565"
+msgstr "1565"
+
+msgid "1576"
+msgstr "1576"
+
+msgid "15934"
+msgstr "15934"
+
+msgid "1603"
+msgstr "1603"
+
+msgid "1606"
+msgstr "1606"
+
+msgid "1633"
+msgstr "1633"
+
+msgid "166739"
+msgstr "166739"
+
+msgid "16773"
+msgstr "16773"
+
+msgid "1678"
+msgstr "1678"
+
+msgid "168"
+msgstr "168"
+
+msgid "16837"
+msgstr "16837"
+
+msgid "1711"
+msgstr "1711"
+
+msgid "17207"
+msgstr "17207"
+
+msgid "1723"
+msgstr "1723"
+
+msgid "1724"
+msgstr "1724"
+
+msgid "1752"
+msgstr "1752"
+
+msgid "1768"
+msgstr "1768"
+
+msgid "17691"
+msgstr "17691"
+
+msgid "179"
+msgstr "179"
+
+msgid "1799"
+msgstr "1799"
+
+msgid "18"
+msgstr "18"
+
+msgid "1850"
+msgstr "1850"
+
+msgid "1881"
+msgstr "1881"
+
+msgid "18845"
+msgstr "18845"
+
+msgid "189"
+msgstr "18"
+
+msgid "1902"
+msgstr "1902"
+
+msgid "19104"
+msgstr "19104"
+
+msgid "1938"
+msgstr "1938"
+
+msgid "1942"
+msgstr "1942"
+
+msgid "19431"
+msgstr "19431"
+
+msgid "1944"
+msgstr "1944"
+
+msgid "1948"
+msgstr "1948"
+
+msgid "195"
+msgstr "195"
+
+msgid "1952"
+msgstr "1952"
+
+msgid "1984"
+msgstr "1984"
+
+msgid "1989"
+msgstr "1989"
+
+msgid "19911"
+msgstr "19911"
+
+msgid "2"
+msgstr "2"
+
+msgid "20"
+msgstr "20"
+
+msgid "201"
+msgstr "201"
+
+msgid "20128"
+msgstr "20128"
+
+msgid "202"
+msgstr "202"
+
+msgid "204"
+msgstr "204"
+
+msgid "2077"
+msgstr "2077"
+
+msgid "208"
+msgstr "208"
+
+msgid "21"
+msgstr "21"
+
+msgid "2121"
+msgstr "2121"
+
+msgid "216"
+msgstr "216"
+
+msgid "21760"
+msgstr "21760"
+
+msgid "2195"
+msgstr "2195"
+
+msgid "2205"
+msgstr "2205"
+
+msgid "2283"
+msgstr "2283"
+
+msgid "22923"
+msgstr "22923"
+
+msgid "2300"
+msgstr "2300"
+
+msgid "2307"
+msgstr "2307"
+
+msgid "23073"
+msgstr "23073"
+
+msgid "231"
+msgstr "231"
+
+msgid "233"
+msgstr "233"
+
+msgid "235"
+msgstr "235"
+
+msgid "236"
+msgstr "236"
+
+msgid "2365"
+msgstr "2365"
+
+msgid "239"
+msgstr "239"
+
+msgid "2394"
+msgstr "2394"
+
+msgid "2397"
+msgstr "2397"
+
+msgid "24"
+msgstr "24"
+
+msgid "2406"
+msgstr "2406"
+
+msgid "246"
+msgstr "246"
+
+msgid "2480"
+msgstr "2480"
+
+msgid "2481"
+msgstr "2481"
+
+msgid "249"
+msgstr "249"
+
+msgid "25"
+msgstr "25"
+
+msgid "2507"
+msgstr "2507"
+
+msgid "25077"
+msgstr "25077"
+
+msgid "252"
+msgstr "252"
+
+msgid "254"
+msgstr "254"
+
+msgid "2544"
+msgstr "2544"
+
+msgid "2554"
+msgstr "2554"
+
+msgid "256"
+msgstr "256"
+
+msgid "25694"
+msgstr "25694"
+
+msgid "258"
+msgstr "258"
+
+msgid "26"
+msgstr "26"
+
+msgid "26356"
+msgstr "26356"
+
+msgid "2651"
+msgstr "2651"
+
+msgid "2660"
+msgstr "2660"
+
+msgid "2663"
+msgstr "2663"
+
+msgid "2668"
+msgstr "2668"
+
+msgid "26707"
+msgstr "26707"
+
+msgid "26843"
+msgstr "26843"
+
+msgid "2692"
+msgstr "2692"
+
+msgid "2703"
+msgstr "2703"
+
+msgid "27143"
+msgstr "27143"
+
+msgid "27355"
+msgstr "27355"
+
+msgid "277"
+msgstr "277"
+
+msgid "278"
+msgstr "278"
+
+msgid "2793"
+msgstr "2793"
+
+msgid "2811"
+msgstr "2811"
+
+msgid "2826"
+msgstr "2826"
+
+msgid "29"
+msgstr "29"
+
+msgid "295"
+msgstr "295"
+
+msgid "2972"
+msgstr "2972"
+
+msgid "3"
+msgstr "3"
+
+msgid "30"
+msgstr "30"
+
+msgid "303"
+msgstr "303"
+
+msgid "3035"
+msgstr "3035"
+
+msgid "3041"
+msgstr "3041"
+
+msgid "3065"
+msgstr "3065"
+
+msgid "309"
+msgstr "309"
+
+msgid "31"
+msgstr "31"
+
+msgid "310"
+msgstr "310"
+
+msgid "31268"
+msgstr "31268"
+
+msgid "31333"
+msgstr "31333"
+
+msgid "317"
+msgstr "317"
+
+msgid "319"
+msgstr "319"
+
+msgid "32"
+msgstr "32"
+
+msgid "321"
+msgstr "321"
+
+msgid "32120"
+msgstr "32120"
+
+msgid "32125"
+msgstr "32125"
+
+msgid "3216"
+msgstr "3216"
+
+msgid "3217"
+msgstr "3217"
+
+msgid "322"
+msgstr "322"
+
+msgid "32261"
+msgstr "32261"
+
+msgid "32785"
+msgstr "32785"
+
+msgid "328"
+msgstr "328"
+
+msgid "32863"
+msgstr "32863"
+
+msgid "330"
+msgstr "330"
+
+msgid "331"
+msgstr "331"
+
+msgid "333"
+msgstr "333"
+
+msgid "3337"
+msgstr "3337"
+
+msgid "3390"
+msgstr "3390"
+
+msgid "34"
+msgstr "34"
+
+msgid "340"
+msgstr "340"
+
+msgid "341"
+msgstr "341"
+
+msgid "3411"
+msgstr "3411"
+
+msgid "344"
+msgstr "344"
+
+msgid "3446"
+msgstr "3446"
+
+msgid "345"
+msgstr "345"
+
+msgid "346"
+msgstr "346"
+
+msgid "34697"
+msgstr "34697"
+
+msgid "3482"
+msgstr "3482"
+
+msgid "352"
+msgstr "352"
+
+msgid "354"
+msgstr "354"
+
+msgid "355"
+msgstr "355"
+
+msgid "357"
+msgstr "357"
+
+msgid "35849"
+msgstr "35849"
+
+msgid "3585"
+msgstr "3585"
+
+msgid "3588"
+msgstr "3588"
+
+msgid "36"
+msgstr "36"
+
+msgid "36676"
+msgstr "36676"
+
+msgid "367"
+msgstr "367"
+
+msgid "3681"
+msgstr "3681"
+
+msgid "37"
+msgstr "37"
+
+msgid "373"
+msgstr "373"
+
+msgid "375"
+msgstr "375"
+
+msgid "379"
+msgstr "379"
+
+msgid "3802"
+msgstr "3802"
+
+msgid "381"
+msgstr "381"
+
+msgid "3825"
+msgstr "3825"
+
+msgid "3849"
+msgstr "3849"
+
+msgid "387"
+msgstr "387"
+
+msgid "391"
+msgstr "391"
+
+msgid "392"
+msgstr "392"
+
+msgid "3961"
+msgstr "3961"
+
+msgid "397"
+msgstr "397"
+
+msgid "3972"
+msgstr "3972"
+
+msgid "3979"
+msgstr "3979"
+
+msgid "4"
+msgstr "4"
+
+msgid "4051"
+msgstr "4051"
+
+msgid "409"
+msgstr "409"
+
+msgid "412"
+msgstr "412"
+
+msgid "4126"
+msgstr "4126"
+
+msgid "4172"
+msgstr "4172"
+
+msgid "4192"
+msgstr "4192"
+
+msgid "4198"
+msgstr "4198"
+
+msgid "420"
+msgstr "420"
+
+msgid "4232"
+msgstr "4232"
+
+msgid "4242"
+msgstr "4242"
+
+msgid "4287"
+msgstr "4287"
+
+msgid "43"
+msgstr "43"
+
+msgid "434"
+msgstr "434"
+
+msgid "435"
+msgstr "435"
+
+msgid "4362"
+msgstr "4362"
+
+msgid "439"
+msgstr "439"
+
+msgid "4413"
+msgstr "4413"
+
+msgid "4455"
+msgstr "4455"
+
+msgid "447"
+msgstr "447"
+
+msgid "44739"
+msgstr "44739"
+
+msgid "452"
+msgstr "452"
+
+msgid "453"
+msgstr "453"
+
+msgid "4546"
+msgstr "4546"
+
+msgid "4577"
+msgstr "4577"
+
+msgid "45901"
+msgstr "45901"
+
+msgid "4591"
+msgstr "4591"
+
+msgid "46"
+msgstr "46"
+
+msgid "4676"
+msgstr "4676"
+
+msgid "4698"
+msgstr "4698"
+
+msgid "472"
+msgstr "472"
+
+msgid "477"
+msgstr "477"
+
+msgid "4780"
+msgstr "4780"
+
+msgid "48"
+msgstr "48"
+
+msgid "480"
+msgstr "480"
+
+msgid "4809"
+msgstr "4809"
+
+msgid "484"
+msgstr "484"
+
+msgid "4862"
+msgstr "4862"
+
+msgid "49"
+msgstr "49"
+
+msgid "4907"
+msgstr "4907"
+
+msgid "495"
+msgstr "495"
+
+msgid "497"
+msgstr "497"
+
+msgid "4989"
+msgstr "4989"
+
+msgid "5"
+msgstr "5"
+
+msgid "500"
+msgstr "500"
+
+msgid "501"
+msgstr "501"
+
+msgid "502"
+msgstr "502"
+
+msgid "506"
+msgstr "506"
+
+msgid "514"
+msgstr "514"
+
+msgid "51448"
+msgstr "51448"
+
+msgid "5206"
+msgstr "5206"
+
+msgid "525"
+msgstr "525"
+
+msgid "529"
+msgstr "529"
+
+msgid "52941"
+msgstr "52941"
+
+msgid "53"
+msgstr "53"
+
+msgid "534"
+msgstr "534"
+
+msgid "5340"
+msgstr "5340"
+
+msgid "540"
+msgstr "540"
+
+msgid "541"
+msgstr "541"
+
+msgid "554"
+msgstr "554"
+
+msgid "5580"
+msgstr "5580"
+
+msgid "56"
+msgstr "56"
+
+msgid "5618"
+msgstr "5618"
+
+msgid "565"
+msgstr "565"
+
+msgid "5669"
+msgstr "5669"
+
+msgid "583"
+msgstr "583"
+
+msgid "586"
+msgstr "586"
+
+msgid "6"
+msgstr "6"
+
+msgid "600"
+msgstr "600"
+
+msgid "6129"
+msgstr "6129"
+
+msgid "617"
+msgstr "617"
+
+msgid "6171"
+msgstr "6171"
+
+msgid "618"
+msgstr "618"
+
+msgid "624"
+msgstr "624"
+
+msgid "6245"
+msgstr "6245"
+
+msgid "625"
+msgstr "625"
+
+msgid "6346"
+msgstr "6346"
+
+msgid "6504"
+msgstr "6504"
+
+msgid "65263"
+msgstr "65263"
+
+msgid "654"
+msgstr "654"
+
+msgid "6588"
+msgstr "6588"
+
+msgid "665"
+msgstr "665"
+
+msgid "669"
+msgstr "669"
+
+msgid "670"
+msgstr "670"
+
+msgid "68"
+msgstr "68"
+
+msgid "6865"
+msgstr "6865"
+
+msgid "689"
+msgstr "689"
+
+msgid "690"
+msgstr "690"
+
+msgid "69223"
+msgstr "69223"
+
+msgid "693"
+msgstr "693"
+
+msgid "69823"
+msgstr "69823"
+
+msgid "7032"
+msgstr "7032"
+
+msgid "7046"
+msgstr "7046"
+
+msgid "708"
+msgstr "708"
+
+msgid "7129"
+msgstr "7129"
+
+msgid "714"
+msgstr "714"
+
+msgid "72"
+msgstr "72"
+
+msgid "731"
+msgstr "731"
+
+msgid "73184"
+msgstr "73184"
+
+msgid "734"
+msgstr "734"
+
+msgid "737"
+msgstr "737"
+
+msgid "7420"
+msgstr "7420"
+
+msgid "745"
+msgstr "745"
+
+msgid "752"
+msgstr "752"
+
+msgid "7525"
+msgstr "7525"
+
+msgid "7537"
+msgstr "7537"
+
+msgid "7576"
+msgstr "7576"
+
+msgid "762"
+msgstr "762"
+
+msgid "763"
+msgstr "763"
+
+msgid "77"
+msgstr "77"
+
+msgid "772"
+msgstr "772"
+
+msgid "7752"
+msgstr "7752"
+
+msgid "79"
+msgstr "79"
+
+msgid "792"
+msgstr "792"
+
+msgid "794"
+msgstr "794"
+
+msgid "8"
+msgstr "8"
+
+msgid "8048"
+msgstr "8048"
+
+msgid "81"
+msgstr "81"
+
+msgid "831"
+msgstr "831"
+
+msgid "8312"
+msgstr "8312"
+
+msgid "8319"
+msgstr "8319"
+
+msgid "835"
+msgstr "835"
+
+msgid "8367"
+msgstr "8367"
+
+msgid "8457"
+msgstr "8457"
+
+msgid "849"
+msgstr "849"
+
+msgid "859"
+msgstr "859"
+
+msgid "864"
+msgstr "864"
+
+msgid "867"
+msgstr "867"
+
+msgid "869"
+msgstr "869"
+
+msgid "8712"
+msgstr "8712"
+
+msgid "874"
+msgstr "874"
+
+msgid "8790"
+msgstr "8790"
+
+msgid "88"
+msgstr "88"
+
+msgid "881"
+msgstr "881"
+
+msgid "882"
+msgstr "882"
+
+msgid "9"
+msgstr "9"
+
+msgid "90"
+msgstr "90"
+
+msgid "902"
+msgstr "902"
+
+msgid "907"
+msgstr "907"
+
+msgid "9122"
+msgstr "9122"
+
+msgid "92"
+msgstr "92"
+
+msgid "9242"
+msgstr "9242"
+
+msgid "94"
+msgstr "94"
+
+msgid "9515"
+msgstr "9515"
+
+msgid "957"
+msgstr "957"
+
+msgid "965"
+msgstr "965"
+
+msgid "9820"
+msgstr "9820"
+
+msgid "9836"
+msgstr "9836"
+
+msgid "992"
+msgstr "992"
+
+msgid "997"
+msgstr "997"
+
+msgid ":doc:`IRC meeting <i18n_team_meeting>`"
+msgstr ":doc:`IRC meeting <i18n_team_meeting>`"
+
+msgid ""
+":doc:`Your language team <lang_team>` may have useful information to help "
+"our translation efforts including translation guidelines, priorities, "
+"communication tools and so on. It is worth visited. You can find your "
+"language team page at https://wiki.openstack.org/wiki/I18nTeam/team. If you "
+"have questions, you can contact your coordinators."
+msgstr ""
+":doc:`대상 언어팀 <lang_team>` 에는 번역 가이드라인, 우선 순위, 의사소통 도"
+"구 등을 포함하는 번역 노력에 도움을 줄 수 있는 유용한 정보가 있을 것입니다. "
+"살펴볼 가치가 있습니다. 대상 언어팀 페이지는 https://wiki.openstack.org/wiki/"
+"I18nTeam/team 에서 찾을 수 있습니다. 질문이 있는 경우, 대상 언어팀 "
+"coordinator에게 문의할 수 있습니다."
+
+msgid ""
+":ref:`ATC status in I18n project <i18n-atc>` is determined based on "
+"translation statistics in a specific period."
+msgstr ""
+":ref:`ATC status in I18n project <i18n-atc>` 는 특정 기간의 번역 통계에 따라 "
+"결정됩니다."
+
+msgid ":ref:`search`"
+msgstr ":ref:`search`"
+
+msgid ""
+"A glossary file of your language is found at ``glossary/locale/<lang>/"
+"LC_MESSAGES/glossary.po`` in the i18n repository. The file is a usual PO "
+"file."
+msgstr ""
+"대상 언어에 대한 용어집 파일은 i18n 저장소 내 ``glossary/locale/<lang>/"
+"LC_MESSAGES/glossary.po`` 에서 찾을 수 있습니다. 해당 파일은 일반적인 PO 파일"
+"입니다."
+
+msgid ""
+"A list of all ATCs is available at http://governance.openstack.org/reference/"
+"projects/i18n.html#extra-atcs."
+msgstr ""
+"모든 ATC 목록은 http://governance.openstack.org/reference/projects/i18n."
+"html#extra-atcs 에서 확인 가능합니다."
+
+msgid ""
+"A person who can proofread translations and mark them as reviewed (approved) "
+"or rejected."
+msgstr ""
+"번역을 검토하고 해당 항목을 리뷰함 (승인함) 또는 거절함으로 구분할 수 있는 사"
+"람입니다."
+
+msgid "A person who can submit translations."
+msgstr "번역을 제출할 수 있는 사람입니다."
+
+msgid ""
+"A privileged member in a translation team who can help in team management "
+"tasks, such as approving new members and reviewing contributions to that "
+"language. We also have task coordinators for specific tasks."
+msgstr ""
+"새로운 구성원 승인 및 해당 언어에 대한 컨트리뷰션을 검토하는 것과 같은 팀 관"
+"리 작업을 도울 수 있는 번역 팀 내 권한을 가진 구성원입니다. 또한 특정 작업별 "
+"코디네이터 또한 있습니다."
+
+msgid ""
+"A series of tasks in OpenStack infrastructure is used to manage translation "
+"changes in Zanata. Without running the tasks, translation changes will not "
+"be reflected into OpenStack projects. This page explains how the "
+"infrastructure tasks run actual scripts as `Zuul <https://docs.openstack.org/"
+"infra/zuul/>`_ jobs and monitor the job status."
+msgstr ""
+"OpenStack 인프라의 일련의 작업은 Zanata의 번역 변경을 관리하는 데 사용됩니"
+"다. 작업을 실행하지 않으면, 번역 변경 사항이 OpenStack 프로젝트에 반영되지 않"
+"습니다. 이 페이지는 인프라 작업이 실제 스크립트를 `Zuul <https://docs."
+"openstack.org/infra/zuul/>`_ 작업으로 실행하고 작업 상태를 모니터링하는 방법"
+"을 설명합니다."
+
+msgid ""
+"A template is a skeleton of static HTML files. In this case, the string is "
+"perhaps used in \"Update\" form in \"Container\" menu."
+msgstr ""
+"템플릿은 정적 HTML 파일의 골격입니다. 이 경우 문자열은 \"컨테이너\"메뉴의 "
+"\"업데이트\"양식에서 사용됩니다."
+
+msgid "ATC Statistics in past releases"
+msgstr "이전 릴리즈에 대한 ATC 통계"
+
+msgid ""
+"ATC candidates are translators who has translated more than 200 words and "
+"reported their e-mail and name to language coordinators, and also signed "
+"ICLA."
+msgstr ""
+"ATC 후보자들은 200 단어 이상의 번역을 수행하고 e-mail과 성명을 언어 코디네이"
+"터에게 제출하고 ILCA에 서명한 번역자들입니다."
+
+msgid "ATC members of I18n project"
+msgstr "I18n 프로젝트 ATC 멤버"
+
+msgid "ATC status in I18n project"
+msgstr "I18n 프로젝트 내 ATC 상태"
+
+msgid "About this guide"
+msgstr "가이드에 관하여"
+
+msgid ""
+"After the documents are translated and reviewed well, updating existing "
+"``www/<lang>/index.html`` or creating a new language landing page is needed."
+msgstr ""
+"문서가 번역되고 잘 검토된 후에, 기존의 ``www/<lang>/index.html``을 업데이트하"
+"거나 새로운 언어 방문 페이지를 만드는 것을 필요로 합니다."
+
+msgid ""
+"After the official release, translating master version is welcome for "
+"upstream translation contribution, but the original strings may be changed "
+"frequently due to upstream development on the projects."
+msgstr ""
+"공식 릴리즈가 이루어진 후에는, master 버전 번역을 업스트림 번역을 함에 있어 "
+"환영하나, 원본 문자열은 해당 프로젝트에서 이루어지는 업스트림 컨트리뷰션에 따"
+"라 변경이 자주 발생할 수도 있습니다."
+
+msgid ""
+"After you edit the master glossary, ensure to reflect the change to all "
+"language glossary files. To do this, run the following command."
+msgstr ""
+"마스터 용어집을 수정한 이후에는, 해당 변경사항이 모든 언어 용어집 파일에 반영"
+"되었는지를 확인합니다. 이렇게 하려면, 다음 명령어를 실행합니다."
+
+msgid ""
+"After you log in with OpenStack ID, you will be requested to fill in your "
+"profile."
+msgstr ""
+"OpenStack ID로 로그인한 이후에는, 프로필을 채우라는 안내를 받을 것입니다."
+
+msgid ""
+"All upstream OpenStack documents in ``openstack-manuals`` and project "
+"repositories use ``master`` branch and can have stable branches depending on "
+"release models and maintaining documents in different project teams. Cross-"
+"project liaisons are strongly encouraged to communicate with I18n team so "
+"that I18n team can discuss and decide which stable documents are the target "
+"in I18n team and when translators start to translate stable documents."
+msgstr ""
+"``openstack-manuals``에 있는 모든 upstream OpenStack 문서와 프로젝트 저장소"
+"는 ``master`` 브랜치를 사용하며 릴리즈 모델에 따라 안정 브랜치를 가질 수 있"
+"고 다른 프로젝트 팀들에서 문서를 관리할 수 있습니다. 크로스 프로젝트 연락 조"
+"직은 I18n 팀과의 의사소통을 강력히 권장하여 I18n 팀이 I18n 팀에서 어떤 안정"
+"된 문서가 대상이 되고 언제 번역자들이 안정된 문서를 번역하기 시작할지 토론하"
+"고 결정할 수 있도록 합니다."
+
+msgid ""
+"Also, release notes translations are only needed on master since release "
+"notes are published only from master, the translations get removed on stable "
+"branches."
+msgstr ""
+"또한 릴리스 노트는 master에서만 게시되는것이 필요해서, 릴리스 노트 번역은 스"
+"테이블 브랜치에서 번역이 제거됩니다."
+
+msgid ""
+"Although each language team could follow the I18n team working plan, your "
+"team may also decide your own work items and priorities as a language team."
+msgstr ""
+"각 언어팀은 I18n팀 작업 계획을 따를 수도 있지만, 해당 언어팀은 (독립적인) 언"
+"어팀으로서 고유한 작업 항목과 우선 순위를 결정할 수도 있습니다."
+
+msgid "Amandeep Singh Saini (jimidar) - Punjabi (India)"
+msgstr "Amandeep Singh Saini (jimidar) - Punjabi (India)"
+
+msgid ""
+"Another convenient way is to check dashboard translations is to run DevStack "
+"in your local environment. To run DevStack, you need to prepare ``local."
+"conf`` file, but no worries. Several ``local.conf`` files are shared on the "
+"Internet and a minimum example is shown below. From our experience, you need "
+"a machine with two or four CPU cores, 8 GB memory and 20 GB disk to run "
+"DevStack comfortably. If you enable just major OpenStack projects, the "
+"machine requirement would be much smaller like 2~4GB memory."
+msgstr ""
+"대시보드 번역을 검사하기 위한 또 다른 방법은 DevStack을 로컬 환경에서 실행하"
+"는 것입니다. DevStack을 실행하기 위해서는, ``local.conf`` 파일 준비를 필요로 "
+"합니다만, 걱정할 필요는 없습니다. 몇몇 ``local.conf`` 파일들이 인터넷을 통해 "
+"공유가 이루어지고 있으며, 간단한 예제를 아래에서 볼 수 있습니다. 경험에 비추"
+"어 볼 때, DevStack을 무난하게 실행하기 위해서는 2-4개 CPU 코어, 8 GB 메모리, "
+"그리고 20 GB 디스크를 가지는 가상 머신을 필요로 합니다. 주요 OpenStack 프로젝"
+"트만 활성화하는 경우에는, 해당 머신은 2~4GB 메모리와 같이 훨씬 적은 요구 사항"
+"이면 됩니다."
+
+msgid ""
+"As a translator, if reported bugs turns out beyond a translation bug, it is "
+"better to ask I18n team members via the mailing list or the IRC channel. "
+"They can handle such bugs."
+msgstr ""
+"번역자일 때, 해당 보고된 버그가 번역 버그를 벗어난다고 판단하는 경우에는 메일"
+"링리스트 또는 IRC 채널을 통해 해당 버그를 다룰 수 있는 I18n 팀 구성원에게 물"
+"어보는 것이 좋습니다."
+
+msgid ""
+"As an official project, the responsibility of the I18n PTL is generally "
+"subject to the `Project Team Guide <https://docs.openstack.org/project-team-"
+"guide/ptl.html>`__. This chapter describes tasks for I18n PTL and gives some "
+"useful hints. If you want to be I18n PTL or you new in this role, please "
+"read carefully. For all other is this chapter informal."
+msgstr ""
+"공식 프로젝트이기에, I18n PTL이 가지는 의무는 일반적으로 `Project Team Guide "
+"<https://docs.openstack.org/project-team-guide/ptl.html>`__ 에 기반합니다. "
+"이 챕터에서는 I18n PTL에 대한 작업 및 몇몇 유용한 힌트를 제공합니다. I18n PTL"
+"이 되고자 하거나, 이 역할에 대해 잘 모르는 경우에는, 주의깊게 읽어보십시오. "
+"이 챕터는 다른 사람들에게 있어 정보를 제공합니다."
+
+msgid ""
+"As of now, ATC of official translators are treated as extra ATCs as we have "
+"no way to collect statistics automatically now. The list of extra ATCs is "
+"maintained by the PTL and is usually updated short before the deadline of "
+"extra ATCs nomination in each release cycle. The deadline of extra ATCs "
+"nomination can be checked in the release schedule page at http://releases."
+"openstack.org/ (for example, http://releases.openstack.org/newton/schedule."
+"html)."
+msgstr ""
+"현재 기준으로, 공식 번역자에 대한 ATC는 extra ATC로 간주하는데, 이유는 현재 "
+"자동으로 통계를 가져오는 방법을 갖고 있지 않기 때문입니다. Extra ATC 목록은 "
+"PTL에 의해 관리가 죄며, 각 릴리즈 주기에서 extra ATC 추천 마감기한 바로 이전"
+"에 보통 업데이트가 이루어집니다. Extra ATC 추천 마감기한은 릴리즈 스케줄 페이"
+"지인 http://releases.openstack.org/ 에서 확인 가능합니다 (예를 들어, http://"
+"releases.openstack.org/newton/schedule.html)."
+
+msgid ""
+"As with I18n Core Team, the same things apply here. Launchpad I18n Core Team "
+"focuses on determining the importance of a translation and/or I18n bug and "
+"triaging bug priorities. You can find the member list on `Launchpad I18n "
+"Core Member list <https://launchpad.net/~openstack-i18n-core>`__."
+msgstr ""
+"I18n 코어 팀과 마찬가지로, 동일한 사항이 여기에 적용됩니다. Launchpad I18n 코"
+"어 팀은 번역 그리고/또는 I18n 버그에 대한 중요성을 결정하고 버그 우선 순위를 "
+"구분하는데 초점을 둡니다. 구성원 목록은 `Launchpad I18n Core Member list "
+"<https://launchpad.net/~openstack-i18n-core>`__ 에서 찾을 수 있습니다."
+
+msgid ""
+"At the moment, the I18n PTL needs to maintain the ATC list of the I18n "
+"project manually around the end of each release cycle. This requires name "
+"and e-mail address of individual translators."
+msgstr ""
+"현재 I18n PTL은 각 릴리스 주기가 끝날 무렵에 수동으로 I18n 프로젝트의 ATC 목"
+"록을 유지해야합니다. 여기에는 개별 번역자의 이름과 전자 메일 주소가 필요합니"
+"다."
+
+msgid ""
+"At this stage, the master version on Zanata is still open for translations, "
+"but it is strongly suggested to work on a stable version."
+msgstr ""
+"해당 단계에서는, 번역을 위해 master 버전이 Zanata에서 여전히 열려 있습니다"
+"만, 안정 버전에서 작업하기를 강력하게 권장하고 있습니다."
+
+msgid ""
+"Before use sphinx-build to build HTML file, we need to feed the translations "
+"from the single PO file into those small PO files. For example:"
+msgstr ""
+"HTML 파일을 만들기 위해 sphinx-build를 사용하기 전에 단일 PO 파일의 변환을 작"
+"은 PO 파일로 보내야합니다. 예 :"
+
+msgid ""
+"Before you start contribution, you'll have to `agree to the contributor "
+"license agreement <http://docs.openstack.org/infra/manual/developers."
+"html#account-setup>`_. (You can preview the full text of `the OpenStack "
+"Individual Contributor License Agreement <https://review.opendev.org/static/"
+"cla.html>`_ first if you want.)"
+msgstr ""
+"컨트리뷰션을 시작하기 전에, `컨트리뷰션 라이선스 동의서에 동의 <http://docs."
+"openstack.org/infra/manual/developers.html#account-setup>`_ 해야 합니다. (원"
+"하는 경우 `OpenStack Individual Contributor License Agreement <https://"
+"review.opendev.org/static/cla.html>`_ 전체 텍스트를 먼저 미리 살펴볼 수 있습"
+"니다.)"
+
+msgid "Bugs in a source project"
+msgstr "소스 프로젝트 내 버그"
+
+msgid "Bugs in tool chains"
+msgstr "툴 체인 내 버그"
+
+msgid ""
+"Bugs in translated documents or dashboard are mainly classified into the "
+"following areas:"
+msgstr ""
+"번역이 이루어진 문서 또는 대시보드 버그는 다음 영역으로 보통 분류가 이루어집"
+"니다:"
+
+msgid ""
+"Bugs to report English strings are hard to translate in your language. For "
+"example, translators cannot control the order of words, or a plural form is "
+"not supported. Usually, this kind of bugs are in the original strings and "
+"cannot be fixed just by changing the strings and more work is needed."
+msgstr ""
+"대상 언어로 번역하기 어려운 영어 문자열을 보고하는 버그. 예를 들면, 번역자들"
+"이 단어 순서를 제어할 수 없거나, 또는 복수형을 지원하지 않는 것입니다. 대부"
+"분, 해당 종류의 버그는 원본 문자열 내에서 단순히 해당 문자열을 변경하는 것만"
+"으로 수정할 수 없으며 보다 많은 작업을 필요로 합니다."
+
+msgid "Building"
+msgstr "Building"
+
+msgid "Building: Build HTML from RST documents and the translated results."
+msgstr "Building: RST 문서 및 번역 된 결과에서 HTML을 작성하십시오."
+
+msgid ""
+"Builds release notes in both the original (English) version and translated "
+"versions (if any)."
+msgstr "원본 (영어) 버전 및 번역 버전 (있는 경우) 내 릴리즈 노트를 빌드합니다."
+
+msgid "CLI (command line interface)"
+msgstr "CLI (명령어 라인 인터페이스)"
+
+msgid ""
+"Check from time to time open reviews on `I18n repo <https://review.opendev."
+"org/#/q/project:openstack/i18n+status:open>`__. In addition to the PTL, the "
+"core reviewers are responsible."
+msgstr ""
+"수시로 `I18n repo <https://review.opendev.org/#/q/project:openstack/i18n"
+"+status:open>`__에 열린 리뷰들을 확인합니다. PTL 외에 코어 리뷰어들에게도 책"
+"임이 있습니다."
+
+msgid "Click \"...\" on the right, and select \"Request to join team\"."
+msgstr ""
+"오른쪽에 있는 \"...\" 를 클릭하고, \"Request to join team\" 을 선택합니다."
+
+msgid "Click \"Languages\" on the top, all languages will be listed."
+msgstr "상단에 있는 \"Languages\" 를 클릭하면, 모든 언어 목록이 보일 것입니다."
+
+msgid "Click \"Log in\" button."
+msgstr "\"Log in\" 버튼을 클릭합니다."
+
+msgid ""
+"Click the language you want to translate, the language page will be shown."
+msgstr "번역하고자 하는 언어를 클릭하면, 해당 언어 페이지가 보일 것입니다."
+
+msgid ""
+"Common code used by **propose_translation_update.sh** and "
+"**upstream_translation_update.sh**"
+msgstr ""
+"**propose_translation_update.sh**, **upstream_translation_update.sh** 에서 사"
+"용하는 공통 코드입니다."
+
+msgid "Contents"
+msgstr "내용"
+
+msgid "Contributing"
+msgstr "기여하기"
+
+msgid "Convention"
+msgstr "규칙"
+
+msgid "Coordinator"
+msgstr "코디네이터"
+
+msgid "Creating a Language Team"
+msgstr "언어팀 생성하기"
+
+msgid "Cross Project Liaisons"
+msgstr "크로스 프로젝트 연락 조직 (Liaison)"
+
+msgid ""
+"Currently, we do not support translations for OpenStack developer documents: "
+"http://docs.openstack.org/<project>"
+msgstr ""
+"현재, OpenStack 개발자 문서: http://docs.openstack.org/<project> 에 대한 번역"
+"을 지원하지 않습니다."
+
+msgid "Daily Work"
+msgstr "일상적인 작업"
+
+msgid ""
+"Discuss and review glossary changes in your language team before you propose "
+"changes to the Gerrit review system. Reviewers in the Gerrit review system "
+"cannot understand your language in most cases, so they can only check syntax "
+"or conventions."
+msgstr ""
+"변경 사항을 Gerrit 리뷰 시스템에 제안하기 이전에 대상 언어팀에서 용어집 변경 "
+"사항에 대해 토론 및 리뷰를 거칩니다. Gerrit 리뷰 시스템 내 검토자는 대부분의 "
+"경우 대상 언어를 이해할 수 없기에, 문법 또는 통용규칙만을 확인할 수 있습니다."
+
+msgid "Documentation"
+msgstr "문서화"
+
+msgid "Documentation projects"
+msgstr "문서 프로젝트"
+
+msgid "Downloading"
+msgstr "Downloading"
+
+msgid "Downloading: Download the translated results by automation scripts."
+msgstr "Downloading: 자동화 된 스크립트로 번역 된 결과를 다운로드하십시오."
+
+msgid ""
+"During translating a dashboard related project, you may want to know \"where "
+"is this string used in the dashboard?\"."
+msgstr ""
+"대시 보드 관련 프로젝트를 번역하는 동안 \"대시 보드에서 이 문자열이 어디에 사"
+"용됩니까?\"를 알고 싶을 수 있습니다."
+
+msgid ""
+"Each cycle has a date set for Extra-ATCs, e.g. `Queens Cycle <https://"
+"releases.openstack.org/queens/schedule.html#q-extra-atcs>`__. Maintenance on "
+"I18n site is described in chapter :ref:`project-maintenance`. All the "
+"OpenStack members can propose extra ATCs, but I18n PTL is highly encouraged "
+"to report the list in each cycle. Here are some useful proposals as example:"
+msgstr ""
+"각 주기에서는 예를 들면 `Queens Cycle <https://releases.openstack.org/queens/"
+"schedule.html#q-extra-atcs>`__ 와 같이 Extra-ATC에 대한 날짜 기한이 있습니"
+"다. I18n 사이트에 대한 유지보수에 대해서는 :ref:`project-maintenance` 챕터에 "
+"설명되어 있습니다. 모든 OpenStack 구성원들은 extra ATC를 제안할 수 있으나, "
+"I18n PTL이 각 주기에서 목록을 보고하는 것을 권장합니다. 아래 몇 가지 유용한 "
+"제안 내용이 예시로 있습니다:"
+
+msgid ""
+"Each language team has useful information to help our translation efforts. "
+"It is worth visited. You can find your language team at https://wiki."
+"openstack.org/wiki/I18nTeam/team."
+msgstr ""
+"각 언어팀은 번역 노력에 도움을 주는 유용한 정보를 갖고 있습니다. 살펴볼 가치"
+"가 있습니다. 모든 언어팀 목록을 https://wiki.openstack.org/wiki/I18nTeam/"
+"team 에서 찾을 수 있습니다."
+
+msgid ""
+"Each language team may have useful information to help our translation "
+"efforts including translation guidelines, priorities, communication tools "
+"and so on. It is worth visited. You can find your language team page at "
+"https://wiki.openstack.org/wiki/I18nTeam/team. If you have questions, you "
+"can contact your coordinators."
+msgstr ""
+"각 언어팀에는 번역 가이드라인, 우선 순위, 의사소통 도구 등을 포함하는 번역 노"
+"력에 도움을 줄 수 있는 유용한 정보가 있을 것입니다. 살펴볼 가치가 있습니다. "
+"대상 언어팀 페이지는 https://wiki.openstack.org/wiki/I18nTeam/team 에서 찾을 "
+"수 있습니다. 질문이 있는 경우, 대상 언어팀 coordinator에게 문의할 수 있습니"
+"다."
+
+msgid "Election"
+msgstr "선출"
+
+msgid ""
+"Every day, new translations get imported into the repositories using a "
+"proposal job. These need to have a review on whether the bot worked "
+"properly. You can see all open reviews in `Gerrit <https://review.opendev."
+"org/#/q/status:open+topic:zanata/translations,n,z>`_. The subject of these "
+"patches is always \"Imported Translations from Zanata\"."
+msgstr ""
+"매일, 새로운 번역이 proposal 작업을 통해 저장소로 가져오기를 수행합니다. 해"
+"당 bot이 올바르게 동작하는지 아닌지에 대한 리뷰를 필요로 합니다. `Gerrit "
+"<https://review.opendev.org/#/q/status:open+topic:zanata/translations,n,z>`_ "
+"에서 오픈되어 있는 리뷰 확인이 가능합니다. 해당 패치 제목은 항상 \"Imported "
+"Translations from Zanata\" 입니다."
+
+msgid ""
+"Every even week: `07:00 UTC, Thursday <https://www.timeanddate.com/"
+"worldclock/fixedtime.html?hour=07&min=00&sec=0>`_"
+msgstr ""
+"매 짝수 주: `07:00 UTC, Thursday <https://www.timeanddate.com/worldclock/"
+"fixedtime.html?hour=07&min=00&sec=0>`_"
+
+msgid ""
+"Every odd week: `16:00 UTC, Thursday <https://www.timeanddate.com/worldclock/"
+"fixedtime.html?hour=16&min=00&sec=0>`_"
+msgstr ""
+"매 홀수 주: `16:00 UTC, Thursday <https://www.timeanddate.com/worldclock/"
+"fixedtime.html?hour=16&min=00&sec=0>`_"
+
+msgid ""
+"Everybody can propose agenda topics on `I18nTeamMeeting Wiki Page <https://"
+"wiki.openstack.org/wiki/Meetings/I18nTeamMeeting#Agenda_for_next_meeting>`_. "
+"If there are no topics proposed, the meeting might be canceled for that week."
+msgstr ""
+"누구든지 `I18nTeamMeeting Wiki Page <https://wiki.openstack.org/wiki/"
+"Meetings/I18nTeamMeeting#Agenda_for_next_meeting>`_ 에서 아젠다 주제를 제안"
+"할 수 있습니다. 제안된 주제가 없는 경우, 미팅은 다음 주를 위해 취소될 수 있습"
+"니다."
+
+msgid "Everyone in the OpenStack community is glad to help you."
+msgstr "OpenStack 커뮤니티 모두가 기꺼이 도울 것입니다."
+
+msgid "Extra-ATCs Deadline"
+msgstr "Extra-ATC 기한"
+
+msgid "Extract Zanata user information"
+msgstr "Zanata 사용자 정보 추출"
+
+msgid "Extracting"
+msgstr "Extracting"
+
+msgid "FAQ: I cannot find my name in Stackalytics"
+msgstr "FAQ: Stackalytics에서 내 이름을 찾을 수 없습니다"
+
+msgid ""
+"Finally, propose a patch including all of the above changes to the Gerrit "
+"review system."
+msgstr ""
+"마지막으로, 위 모든 변경 사항을 포함하여 Gerrit 리뷰 시스템에 패치를 제안합니"
+"다."
+
+msgid "Finally, we could generate HTML files by"
+msgstr "마지막으로, HTML 파일을 생성 할 수 있습니다."
+
+msgid ""
+"Finding and reporting translation bugs is an important step towards better "
+"quality of translations in OpenStack."
+msgstr ""
+"번역 버그를 발견하고 신고하는 것은 OpenStack에서 번역 품질을 향상시키는 방향"
+"으로 나아가는 데 있어 중요한 단계입니다."
+
+msgid "Fixing I18n bugs"
+msgstr "I18n 버그 수정"
+
+msgid ""
+"Follow :doc:`the step <official_translator>` to register an ID in the "
+"translation website."
+msgstr ""
+":doc:`the step <official_translator>` 를 따라하여 번역 웹사이트 내 ID를 등록"
+"합니다."
+
+msgid ""
+"For a document in a stable branch, such as the installation guide for "
+"Liberty, you need to update the file ``doc-tools-check-languages.conf`` in "
+"the target stable branch directly."
+msgstr ""
+"Liberty에 대한 설치 가이드와 같은 stable 브랜치 문서에 대해서는, 대상 stable "
+"브랜치 내 ``doc-tools-check-languages.conf`` 파일을 직접 수정할 필요가 있습니"
+"다. "
+
+msgid "For documentations, URL and a detail place would be great."
+msgstr "문서에 대해서는, URL 및 자세한 위치가 좋습니다."
+
+msgid ""
+"For each Python project in OpenStack, there is an automation job daily to "
+"download the translations in PO file to the \"locale\" folder under the "
+"source folder of each project. See :doc:`here <infra>`. It will generate a "
+"review request in Gerrit. After :doc:`review <reviewing-translation-"
+"import>`, the translation in PO file will be merged."
+msgstr ""
+"OpenStack의 각 Python 프로젝트에는 PO 파일의 번역을 각 프로젝트의 소스 폴더 "
+"아래에있는 \"locale\"폴더로 다운로드하는 자동화 작업이 매일 있습니다. 참조: :"
+"doc:`here <infra>`. Gerrit에서 검토 요청을 생성합니다. :doc:`review "
+"<reviewing-translation-import>` 다음에 PO 파일의 번역이 병합됩니다."
+
+msgid ""
+"For each Python project in OpenStack, there is an automation job to extract "
+"the messages , generate PO template and upload to Zanata, which is triggered "
+"by the \"commit\" event. See :doc:`here <infra>`."
+msgstr ""
+"OpenStack의 각 Python 프로젝트에는 메시지를 추출하고 PO 템플릿을 생성되어 "
+"\"commit\"이벤트에 의해 트리거되는 Zanata에 업로드하는 자동화 작업이 있습니"
+"다. 참조: :doc:`here <infra>`."
+
+msgid "For example, in case of nova,"
+msgstr "예를 들어, nova에서는,"
+
+msgid ""
+"For most of the Python projects, the preferred tools for I18N are gettext "
+"and babel. The gettext module provides internationalization (I18N) and "
+"localization (L10N) services for your Python modules and applications. Babel "
+"are a collection of tools for internationalizing Python applications."
+msgstr ""
+"대부분의 Python 프로젝트에서, I18N을 위해 선호되는 도구는 gettext와 babel입니"
+"다. gettext 모듈은 Python 모듈 및 응용 프로그램에 대한 국제화 (I18N) 및 지역"
+"화 (L10N) 서비스를 제공합니다. Babel은 Python 응용 프로그램을 국제화하기 위"
+"한 도구 모음입니다."
+
+msgid "For the dashboard, panel or form name."
+msgstr "대시보드에 대해서는, 패널이나 폼 이름이 좋습니다."
+
+msgid "Foundation member validation note"
+msgstr "Foundation member validation note"
+
+msgid ""
+"Foundation membership was validated by calling a REST API in https://"
+"openstackid-resources.openstack.org"
+msgstr ""
+"Foundation 멤버십은 https://openstackid-resources.openstack.org에서 REST API"
+"를 호출하여 검증되었습니다."
+
+msgid "Getting in touch"
+msgstr "어울리기"
+
+msgid "Glossary Management"
+msgstr "용어집 관리"
+
+msgid "Glossary of your language"
+msgstr "대상 언어 내 용어집"
+
+msgid "Go to `Zanata server <https://translate.openstack.org/>`_"
+msgstr "`Zanata 서버 <https://translate.openstack.org/>`_ 에 접속합니다"
+
+msgid ""
+"Go to the :doc:`translation tools <tools>` page to understand the tools and "
+"scripts which support our translation platform."
+msgstr ""
+" :doc:`translation tools <tools>` 페이지로 가서 번역 플랫폼을 지원하는 도구"
+"와 스크립트를 이해하십시오."
+
+msgid "Handling documentation projects"
+msgstr "문서 프로젝트 처리"
+
+msgid "Handling horizon projects"
+msgstr "horizon 프로젝트 처리"
+
+msgid "Handling python projects"
+msgstr "python 프로젝트 처리"
+
+msgid "Handling translation bugs"
+msgstr "번역 버그 다루기"
+
+msgid "Handy links (always sort of on the agenda)"
+msgstr "관련 링크 (항상 안건에 따라 정렬됩니다)"
+
+msgid "Heleno Jimenez de la Cruz (id: heleno_jimenez) - Spanish (Mexico)"
+msgstr "Heleno Jimenez de la Cruz (id: heleno_jimenez) - Spanish (Mexico)"
+
+msgid "Here is the check list for such case:"
+msgstr "해당 경우에 대한 확인 목록은 다음과 같습니다:"
+
+msgid ""
+"Horizon and Horizon plugins are the main targets which affect StringFreezes. "
+"Note that StringFreezes are applied to ``cycle-with-milestone`` release "
+"model."
+msgstr ""
+"Horizon과 Horizon 플러그인은 StringFreezes에 영향을 미치는 주요 대상입니다."
+"StringFreezes는 ``cycle-with-milestone`` 릴리즈 모델에 적용되는 점 참고하십시"
+"오."
+
+msgid "How are translations handled?"
+msgstr "번역은 어떻게 다루어집니까?"
+
+msgid "How can I report a bug?"
+msgstr "어떻게 버그를 신고할 수 있습니까?"
+
+msgid "How to check translations"
+msgstr "번역을 검사하는 방법"
+
+msgid "I18n Core Team"
+msgstr "I18n 코어 팀"
+
+msgid "I18n IRC Team Meeting"
+msgstr "I18n IRC 팀 미팅"
+
+msgid "I18n Mailing List Management"
+msgstr "I18n 메일링리스트 관리"
+
+msgid "I18n PTL Guide"
+msgstr "I18n PTL 가이드"
+
+msgid ""
+"I18n PTL updates the list using Zanata API and translator list. Detail "
+"statistics data is available :ref:`below <atc-stats>`."
+msgstr ""
+"I18n PTL은 Zanata API를 이용하여 번역가 목록을 업데이트합니다. 세부 통계 데이"
+"터를 사용할 수 있습니다 :ref:`below <atc-stats>`."
+
+msgid ""
+"I18n blueprints are listed also on `Launchpad <https://blueprints.launchpad."
+"net/openstack-i18n>`__. In normal case a blueprint has an assignee and "
+"describes a larger course of a process."
+msgstr ""
+"I18n 블루프린트는 `Launchpad <https://blueprints.launchpad.net/openstack-"
+"i18n>`__ 에 목록이 있습니다. 보통의 경우 블루프린트에는 할당된 사람이 있으며 "
+"긴 일련의 작업 과정을 설명합니다."
+
+msgid ""
+"I18n team helps release activities on other projects if the projects have "
+"cross-project liaison on I18n team and upon request."
+msgstr ""
+"I18n 팀은 다른 프로젝트가 I18n 팀과 크로스 프로젝트 연락 조직이 있고 요청이 "
+"있는 경우 다른 프로젝트의 릴리즈 활동을 지원합니다."
+
+msgid "I18n team meeting"
+msgstr "I18n 팀 미팅"
+
+msgid ""
+"I18n team participates in cross project liaisons in Oslo, Release "
+"Management, Documentation and Infrastructure. Many other teams are liaisons "
+"in I18n. Visit the `Cross Project Liaisons Wiki Page <https://wiki.openstack."
+"org/wiki/CrossProjectLiaisons>`__ and designate a person for the I18n team. "
+"Note that such liaison roles do not have to be I18n PTL. Active I18n cores "
+"are highly encouraged."
+msgstr ""
+"I18n 팀은 Oslo, Release Management, Documentation, 그리고 Infrastructure에 대"
+"해 크로스 프로젝트 연락 조직에 참여합니다. 많은 다른 팀들이 I18n 연락 조직에 "
+"있습니다. `Cross Project Liaisons Wiki Page <https://wiki.openstack.org/wiki/"
+"CrossProjectLiaisons>`__ 를 방문하여 I18n 팀에 대한 사람을 지정합니다. 참고"
+"로 해당 연락 조직 역할은 I18n PTL일 필요는 없습니다. 화동적인 I18n 코어 구성"
+"원을 강력히 권장합니다."
+
+msgid ""
+"I18n team sets target projects to be translated and prioritizes during "
+"around the Forum (renamed from the Design Summit). Current translation plan "
+"and priority are available on `translation dashboard <https://translate."
+"openstack.org/>`_."
+msgstr ""
+"I18n 팀은 번역이 이루어져야 할 대상 프로젝트 및 우선 순위를 포럼 (Design "
+"Summit에서 이름이 변경됨) 근처 시기에 정합니다. 현재 번역 계획 및 우선 순위"
+"는 `번역 대시보드 <https://translate.openstack.org/>`_ 에서 확인 가능합니다."
+
+msgid "IRC meeting commands"
+msgstr "IRC 미팅 명령어"
+
+msgid "IRC web client"
+msgstr "IRC 웹 클라이언트"
+
+msgid ""
+"If a bug reports translation errors of a certain language, it could be "
+"called **translation bug**. The translation bug should be fixed in the "
+"translation tool."
+msgstr ""
+"특정 언어에 대한 번역 오류를 보고하는 버그인 경우에는 **번역 버그** 라 일컫습"
+"니다. 번역 버그는 번역 도구 내에서 수정이 이루어져야 합니다."
+
+msgid ""
+"If a reported bug turns out to be bugs in a source project, You could help"
+msgstr ""
+"보고된 버그가 소스 프로젝트 내 버그로 판명되는 경우, 도움을 줄 수 있는 점은 "
+"다음과 같습니다:"
+
+msgid ""
+"If there is a translation bug on a stable version in Zanata, it is highly "
+"recommended to fix the same translation bug on the corresponding string in "
+"the master version."
+msgstr ""
+"Zanata에서 안정 버전 내 번역 버그가 있는 경우에는, 해당 번역 버그를 수정함과 "
+"동시에 대응하는 master 버전 내 문자열을 같이 수정할 것을 강력히 권장합니다."
+
+msgid "If you are a speaker of this language, you could help"
+msgstr "해당 언어를 구사하는 경우에는 도움을 줄 수 있을 것입니다."
+
+msgid "If you are a translator of this language, you could help"
+msgstr "해당 언어 번역자인 경우 도움을 줄 수 있을 것입니다"
+
+msgid ""
+"If you are a translator or a person involved in I18n effort, you may be "
+"interested in triaging and fixing translation bugs :)"
+msgstr ""
+"번역자 또는 I18n 기여와 관련된 사람인 경우, 번역 버그를 구분하고 수정하는 데 "
+"관심이 있을 것입니다 :)"
+
+msgid ""
+"If you are lucky to use a same name for launchpad and Zanata IDs, you do not "
+"need to do the above. Stackalytics will find your statistics automatically."
+msgstr ""
+"런치 패드 및 Zanata ID에 동일한 이름을 사용하는 것이 운이 좋다면 위와 같은 작"
+"업을 수행 할 필요가 없습니다. Stackalytics는 자동으로 통계를 찾습니다."
+
+msgid "If you are reviewing these translations, keep the following in mind:"
+msgstr "해당 번역을 리뷰하고자 하는 경우, 다음 사항을 명심합니다:"
+
+msgid ""
+"If you are unfamiliar with translations in OpenStack, read the `Project Team "
+"Guide on Internationalization and Translation <http://docs.openstack.org/"
+"project-team-guide/i18n.html>`_ first."
+msgstr ""
+"OpenStack 번역과 친숙하지 않은 경우, 먼저 `국제화 및 번역에 대한 Project "
+"Team Guide <http://docs.openstack.org/project-team-guide/i18n.html>`_ 를 살펴"
+"봅니다."
+
+msgid ""
+"If you cannot find your local team, you can request to :ref:`create a local "
+"translation team <creating-lang-team>`."
+msgstr ""
+"로컬 팀을 찾을 수 없는 경우에는, :ref:`로컬 번역팀 생성 <creating-lang-"
+"team>` 을 요청할 수 있습니다."
+
+msgid ""
+"If you don't have OpenStack ID, `register one <https://www.openstack.org/"
+"join/register>`_."
+msgstr ""
+"OpenStack ID가 없는 경우, `생성합니다 <https://www.openstack.org/join/"
+"register>`_."
+
+msgid ""
+"If you encounter more complicated things including translation tool chains "
+"or something others, the most recommended way is to ask it in the I18n "
+"mailing list ``openstack-i18n@lists.openstack.org``. Of course, you can file "
+"a bug against a related project directly."
+msgstr ""
+"번역 툴 체인 또는 몇몇 다른 사항을 포함하는 보다 복잡한 상황에 직면한 경우, "
+"대부분 권장하는 방식은 I18n 메일링리스트 ``openstack-i18n@lists.openstack."
+"org`` 에 문의하는 것입니다. 물론, 관련 프로젝트에 직접 버그를 보고할 수 있습"
+"니다."
+
+msgid "If you have a machine running DevStack, there are two ways."
+msgstr "DevStack을 실행하는 머신을 갖고자 하는 경우, 두 가지 방법이 있습니다."
+
+msgid ""
+"If you have a question, feel free to ask it to the PTL or the i18n list."
+msgstr ""
+"(관련해) 질문이 있는 경우, 편하게 PTL에게 또는 i18n 리스트에 문의합니다."
+
+msgid "If you have any, don't hesitate to share it :)"
+msgstr "관련해 있는 경우, 여기에 공유하는 것을 잊지 말아주십시오 :)"
+
+msgid ""
+"If you notice bad translations in a language, file a bug (see :ref:"
+"`reporting_translation_bugs`). Then the translation team will update the "
+"translation. We recommend to still import this change as is and import later "
+"the fix to not block other valid translations to merge."
+msgstr ""
+"언어에 대해서 잘못된 번역을 발견한 경우에는 버그를 보고합니다 (:ref:"
+"`reporting_translation_bugs` 참고). 이후 번역팀이 번역을 업데이트할 것입니"
+"다. 해당 변경사항을 가져오고, 수정된 사항을 나중에 (한 번 더) 가져오기 하여 "
+"다른 유효한 번역이 머지되는 것을 막지 않는 것을 권장합니다."
+
+msgid ""
+"If you visit `openstack-i18n launchpad <https://bugs.launchpad.net/openstack-"
+"i18n>`_, we can find **Report a bug** at the right-upper corner. Click to "
+"report a bug."
+msgstr ""
+"`openstack-i18n launchpad <https://bugs.launchpad.net/openstack-i18n>`_ 를 방"
+"문하였다면, 오른쪽 상단에서 **Report a bug** 를 찾을 수 있습니다. 버그 신고"
+"를 위해 클릭합니다."
+
+msgid ""
+"If you want to become a translator only, simply speaking, you need to `join "
+"The OpenStack Foundation <https://www.openstack.org/join/>`_ (select "
+"\"Foundation Member\") and `sign the appropriate Individual Contributor "
+"License Agreement <http://docs.openstack.org/infra/manual/developers."
+"html#sign-the-appropriate-individual-contributor-license-agreement>`_."
+msgstr ""
+"단지 번역자가 되고 싶은 경우에는, 간단히 말해, `OpenStack Foundation에 가입 "
+"<https://www.openstack.org/join/>`_ , `적절한 개인 컨트리뷰터 라이선스 동의서"
+"에 서명 <http://docs.openstack.org/infra/manual/developers.html#sign-the-"
+"appropriate-individual-contributor-license-agreement>`_ 할 필요가 있습니다."
+
+msgid ""
+"If you want to create a language team and you want to be a coordinator, "
+"please follow below steps:"
+msgstr "언어팀을 만들고 코디네이터가 되고자 하는 경우, 다음 단계를 따릅니다:"
+
+msgid ""
+"If you want to help fix I18n bugs of OpenStack, we can find them in the "
+"following places:"
+msgstr ""
+"OpenStack I18n 버그를 수정하는 데 돕고자 하는 경우, 다음 위치에서 관련 항목"
+"을 찾을 수 있습니다:"
+
+msgid ""
+"If you want to help to report bugs, add more wishlists, and improve them, "
+"you can report and fix bugs at `openstack-i18n in Launchpad <https://bugs."
+"launchpad.net/openstack-i18n>`_. Mark bugs with a tag \"tools\"."
+msgstr ""
+"버그를 보고하고, 위시리스트를 추가하고, 개선 할 수 있도록 돕고 싶다면 "
+"`openstack-i18n in Launchpad <https://bugs.launchpad.net/openstack-i18n>`_ 에"
+"서 버그를 보고하고 수정할 수 있습니다. 버그에 태그 \"tools\"를 붙입니다."
+
+msgid ""
+"If your Zanata ID is different from your launchpad ID, Stackalytics will not "
+"find your translation statistics. You need to let Stackalytics know your ID "
+"mappings. To do this, you need to add your user data into ``detault_data."
+"json`` in `the Stackalytics repository <https://github.com/stackalytics/"
+"default_data/>`__."
+msgstr ""
+"Zanata ID가 Launchpad ID와 다른 경우, Stackalytics는 번역 통계를 찾지 않습니"
+"다. Stackalytics에 ID 매핑을 알릴 필요가 있습니다. 이렇게 하려면, 사용자 데이"
+"터를 `Stackalytics 저장소 <https://github.com/stackalytics/default_data/>`__ "
+"의 ``detault_data.json`` 에 추가해야 합니다."
+
+msgid ""
+"If your Zanata ID is not included in the translator list, you need to update "
+"the list to include your Zanata ID. Contact your language coordinator, email "
+"the i18n mailing list. You can also submit a patch to update the list by "
+"yourself (For detail, see :ref:`sync-translator-list`)."
+msgstr ""
+"Zanata ID가 번역자 목록에 포함되어 있지 않으면 Zanata ID를 포함하도록 목록을 "
+"업데이트해야합니다. 언어 코디네이터에게 연락하여 i18n 메일링리스트에 이메일"
+"을 보내십시오. 패치를 제출하여 직접 목록을 업데이트 할 수도 있습니다 (자세한 "
+"내용은 :ref:`sync-translator-list` 참조)."
+
+msgid ""
+"If your request is pending for long days, you can reach to your language "
+"coordinator through Zanata, to `I18n people <https://wiki.openstack.org/wiki/"
+"I18nTeam#People>`_ through `IRC <https://docs.openstack.org/i18n/latest/"
+"#openstack-i18n-team>`_ , or to `I18n PTL <https://governance.openstack.org/"
+"tc/reference/projects/i18n.html>`_ directly."
+msgstr ""
+"요청이 오랜 시간동안 처리되지 않는 경우, Zanata를 통한 언어 코디네이터, "
+"`I18n people <https://wiki.openstack.org/wiki/I18nTeam#People>`_ 에게 (`IRC "
+"<https://docs.openstack.org/i18n/latest/#openstack-i18n-team>`_  를 통해), 또"
+"는 직접 `I18n PTL <https://governance.openstack.org/tc/reference/projects/"
+"i18n.html>`_ 에게 직접 문의할 수 있습니다."
+
+msgid "Import latest translations"
+msgstr "최신 번역 가져오기"
+
+msgid ""
+"In addition to IRC, I18n team communication takes place via a mailing list. "
+"The `Mailing List Administrator <http://lists.openstack.org/cgi-bin/mailman/"
+"admin/openstack-i18n>`__ is watching new subscribers, not allowed posts, and "
+"all the other things that come with the operation of such a list."
+msgstr ""
+"IRC 뿐만 아니라, I18n 팀 커뮤니케이션은 메일링리스트로도 이루어집니다. "
+"`Mailing List Administrator <http://lists.openstack.org/cgi-bin/mailman/"
+"admin/openstack-i18n>`__ 는 새로운 구독자가 있는지, 허용해서는 안되는 게시물"
+"이 있는지를 살펴보며, 기타 다른 사항에 대해 해당 리스트 운영을 합니다."
+
+msgid "In most cases, a source project would be one of:"
+msgstr "대부분의 경우, 소스 프로젝트는 다음 중 하나일 것입니다:"
+
+msgid ""
+"In the beginning of each cycle it is a good idea to think about goals for "
+"the project in the next months and establish a translation plan. Goals are "
+"maybe still left from the last cycle and are to be reviewed. New goals are "
+"to be defined on `PTG <https://www.openstack.org/ptg/>`__ or an equivalent "
+"event. Orient the team to the `OpenStack-wide goals <https://governance."
+"openstack.org/tc/goals/>`__."
+msgstr ""
+"매 주기 초기에는 향후 몇 달에 대한 프로젝트 목표에 관해 생각하고 번역 계획을 "
+"수립하는 것이 좋습니다. 지난 주기에서 목표가 여전히 남아 있을 수 있으며 리뷰"
+"가 필요할 수도 있습니다. 새로운 목표는 `PTG <https://www.openstack.org/ptg/"
+">`__ 또는 동등한 행사에서 정의됩니다. `OpenStack-wide goals <https://"
+"governance.openstack.org/tc/goals/>`__ 를 지향합니다."
+
+msgid ""
+"Input a short introduction of yourself, including your name, as \"Additional "
+"information\", then click \"Send message\"."
+msgstr ""
+"이름을 포함한 본인에 대한 짧은 소개를 \"Additional information\" 에 입력하"
+"고, \"Send message\" 를 클릭합니다."
+
+msgid ""
+"Internationalization (I18n) is essential to make OpenStack ubiquitous. The "
+"mission of OpenStack I18n team is to make OpenStack ubiquitously accessible "
+"to people of all language backgrounds, by enhancing OpenStack software "
+"internationalization, providing translation, maintaining a translation "
+"platform and managing translation process for better quality of outcomes."
+msgstr ""
+"국제화 (Internationalization, I18n)는 OpenStack을 유비쿼터스로 만드는 데 필수"
+"입니다. OpenStack I18n 팀의 목표는 OpenStack 소프트웨어 국제화 향상, 번역 제"
+"공, 고품질 번역을 위한 번역 과정을 관리함으로써 OpenStack을 모든 언어 배경에 "
+"대한 사람들이 유비쿼터스 식으로 접근 가능하도록 만드는 데 있습니다."
+
+msgid "Is your Zanata ID different from your launchpad ID?"
+msgstr "Zanata ID가 launchpad ID와 다릅니까?"
+
+msgid ""
+"Is your Zanata ID included in the `translator list <https://opendev.org/"
+"openstack/i18n/src/tools/zanata/translation_team.yaml>`__?"
+msgstr ""
+"Zanata ID가 `translator list <https://opendev.org/openstack/i18n/src/tools/"
+"zanata/translation_team.yaml>`__ 내에 포함되어 있습니까?"
+
+msgid ""
+"It is a good idea to organize glossaries and initiate related discussion."
+msgstr "용어집을 구성하여 관련 토론을 활성화하는 것은 좋은 아이디어입니다."
+
+msgid "It is highly recommended to include the following information."
+msgstr "다음 정보를 포함하는 것을 강력하게 권장하고 있습니다."
+
+msgid ""
+"It is important to check your translations by using a real situation where "
+"your translation is used. This page describes how to check your translations."
+msgstr ""
+"번역이 사용되는 부분을 실제 시나리오를 사용하여 번역을 검사하는 것은 매우 중"
+"요합니다. 이 페이지에서는 어떻게 번역을 검사할 수 있는지를 설명합니다."
+
+msgid ""
+"It is important to understand how an original string is used in the source "
+"code with contextual knowledge for better quality of translations. "
+"Unfortunately Zanata translation interface does not show where a target "
+"string is used in a source code correspondingly."
+msgstr ""
+"보다 나은 번역 품질을 위해, 원본 문자열이 소스 코드에서 문맥 지식과 함께 어떻"
+"게 사용되는지 이해하는 것이 중요합니다. 불행하게도 Zanata 번역 인터페이스는 "
+"대상 문자열이 소스 코드에서 사용되는 위치를 표시하지 않습니다."
+
+msgid "Jori Kuusinen (id: nuyori) - Finnish (Finland)"
+msgstr "Jori Kuusinen (id: nuyori) - Finnish (Finland)"
+
+msgid ""
+"Keep in mind to work with your `local user group <https://groups.openstack."
+"org/>`_ and the `OpenStack Ambassadors <https://groups.openstack.org/"
+"ambassador-program>`_ to raise awareness and gather members :)"
+msgstr ""
+"`로컬 사용자 그룹 <https://groups.openstack.org/>`_과 `OpenStack Ambassadors "
+"<https://groups.openstack.org/ambassador-program>`_ 와 함께 작업하여 인지하"
+"고 있는 상황을 알리고 구성원을 모읍니다 :)"
+
+msgid "Language Team"
+msgstr "언어팀"
+
+msgid "Language translation team"
+msgstr "언어 번역팀"
+
+msgid "Launchpad I18n Core Team"
+msgstr "Launchpad I18n 코어 팀"
+
+msgid "Launchpad bugs & blueprints"
+msgstr "Launchpad 버그 & blueprints"
+
+msgid "Launchpad bugs, Gerrit reviews, and broken Zuul jobs"
+msgstr "Launchpad 버그, Gerrit 리뷰, 및 문제가 생긴 Zuul 작업"
+
+msgid "Liberty cycle"
+msgstr "Liberty 버전"
+
+msgid ""
+"Mailing List: `openstack-i18n@lists.openstack.org <http://lists.openstack."
+"org/cgi-bin/mailman/listinfo/openstack-i18n>`_"
+msgstr ""
+"메일링리스트: `openstack-i18n@lists.openstack.org <http://lists.openstack."
+"org/cgi-bin/mailman/listinfo/openstack-i18n>`_"
+
+msgid ""
+"Make sure to include a short introduction because it is the only information "
+"which language coordinators can use to determine your join request is valid "
+"or not."
+msgstr ""
+"언어 코디네이터가 해당 가입 요청이 유효한지 아닌지를 결정하는데 사용 가능한 "
+"유일한 정보이므로, 짧은 소개를 포함하였는지를 확인합니다."
+
+msgid "Managing a Language Team"
+msgstr "언어팀 내 관리"
+
+msgid "Masaki Matsushita (id: mmasaki) - Japanese"
+msgstr "Masaki Matsushita (id: mmasaki) - Japanese"
+
+msgid "Master glossary"
+msgstr "마스터 용어집"
+
+msgid "Meeting agenda"
+msgstr "미팅 주제"
+
+msgid "Member (translator)"
+msgstr "구성원 (번역자)"
+
+msgid ""
+"Missed translations. Missed translations might be caused by not extracting "
+"English strings from the source project, or be caused by real missed "
+"translations. If the translations are missed in two different languages, "
+"they are probably bugs in the source project. Or else, they are real missed "
+"translations."
+msgstr ""
+"번역되지 않은 경우. 해당 번역은 소스 프로젝트에서 영문 문자열 추출이 이루어지"
+"지 않았거나, 실제 번역이 되지 않았기에 야기되었을 수 있습니다. 해당 번역이 서"
+"로 다른 두 언어 (이상)에서 놓친 경우, 아마도 소스 프로젝트 내 버그일 가능성"
+"이 있습니다. 또는, 그렇지 않다면, 실제로 번역이 (아직) 이루어지지 않은 경우입"
+"니다."
+
+msgid "Mitaka cycle"
+msgstr "Mitaka 버전"
+
+msgid "Monitoring translation jobs status"
+msgstr "Translation jobs 상태 모니터링"
+
+msgid ""
+"More convenient way is to use **tox** like ``tox -e venv -- python <script-"
+"name>``."
+msgstr ""
+"더 편리한 방법은``tox -e venv -- python <script-name>`` 처럼 ** tox ** 를 사"
+"용하는 것입니다."
+
+msgid ""
+"More information on mailing list: http://lists.openstack.org/pipermail/"
+"openstack-i18n/2015-July/001220.html"
+msgstr ""
+" mailing list에 대한 자세한 정보:\n"
+"http://lists.openstack.org/pipermail/openstack-i18n/2015-July/001220.html"
+
+msgid ""
+"More information: https://releases.openstack.org/ocata/schedule.html & "
+"https://ttx.re/splitting-out-design-summit.html"
+msgstr ""
+"자세한 정보: https://releases.openstack.org/ocata/schedule.html & https://"
+"ttx.re/splitting-out-design-summit.html"
+
+msgid ""
+"Most teams have single approval for translation imports instead of two core "
+"reviewers."
+msgstr ""
+"대부분 (프로젝트) 팀은 번역 가져오기에 대해 코어 검토자 2명 대신 1명의 승인"
+"을 갖습니다."
+
+msgid "Newton cycle"
+msgstr "Newton 버전"
+
+msgid "No detail data."
+msgstr "자세한 데이터가 없습니다."
+
+msgid ""
+"Nobody should change translation files (the `.po` files in the `locale` "
+"directory) besides the bot. The next automatic import will override any "
+"change again. Therefore, leave a ``-1`` vote on any such changes and point "
+"developer to this document."
+msgstr ""
+"Bot 이외에는 번역 파일 (`locale` 디렉토리 내 `.po` 파일)을 변경하지 않습니"
+"다. 다음 자동 가져오기 작업이 해당 변경사항을 덮어쓰기할 것입니다. 따라서, 해"
+"당 변경사항에 대해서는 ``-1`` 리뷰 투표를 하고, 해당 문서를 개발자에게 알려줍"
+"니다."
+
+msgid "Not a Foundation member"
+msgstr "Not a Foundation member"
+
+msgid ""
+"Note that not all translation changes are the target for translation jobs. "
+"The goal is to have consistent translated programs, UIs, and documentation. "
+"There is not much sense if only a few lines are translated. The team has "
+"decided that files that have at least 75 percent of messages translated will "
+"be in the git repositories."
+msgstr ""
+"참고로 모든 번역 변경사항이 translation jobs에 대한 대상은 아닙니다. 지속적으"
+"로 번역이 이루어진 프로그램, UI 및 문서를 갖도록 하는 것이 목표입니다. 몇몇 "
+"줄만 번역이 이루어진 경우는 큰 의미가 없습니다. 팀에서는 적어도 75% 메시지에 "
+"대해 번역이 이루어진 파일을 git 저장소에 저장하도록 결정하였습니다."
+
+msgid ""
+"Note that the scripts in the tasks use `zanata-cli <http://docs.zanata.org/"
+"en/release/client/>`__ to pull and push translation content."
+msgstr ""
+"참고로 작업 내의 해당 스크립트들은 번역 내용을 가져오고 업로드하기 위해 "
+"`zanata-cli <http://docs.zanata.org/en/release/client/>`__ 를 사용합니다."
+
+msgid ""
+"Note that you need to log into Zanata to see your activity in the above "
+"pages."
+msgstr ""
+"참고로 해당 페이지에서 활동을 살펴 보기 위해서는 Zanata에 로그인할 필요가 있"
+"습니다."
+
+msgid "Note: the period is relative short because of release cycle change"
+msgstr "참고 : 릴리스 사이클 변경으로 인해 기간이 상대적으로 짧습니다."
+
+msgid ""
+"Now you can start your translation. You can actually become an OpenStack "
+"official translator by contributing translations. You can find :doc:`various "
+"ways of contributions <contributing>`."
+msgstr ""
+"이제 번역을 시작할 수 있습니다. 번역에 기여함으로써 실제 OpenStack 공식 번역"
+"자가 될 수 있습니다. :doc:`컨트리뷰션을 하는 다양한 방법 <contributing>` 을 "
+"살펴봅니다."
+
+msgid "Ocata cycle"
+msgstr "Ocata 버전"
+
+msgid ""
+"Odd and even values are calculated based on `ISO week numbers <https://www."
+"timeanddate.com/date/weeknumber.html>`_."
+msgstr ""
+"홀수 및 짝수는 `ISO 주차 <https://www.timeanddate.com/date/weeknumber."
+"html>`_ 에 기반하여 계산이 이루어집니다."
+
+msgid ""
+"Of course there is no need that team coordinators do all items. You can "
+"collaborate your team members and share ideas."
+msgstr ""
+"물론 팀 코디네이터가 모든 항목을 할 필요는 없습니다. 팀 구성원과 협력 및 아이"
+"디어를 공유할 수 있습니다."
+
+msgid "Official OpenStack translator"
+msgstr "공식 OpenStack 번역자"
+
+msgid ""
+"On the other hand, translating stable version as upstream contribution is "
+"not encouraged after the translated strings are packaged with releases. The "
+"stable version will be closed earlier than or around EOL."
+msgstr ""
+"반면에, 번역된 문자열이 릴리즈와 함께 패키징이 이루어진 이후 업스트림 컨트리"
+"뷰션으로 안정 버전을 번역하는 것은 권장하지 않습니다. 안정 버전은 EOL 근방 또"
+"는 이전에 종료가 이루어질 예정입니다."
+
+msgid ""
+"Once a stable version corresponding to a project stable branch is created on "
+"Zanata, the infra script will push strings automatically."
+msgstr ""
+"프로젝트 안정 브랜치에 대응하는 안정 버전을 Zanata에서 생성하면, 인프라 스크"
+"립트가 자동으로 문자열을 푸시할 것입니다."
+
+msgid ""
+"Once you find location(s) of a string you would like to check, you can check "
+"more detail context where the string is used by looking at the code in the "
+"git repository. Zanata project and git repository are one-to-one "
+"relationship. If Zanata project name is ``<Zanata-project-name>``, the "
+"corresponding git repository location is ``https://opendev.org/openstack/"
+"<Zanata-project-name>/``. For example, if you are translating ``horizon``, "
+"the git repository is found at https://opendev.org/openstack/horizon/."
+msgstr ""
+"확인하려는 문자열의 위치를 찾으면 git 저장소의 코드를 보고 문자열이 사용 된 "
+"세부 정보 컨텍스트를 확인할 수 있습니다. Zanata 프로젝트와 git 저장소는 대응 "
+"관계입니다. Zanata 프로젝트 이름이``<Zanata-project-name>`` 이라면, 해당 git "
+"저장소 위치는 ``https://opendev.org/openstack/<Zanata-project-name>/`` 입니"
+"다. 예를 들어,``horizon``을 번역한다면, git 저장소는 https://opendev.org/"
+"openstack/horizon/에 있습니다."
+
+msgid ""
+"Once your change is merged, the updated glossary will be uploaded to Zanata. "
+"Note that the upload to Zanata is a **manual** process now. Only the Zanata "
+"administrator (usually the I18n PTL and some limited folks) can upload a "
+"glossary. If your glossary is not uploaded, contact the I18n team or the PTL "
+"via the i18n mailing list."
+msgstr ""
+"대상 변경사항에 대해 머지가 이루어진 이후, 변경된 용어집은 Zanata에 업로드가 "
+"이루어질 것입니다. 참고로, 해당 Zanata 업로드는 현재 **수동** 으로 이루어집니"
+"다. Zanata 관리자 (보통 I18n PTL 및 몇몇 제한된 사람)만 용어집을 업로드할 수 "
+"있습니다. 대상 용어집 업로드가 이루어지지 않은 경우, I18n 팀 또는 PTL에게 "
+"i18n 메일링리스트를 통해 연락합니다."
+
+msgid ""
+"One of main goals in I18n team is to incorporate translated strings into a "
+"new release so that more global users experience translated version of "
+"OpenStack. To accomplish this goal, some of team activities need to be "
+"aligned with a release schedule."
+msgstr ""
+"I18n 팀 내 주요 목표 중 하나는 번역이 이루어진 문자열을 새로운 릴리즈에 반영"
+"하도록 하여 보다 많은 전세계 사용자들이 OpenStack 번역 버전을 경험하도록 하"
+"는 것입니다. 해당 목표를 달성하기 위해, 몇몇 팀 활동들은 릴리즈 스케줄과 일치"
+"해야 할 필요가 있습니다."
+
+msgid ""
+"One way is to update the horizon code only. The following shell script "
+"fetches the latest horizon code, compiles translation message catalogs and "
+"reloads the apache httpd server. Replace ``$BRANCH`` with an appropriate "
+"branch such as ``master``, ``stable/newton`` or ``stable/mitaka``."
+msgstr ""
+"첫 번째 방법은 horizon 코드만 업데이트하는 것입니다. 다음 쉘스크립트는 최신 "
+"horizon 코드를 가져오고, 번역 메시지 카탈로그를 컴파일하며 apache httpd 서버"
+"를 다시 불러옵니다. ``$BRANCH`` 를 ``master``, ``stable/newton`` 또는 "
+"``stable/mitaka`` 와 같이 적절한 브랜치 이름으로 변경합니다."
+
+msgid ""
+"Open a POT file you find and search a string you are interested in. Then you "
+"can find an entry like:"
+msgstr ""
+"찾으려는 POT 파일을 열고 관심있는 문자열을 검색하십시오. 그러면 다음과 같은 "
+"항목을 찾을 수 있습니다."
+
+msgid "Open discussion"
+msgstr "기타 토론"
+
+msgid "Open reviews I18n repository"
+msgstr "Open reviews I18n repository"
+
+msgid "OpenStack Dashboard"
+msgstr "OpenStack 대시보드"
+
+msgid "OpenStack I18n Guide"
+msgstr "OpenStack I18n 가이드"
+
+msgid "OpenStack I18n team"
+msgstr "OpenStack I18n 팀"
+
+msgid ""
+"OpenStack I18n team is a team to coordinate all language translations and "
+"cooperation with the I18n team and the development teams. I18n team usually "
+"has a working plan."
+msgstr ""
+"OpenStack I18n팀은 I18n팀 및 여러 개발팀과 함께 모든 언어에 대한 번역 및 (상"
+"호) 협력을 조정하는 하나의 팀입니다. I18n팀은 일반적으로 작업 계획을 가지고 "
+"있습니다."
+
+msgid ""
+"OpenStack I18n team uses `Launchpad <https://bugs.launchpad.net/openstack-"
+"i18n>`_ for the bug tracking."
+msgstr ""
+"OpenStack I18n 팀은 버그 추적을 위해 `Launchpad <https://bugs.launchpad.net/"
+"openstack-i18n>`_ 를 사용합니다."
+
+msgid "OpenStack I18n team: See :ref:`label-i18n-team-contact`"
+msgstr "OpenStack I18n 팀: :ref:`label-i18n-team-contact` 를 살펴봅니다"
+
+msgid "OpenStack developer documentation"
+msgstr "OpenStack 개발자 문서"
+
+msgid ""
+"OpenStack documents are using RST format. The steps to translate RST "
+"documents include:"
+msgstr ""
+"OpenStack 문서는 RST 형식을 사용합니다. RST 문서를 번역하는 단계는 다음과 같"
+"습니다:"
+
+msgid ""
+"OpenStack uses Zanata as a translation platform. While most operations "
+"around the translation platform are automated, if you want to communicate "
+"with the translation platform manually, you can use `Zanata CLI <http://docs."
+"zanata.org/en/release/client/>`__."
+msgstr ""
+"OpenStack은 Zanata를 번역 플랫폼으로 사용합니다. 번역 플랫폼에 대한 대부분의 "
+"작업은 자동화되어 있지만, 번역 플랫폼과 수동으로 통신하려면 `Zanata CLI "
+"<http://docs.zanata.org/en/release/client/>`__ 를 사용하십시오."
+
+msgid "Or, more convenient way would be:"
+msgstr "또는 더 편리한 방법은 다음과 같습니다:"
+
+msgid "Original string or message is not correct."
+msgstr "원본 문자열 또는 메시지가 올바르지 않습니다."
+
+msgid "Other projects supported with translation jobs"
+msgstr "번역 작업으로 지원되는 다른 프로젝트"
+
+msgid ""
+"POT files are no longer stored in git repositories. The change was made at "
+"the beginning of Newton development cycle [#]_."
+msgstr ""
+"POT 파일은 더 이상 git 저장소에 저장되지 않습니다. 변경 사항은 Newton 개발주"
+"기 [#]_ 초반에 변경되었습니다."
+
+msgid ""
+"PTLs are elected by ATCs for each cycle. Please read `Governance Election "
+"Page <https://governance.openstack.org/election/>`__. Time and rules are "
+"announced there and on `OpenStack Discuss Mailing List <http://lists."
+"openstack.org/cgi-bin/mailman/listinfo/openstack-discuss>`__. Your candidacy "
+"is highly encouraged to share via there and on `OpenStack I18n Mailing List "
+"<http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-i18n>`__ . "
+"The proposal must be submitted to election repository (e.g. `https://review."
+"opendev.org/#/c/425775/ <https://review.opendev.org/#/c/425775/>`__). For "
+"this reason it is a good idea to subscribe to these mailing lists before :-)"
+msgstr ""
+"PTL은 각 (릴리즈) 주기에 해당하는 ATC에 의해 선출이 이루어집니다. "
+"`Governance Election Page <https://governance.openstack.org/election/>`__ 를 "
+"살펴보십시오. 시기 및 규칙은 `OpenStack Discuss Mailing List <http://lists."
+"openstack.org/cgi-bin/mailman/listinfo/openstack-discuss>`__ 에 공지가 이루어"
+"집니다. 출마 선언은 위 메일링리스트 및 `OpenStack I18n Mailing List <http://"
+"lists.openstack.org/cgi-bin/mailman/listinfo/openstack-i18n>`__ 에 공유하기"
+"를 매우 권장합니다. 출마 제안서는 election 저장소 (예: `https://review."
+"opendev.org/#/c/425775/ <https://review.opendev.org/#/c/425775/>`__)에 제출되"
+"어야만 합니다. 이러한 이유로 위 메일링리스트들을 구독하는 것은 좋은 생각입니"
+"다 :-)"
+
+msgid ""
+"Patch on governance repository: https://review.opendev.org/#/c/213989/ "
+"(`diff <https://opendev.org/openstack/governance/commit/"
+"a229d38469c5135af496d3c739695acbe1146a76>`__)"
+msgstr ""
+"governance 저장소 패치: https://review.opendev.org/#/c/213989/ (`diff "
+"<https://opendev.org/openstack/governance/commit/"
+"a229d38469c5135af496d3c739695acbe1146a76>`__)"
+
+msgid ""
+"Patch on governance repository: https://review.opendev.org/#/c/281145/ "
+"(`diff <https://opendev.org/openstack/governance/"
+"commit/8b3c83f28102c7b47688fbaca970a52a76eb6de5>`__)"
+msgstr ""
+"governance 저장소 패치: https://review.opendev.org/#/c/281145/ (`diff "
+"<https://opendev.org/openstack/governance/"
+"commit/8b3c83f28102c7b47688fbaca970a52a76eb6de5>`__)"
+
+msgid ""
+"Patch on governance repository: https://review.opendev.org/#/c/351480/ "
+"(`diff <https://opendev.org/openstack/governance/"
+"commit/3aa6cb3e52944f8bed250e0714c7373605b2ebc5>`__)"
+msgstr ""
+"governance 저장소 패치: https://review.opendev.org/#/c/351480/ (`diff "
+"<https://opendev.org/openstack/governance/"
+"commit/3aa6cb3e52944f8bed250e0714c7373605b2ebc5>`__)"
+
+msgid ""
+"Patch on governance repository: https://review.opendev.org/#/c/417569/ "
+"(`diff <https://opendev.org/openstack/governance/commit/"
+"bd71cefff1302ed04fc21faac5cf967365a7d7c7>`__)"
+msgstr ""
+"governance 저장소 패치: https://review.opendev.org/#/c/417569/ (`diff "
+"<https://opendev.org/openstack/governance/commit/"
+"bd71cefff1302ed04fc21faac5cf967365a7d7c7>`__)"
+
+msgid "Patch on governance repository: https://review.opendev.org/483452"
+msgstr "governance 저장소 패치: https://review.opendev.org/483452"
+
+msgid "Patch on governance repository: https://review.opendev.org/532982"
+msgstr "governance 저장소 패치: https://review.opendev.org/532982"
+
+msgid "Patch on governance repository: https://review.opendev.org/586751"
+msgstr "governance 저장소 패치: https://review.opendev.org/586751"
+
+msgid "Patch on governance repository: https://review.opendev.org/633398"
+msgstr "governance 저장소 패치: https://review.opendev.org/633398"
+
+msgid "Period: 2015-08-01 to 2016-01-30"
+msgstr "기간: 2015-08-01 ~ 2016-01-30"
+
+msgid "Period: 2016-02-01 to 2016-07-31"
+msgstr "기간: 2016-02-01 ~ 2016-07-31"
+
+msgid "Period: 2016-08-01 to 2017-01-05"
+msgstr "기간: 2016-08-01 ~ 2017-01-05"
+
+msgid "Period: 2017-01-06 to 2017-06-30"
+msgstr "기간: 2017-01-06 ~ 2017-06-30"
+
+msgid "Period: 2017-07-01 to 2018-01-10"
+msgstr "기간: 2017년 7월 1일 - 2018년 1월 10일"
+
+msgid "Period: 2018-01-11 to 2018-07-09"
+msgstr "기간: 2018-01-11 ~ 2018-07-09"
+
+msgid "Period: 2018-07-10 to 2019-01-25"
+msgstr "기간: 2018년 7월 10일 - 2019년 1월 25일"
+
+msgid "Period: from 2014-11-01 to 2015-07-16"
+msgstr "기간: 2014년 11월 1일 - 2015년 7월 16일"
+
+msgid "Pike cycle"
+msgstr "Pike 버전"
+
+msgid "Previous meetings"
+msgstr "이전 미팅"
+
+msgid "Project Goals And Translation Plan"
+msgstr "프로젝트 목표 및 번역 계획"
+
+msgid "Project configuration"
+msgstr "프로젝트 구성"
+
+msgid "Project maintenance"
+msgstr "프로젝트 유지보수"
+
+msgid "Projects affecting StringFreezes"
+msgstr "StringFreezes에 영향을주는 프로젝트들"
+
+msgid "Pull translations from Zanata"
+msgstr "Zanata의 번역을 가져옵니다."
+
+msgid "Python script to setup projects for Zanata"
+msgstr "Zanata에 대해 프로젝트를 셋업하는 Python 스크립트입니다"
+
+msgid "Queens cycle"
+msgstr "Queens 주기"
+
+msgid "Register a user ID in Zanata"
+msgstr "사용자 ID를 Zanata에 등록하기"
+
+msgid "Release Management"
+msgstr "릴리즈 관리"
+
+msgid ""
+"Replace ``$BRANCH`` with an appropriate branch such as ``master``, ``stable/"
+"newton`` or ``stable/mitaka``."
+msgstr ""
+"``$BRANCH`` 를 ``master``, ``stable/newton`` 또는 ``stable/mitaka`` 와 같이 "
+"적절한 브랜치 이름으로 변경합니다."
+
+msgid "Reporting translation bugs"
+msgstr "번역 버그 보고하기"
+
+msgid "Request to join a translation team"
+msgstr "번역팀 가입을 요청합니다"
+
+msgid "Retrieve translation statistics"
+msgstr "번역 통계 가져 오기"
+
+msgid "Review of action items from the previous meeting"
+msgstr "이전 미팅에 대한 수행 항목 리뷰"
+
+msgid "Reviewer"
+msgstr "검토자"
+
+msgid "Reviewing"
+msgstr "리뷰"
+
+msgid "Reviewing translation imports"
+msgstr "번역 가져오기 리뷰"
+
+msgid "Rob Cresswell (id: robcresswell) - English (United Kingdom)"
+msgstr "Rob Cresswell (id: robcresswell) - English (United Kingdom)"
+
+msgid "Rocky cycle"
+msgstr "Rocky 주기"
+
+msgid "Roles in a Language Team"
+msgstr "언어팀 내 역할"
+
+msgid "Running DevStack"
+msgstr "DevStack 실행하기"
+
+msgid "Running OpenStack-Ansible"
+msgstr "OpenStack-Ansible 실행하기"
+
+msgid ""
+"Schedules and rules for the team meeting are described in chapter :doc:"
+"`i18n_team_meeting` PTL is chairing the meeting or determines someone to "
+"takeover. He (the PTL) also has to check if the meeting time suits most "
+"people. Configuration of chair and time is done by `irc-meeting repo "
+"<https://opendev.org/opendev/irc-meetings>`__."
+msgstr ""
+"팀 미팅에 대한 일정 및 규칙은 :doc:`i18n_team_meeting` 에 설명되어 있습니다. "
+"PTL은 미팅을 진행하거나 다른 사람에게 권한을 위임하도록 부탁합니다. PTL은 미"
+"팅 시간대가 대부분의 사람에게 적절한지를 확인해야 합니다. 진행자 및 시간대에 "
+"대한 구성은 `irc-meeting 저장소 <https://opendev.org/opendev/irc-"
+"meetings>`__ 에서 이루어집니다."
+
+msgid "Search in this guide"
+msgstr "가이드 내 검색"
+
+msgid "Server projects"
+msgstr "서버 프로젝트"
+
+msgid ""
+"Setting up a communication channel among team members is recommended. It "
+"encourage team communications to discuss various translation related topics."
+msgstr ""
+"팀 구성원 간 의사소통 채널을 갖출 것을 권장합니다. 이는 팀 구성원이 다양한 번"
+"역 관련 주제를 토론하는 것을 격려합니다."
+
+msgid "Slicing"
+msgstr "Slicing"
+
+msgid "Slicing: generate PO templates from RST documents"
+msgstr "Slicing: RST 문서에서 PO 템플릿 생성"
+
+msgid ""
+"Sphinx is a tool to translate RST source files to various output formats, "
+"including POT and HTML. You need to install Sphinx before you go to below "
+"steps. Almost all projects have ``test-requirements.txt`` in their "
+"repositories and you can check the required version of Sphinx by checking "
+"this file."
+msgstr ""
+"Sphinx는 ROT 소스 파일을 POT과 HTML을 포함한 다양한 출력 형식으로 변환하는 도"
+"구입니다. 아래 단계를 수행하기 전에 Sphinx 를 설치해야합니다. 거의 모든 프로"
+"젝트는 리포지토리에``test-requirements.txt`` 를 가지고 있으며,이 파일을 검사"
+"하여 필요한 Sphinx 버전을 확인할 수 있습니다."
+
+msgid "Stackalytics"
+msgstr "Stackalytics"
+
+msgid ""
+"Statistics are available through: https://docs.google.com/spreadsheets/"
+"d/1YpDJU_uNA4I5fzFG69T6L9gpFsy5yNtA9a-lSxnqeAY/edit#gid=1366189722"
+msgstr ""
+"통계 정보의 위치: https://docs.google.com/spreadsheets/"
+"d/1YpDJU_uNA4I5fzFG69T6L9gpFsy5yNtA9a-lSxnqeAY/edit#gid=1366189722"
+
+msgid "Stein cycle"
+msgstr "Stein 주기"
+
+msgid "Steps to become a OpenStack translator"
+msgstr "OpenStack 번역자가 되는 단계"
+
+msgid "Sync the translator list with Zanata"
+msgstr "Zanata에서의 번역자 목록 동기화"
+
+msgid "TBD"
+msgstr "TBD"
+
+msgid "Team activities with release"
+msgstr "릴리즈와 관련된 팀 활동"
+
+msgid ""
+"The I18n project maintains a list of language teams and their members. The "
+"list is used by Stackalytics to gather translation statistics (See :ref:"
+"`stats-stackalytics` for detail). It is also used by the scripts below."
+msgstr ""
+"I18n 프로젝트는 언어 팀과 회원들의 목록을 관리합니다. 이 목록은 Stackalytics"
+"에서 번역 통계를 수집하는데 사용됩니다 (자세한 내용은 :ref:`stats-"
+"stackalytics` 참조). 또한 아래 스크립트에서 사용됩니다."
+
+msgid ""
+"The I18n team holds weekly Team Meetings on Thursdays at alternating times "
+"in #openstack-meeting IRC channel. To download ICS file, please visit "
+"`eavesdrop <http://eavesdrop.openstack.org/#I18N_Team_Meeting>`_ page."
+msgstr ""
+"I18n 팀은 주간 팀 미팅을 #openstack-meeting IRC 채널에서 시간을 번갈아가면서 "
+"목요일에 개최합니다. ICS 파일을 다운로드하려면, `eavesdrop <http://eavesdrop."
+"openstack.org/#I18N_Team_Meeting>`_ 페이지에 방문합니다."
+
+msgid "The I18n team welcomes any kinds of contribution."
+msgstr "I18n 팀은 어떤 종류의 기여라도 모두 환영합니다."
+
+msgid ""
+"The OpenStack infra scripts executed by tasks currently download new files "
+"that are at least **75 percent** translated and if files grow over time but "
+"do not get new translations (or strings change too much), they will be "
+"removed again automatically from the project with a lower threshold of "
+"currently **40 percent**."
+msgstr ""
+"Task에 의해 실행이 이루어지는 OpenStack 인프라 스크립트는 현재 **75 퍼센트** "
+"이상 번역된 새로운 파일을 다운로드하며, 시간이 지나 새로운 번역을 얻지 못하였"
+"거나 문자열이 너무 많이 변경된 경우에는, 현재 **40 퍼센트** 최저 임계치를 적"
+"용하여 프로젝트에서 자동으로 다시 제거가 이루어질 것입니다."
+
+msgid ""
+"The POT file is found under ``http://tarballs.openstack.org/translation-"
+"source/<Zanata-project-name>/<Zanata-project-version>/<path>/<resource>."
+"pot``, where:"
+msgstr ""
+"POT 파일은 ``http://tarballs.openstack.org/translation-source/<Zanata-"
+"project-name>/<Zanata-project-version>/<path>/<resource>.pot`` 에서 찾을 수 "
+"있습니다. 여기서,"
+
+msgid ""
+"The PTL is supported in the work by the `I18n core team <https://review."
+"opendev.org/#/admin/groups/1132,members>`__. He designates such kind of "
+"project team members and reviews the list from time to time. The work of the "
+"core team is described in the `Project Team Guide <https://docs.openstack."
+"org/project-team-guide/ptl.html>`__. Of course, core team member be can also "
+"proposed by the project team."
+msgstr ""
+"`I18n core team <https://review.opendev.org/#/admin/groups/1132,members>`__ "
+"에 의한 작업 내에서 PTL은 지원을 받습니다. PTL은 해당 종류의 프로젝트 팀 구성"
+"원을 지정하고 수시로 목록을 검토합니다. 코어 팀 작업은 `Project Team Guide "
+"<https://docs.openstack.org/project-team-guide/ptl.html>`__ 에 설명되어 있습"
+"니다. 물론, 프로젝트 팀에서 코어 팀 멤버에 대한 제안이 이루어질 수 있습니다."
+
+msgid "The above run the following internally:"
+msgstr "위 내용은 내부적으로 실행됩니다:"
+
+msgid ""
+"The bug triaging process are following the `general bug triaging process "
+"<https://wiki.openstack.org/wiki/BugTriage>`_. If you want to help bug "
+"triaging tasks, join the `OpenStack I18n bug team <https://launchpad.net/"
+"~openstack-i18n-bugs>`_ first."
+msgstr ""
+"번역 구분 과정은  `general bug triaging process <https://wiki.openstack.org/"
+"wiki/BugTriage>`_ 를 따르고 있습니다. 버그 구분 작업을 돕고자 하는 경우, "
+"`OpenStack I18n bug team <https://launchpad.net/~openstack-i18n-bugs>`_ 팀에 "
+"먼저 가입합니다."
+
+msgid ""
+"The change is done by a bot. If anything looks wrong with it, you need to "
+"actively reach out to the :ref:`OpenStack I18n team <openstack_i18n_team>` "
+"and point the problem out."
+msgstr ""
+"해당 변경사항은 bot에 의해 이루어집니다. 이상한 부분을 발견하면, :ref:"
+"`OpenStack I18n team <openstack_i18n_team>` 에 연락하여 해당 문제점을 적극적"
+"으로 지적할 필요가 있습니다."
+
+msgid "The convention for heading levels is as follows::"
+msgstr "머리말 부분을 위한 규칙은 다음과 같습니다::"
+
+msgid ""
+"The easiest way would be to open http://tarballs.openstack.org/translation-"
+"source and then follow ``<Zanata-project-name>``, ``<Zanata-version>`` and "
+"corresponding links."
+msgstr ""
+"가장 쉬운 방법은 http://tarballs.openstack.org/translation-source를 열고 "
+"``<Zanata-project-name>``, ``<Zanata-version>`,  해당 링크를 따라하는 것입니"
+"다."
+
+msgid "The filename of the list is ``tools/translation_team.yaml``."
+msgstr "목록의 파일 이름은 ``tools/translation_team.yaml`` 입니다."
+
+msgid ""
+"The following is an example of ``local.conf`` for Newton release which runs "
+"core components (keystone, nova, glance, neutron, cinder), horizon, swift "
+"and heat. The components which the main horizon code supports are chosen."
+msgstr ""
+"다음은 핵심 구성요소 (keystone, nova, glance, neutron, cinder), horizon, "
+"swift 및 heat를 실행하는 Newton 릴리즈를 위한 ``local.conf`` 예제입니다. 핵"
+"심 horizon 코드에서 지원하는 구성요소를 선택하였습니다."
+
+msgid ""
+"The following is an example of ``zanata.xml``. In most cases, what you need "
+"to edit are **project** and **project-version**."
+msgstr ""
+"다음은 ``zanata.xml`` 의 예입니다. 대부분의 경우 편집해야 할 항목은 "
+"**project** 와 **project-version** 입니다."
+
+msgid "The followings are useful links when writing documents in RST."
+msgstr "다음은 RST로 문서를 작성할 때 유용한 링크입니다."
+
+msgid ""
+"The goal of the review is that the structure of the change is fine, it's not "
+"that the strings are translated properly. The review of translated strings "
+"is done by teams using the translation server."
+msgstr ""
+"리뷰를 하는 목표는 해당 변경사항 구조가 괜찮은지이지, 번역이 올바르게 이루어"
+"졌는지가 아닙니다. 번역 문자열에 대한 리뷰는 번역 서버를 사용해 팀에 의해 이"
+"루어집니다."
+
+msgid ""
+"The guide is written in reStructuredText (RST) markup syntax with Sphinx "
+"extensions. Most conventions follow `those of the openstack-manuals project "
+"<http://docs.openstack.org/contributor-guide/rst-conv.html>`__."
+msgstr ""
+"본 가이드는 Sphinx 확장인 reStructuredText (RST) 마크업 문법으로 작성되었습니"
+"다. 대부분 규칙은 `openstack-manuals 프로젝트 내 설명 <http://docs.openstack."
+"org/contributor-guide/rst-conv.html>`__ 을 따릅니다."
+
+msgid ""
+"The master glossary is an usual POT file. You can edit it in your favorite "
+"editor as usual."
+msgstr ""
+"마스터 용어집은 일반적인 POT 파일입니다. 역시 일반적으로 선호하는 편집기를 통"
+"해 수정 가능합니다."
+
+msgid ""
+"The meeting is interconnected with the `Documentation Team Meeting <http://"
+"eavesdrop.openstack.org/#Documentation_Team_Meeting>`_. The first 30 minutes "
+"are reserved for I18n topics and the second part is for Documentation Team "
+"topics."
+msgstr ""
+"본 미팅은 `Documentation Team Meeting <http://eavesdrop.openstack.org/"
+"#Documentation_Team_Meeting>`_ 과 서로 연결되어 있습니다. 첫 30분은 I18n 주제"
+"로, 그리고 다음 파트는 문서화 팀 주제로 예약되어 있습니다."
+
+msgid ""
+"The other way is to rerun DevStack. Ensure to include ``RECLONE=True`` in "
+"your ``local.conf`` before running ``stack.sh`` again so that DevStack "
+"retrieve the latest codes of horizon and other projects."
+msgstr ""
+"다른 방법은 DevStack을 다시 실행하는 것입니다. DevStack이 horizon 및 다른 프"
+"로젝트 최신 코드를 가져오기 위해 ``stack.sh`` 를 다시 실행하기 전에 ``local."
+"conf`` 내 ``RECLONE=True`` 를 포함하는지를 확인합니다."
+
+msgid ""
+"The proposal bot also removes files, it removes files that have very few "
+"translations in them. Note that no translations will be lost, they are still "
+"in the translation server."
+msgstr ""
+"Proposal bot은 파일 삭제 또한 수행합니다. 만약 파일 내 번역이 거의 없는 경우 "
+"파일을 제거합니다. 참고로 번역은 손실되지 않으며, 모든 번역 사항은 번역 서버 "
+"내에 여전히 있습니다."
+
+msgid ""
+"The script ``tools/zanata/zanata_stats.py`` helps retrieving translation "
+"statistics from Zanata."
+msgstr ""
+"``tools/zanata/zanata_stats.py`` 스크립트는 Zanata의 번역 통계를 검색하는 데 "
+"도움이됩니다."
+
+msgid ""
+"The script ``tools/zanata/zanata_userinfo.py`` helps this. It generates a "
+"CSV file by reading a YAML file which contains the list of translators (e."
+"g., ``translation_team.yaml``) with user name and e-mail addresses by "
+"interacting with Zanata API."
+msgstr ""
+"``tools/zanata/zanata_userinfo.py`` 스크립트는 이것을 돕습니다. Zanata API와 "
+"상호 작용하여 사용자 이름과 전자 메일 주소가있는 번역자 목록 (예: "
+"``translation_team.yaml``) 이 들어있는 YAML 파일을 읽음으로써 CSV 파일을 생성"
+"합니다."
+
+msgid ""
+"The scripts below depend on several python modules. To install these "
+"dependencies, run ``pip install -e requirements.txt``."
+msgstr ""
+"아래 스크립트는 여러 개의 파이썬 모듈에 의존합니다. 이러한 종속성을 설치하려"
+"면, ``pip install -e requirements.txt`` 을 실행하십시오."
+
+msgid ""
+"The stable version is created from the master version on Zanata once RC1 is "
+"cut and a stable branch is created in a git repository."
+msgstr ""
+"안정 버전은 RC1이 만들어지고 git 저장소에 안정 브랜치 생성이 이루어진 후 "
+"Zanata에서 master 버전을 기반으로 하여 생성합니다."
+
+msgid ""
+"The stable version is well reviewed, so it makes sense to merge translations "
+"into the master version on Zanata to avoid translating the same strings "
+"again."
+msgstr ""
+"안정 버전에 대한 리뷰가 잘 이루어졌고, 따라서 동일한 문자열을 다시 번역하는 "
+"것을 피하기 위해 Zanata에서 해당 번역을 master 버전으로 머지하는 것은 일리가 "
+"있습니다."
+
+msgid ""
+"The statistics are calculated using `a Python script <https://opendev.org/"
+"openstack/i18n/src/tools/zanata/zanata_stats.py>`__ powered by `Zanata "
+"statistics API <http://zanata.org/zanata-platform/rest-api-docs/"
+"resource_StatisticsResource.html>`__ Translator list is maintained by "
+"`translation_team.yaml <https://opendev.org/openstack/i18n/src/tools/zanata/"
+"translation_team.yaml>`__ stored in `openstack/i18n git repository <https://"
+"opendev.org/openstack/i18n>`__."
+msgstr ""
+"통계는 `Python 스크립트 <https://opendev.org/openstack/i18n/src/tools/zanata/"
+"zanata_stats.py>`__ 를 사용해 계산되며 `Zanata 통계 API <http://zanata.org/"
+"zanata-platform/rest-api-docs/resource_StatisticsResource.html>`__ 를 활용합"
+"니다. 번역자 목록은 `translation_team_yaml <https://opendev.org/openstack/"
+"i18n/src/tools/zanata/translation_team.yaml>`__  을 통해 유지되며 `openstack/"
+"i18n git 저장소 <https://opendev.org/openstack/i18n>`__ 에 있습니다."
+
+msgid "The terms in this page follow release schedule pages."
+msgstr "본 페이지 내 용어는 릴리즈 스케줄 페이지를 따릅니다."
+
+msgid ""
+"The translatable strings are extracted from a source project. So some i18n "
+"bugs might be caused by bugs in the original strings/source codes of a "
+"source project which contains these translatable strings. Those kind of bugs "
+"should be fixed in the source project."
+msgstr ""
+"번역 가능한 문자열은 소스 프로젝트에서 추출이 이루어집니다. 따라서 몇몇 i18n "
+"버그는 해당 번역 가능한 문자열을 포함하는 원본 문자열/소스 프로젝트 내 소스 "
+"코드에서 버그가 야기되었을 수도 있습니다. 해당 유형의 버그는 소스 프로젝트에"
+"서 수정이 이루어져야 합니다."
+
+msgid ""
+"The translation plan is announced on `Zanata <https://translate.openstack."
+"org>`__ and contains the projects with the highest priority in translation. "
+"Usually these are all user-visible projects, like Horizon."
+msgstr ""
+"번역 계획은 `Zanata <https://translate.openstack.org>`__ 에 공지가 이루어지"
+"고 번역에서 매우 중요한 우선 순위를 가진 프로젝트를 포함합니다. 대상은 보통 "
+"Horizon과 같이 사용자에게 보여지는 프로젝트입니다."
+
+msgid ""
+"The work for PTL and Zanata administrator is described in chapter :doc:"
+"`release_management`. This covers also questions about string freezes and "
+"work with stable branches."
+msgstr ""
+"PTL과 Zanata 관리자를 위한 작업이 :doc:`release_management` 챕터에 설명되어 "
+"있습니다. 여기에서는 string freezes 및 안정 버전을 가지고 이루어지는 작업에 "
+"대한 궁금한 사항을 다룹니다."
+
+msgid ""
+"Then, for every PO file, we should execute the following command to build "
+"into MO file:"
+msgstr ""
+"그런 다음 모든 PO 파일에 대해 다음 명령을 실행하여 MO 파일을 빌드해야합니다:"
+
+msgid ""
+"Then, your locale translation team is created successfully. You can enroll "
+"more people to join and start your translation work."
+msgstr ""
+"이제, 대상 로케일 번역팀을 성공적으로 생성이 이루어진 것입니다. 보다 많은 사"
+"람을 초청하고 번역 작업을 시작할 수 있습니다."
+
+msgid ""
+"There are cases where you cannot see your translation statistics in "
+"Stackalytics even after you translate strings in Zanata."
+msgstr ""
+"Zanata에서 문자열 번역을 수행한 이후에도 Stackalytics에서 번역 통계를 살펴볼 "
+"수 없는 경우가 있습니다."
+
+msgid "There are several ways to know your translation activity."
+msgstr "번역 활동을 알기 위한 여러 방법이 있습니다."
+
+msgid "There are three different roles in a translation team:"
+msgstr "각 언어팀 내에는 3가지 서로 다른 역할이 있습니다:"
+
+msgid ""
+"This `Script in I18n repo <https://opendev.org/openstack/i18n/src/tools/"
+"zanata/zanata_users.py>`__ collects all users and their activities."
+msgstr ""
+"`Script in I18n repo <https://opendev.org/openstack/i18n/src/tools/zanata/"
+"zanata_users.py>`__ 는 모든 사용자 및 활동을 수집합니다."
+
+msgid ""
+"This document explains to reviewers details about the automatic import of "
+"translations from Zanata."
+msgstr ""
+"이 문서는 Zanata에서 자동으로 번역을 가져오는 것과 관련한 검토자 세부사항을 "
+"설명합니다."
+
+msgid "This document gives additional information."
+msgstr "해당 문서는 부가 정보를 제공합니다."
+
+msgid ""
+"This following statistics data is calculated using up-to-date "
+"`translation_team.yaml <https://opendev.org/openstack/i18n/src/commit/"
+"a67e08d86cc78907da38d5f09b8be6f71d1979a0/tools/zanata/translation_team."
+"yaml>`__ (date: Jan 15, 2017)."
+msgstr ""
+"다음 통계 데이터는 가장 최신 `translation_team.yaml <https://opendev.org/"
+"openstack/i18n/src/commit/a67e08d86cc78907da38d5f09b8be6f71d1979a0/tools/"
+"zanata/translation_team.yaml>`__ (date: Jan 15, 2017) 데이터를 기반으로 계산"
+"이 이루어졌습니다."
+
+msgid ""
+"This guide itself is I18n-ed and you can translate it into your language. To "
+"translate it, visit `i18n <https://translate.openstack.org/project/view/"
+"i18n>`__ project in `Zanata <https://translate.openstack.org/>`__. Document "
+"**doc** in **i18n** project corresponds to this guide. You can translate it "
+"in the same way as you do for other projects like dashboard or manuals. Once "
+"the translation progress becomes higher than the threshold (For more "
+"information on the threshold, see :ref:`translation-jobs`), the translated "
+"version of the guide will be published."
+msgstr ""
+"해당 가이드 자체 는 국제화 (I18n)를 지원하며 따라서 여러 언어로 번역할 수 있"
+"습니다. 번역을 하려면, `Zanata <https://translate.openstack.org/>`__  에서 "
+"`i18n <https://translate.openstack.org/project/view/i18n>`__ 프로젝트를 방문"
+"합니다. **i18n** 프로젝트 내 **doc** 문서는 해당 가이드에 대응합니다. 대시보"
+"드 또는 매뉴얼과 같은 다른 프로젝트에서와 마찬가지 방식으로 번역할 수 있습니"
+"다. 번역 진행률이 일정 임계치 (해당 임계치에 대한 보다 자세한 정보는 :ref:"
+"`translation-jobs` 를 살펴봅니다)보다 높아졌을 때, 해당 가이드에 대한 번역 버"
+"전 퍼블리싱이 이루어질 것입니다."
+
+msgid ""
+"This guide provides detailed instructions on the I18n contribution workflow "
+"and conventions to be considered by all contributors."
+msgstr ""
+"해당 가이드는 모든 기여자에게 있어 고려할만한 I18n 기여 워크플로우 및 통용규"
+"칙에 대한 자세한 안내를 제공합니다."
+
+msgid "This is a useful commands for the IRC meeting."
+msgstr "IRC 미팅에서 유용한 명령어입니다."
+
+msgid ""
+"This is written about openstack-manuals project. As of the end of Pike "
+"development cycle, `the document migration community-wide effort <https://"
+"specs.openstack.org/openstack/docs-specs/specs/pike/os-manuals-migration."
+"html>`__ is being done. The process documented here might be changed in near "
+"future."
+msgstr ""
+"openstack-manuals 프로젝트에 대해 작성되었습니다. Pike 개발주기의 마지막 시점"
+"에, `the document migration community-wide effort <https://specs.openstack."
+"org/openstack/docs-specs/specs/pike/os-manuals-migration.html>`__ 이 진행되"
+"고 있습니다. 이 문서화 된 프로세스는 가까운 시일이내에 변경 될 수 있습니다."
+
+msgid ""
+"This list is a cache of information on Zanata, and we need to keep it synced "
+"with Zanata."
+msgstr "이 목록은 Zanata에 대한 정보 캐시이며 Zanata와 계속 동기화해야합니다."
+
+msgid ""
+"This means \"Aggregates\" menu in \"Admin\" group in the left side menu. In "
+"Horizon code, the second level corresponds to a dashboard group like "
+"\"Project\" or \"Admin\" and the third level corresponds to a panel like "
+"\"Aggregates\" (in this example), \"Instances\" or \"Networks\"."
+msgstr ""
+"이것은 왼쪽 메뉴의 \"관리자\"그룹에있는 \"집계\"메뉴를 의미합니다. Horizon 코"
+"드에서 두 번째 레벨은 \"프로젝트\"또는 \"관리자\"와 같은 대시 보드 그룹에 해"
+"당하며 세 번째 레벨은 \"집계\"(이 예에서는), \"인스턴스\"또는 \"네트워크\"와 "
+"같은 패널에 해당합니다."
+
+msgid "This page collects small tips and tricks around translations."
+msgstr "이 페이지는 번역과 관련한 약간의 팁 과 트릭을 정리합니다."
+
+msgid "This page covers various operations around i18n activities."
+msgstr "이 페이지는 i18n 활동에 대한 다양한 작업을 다루고 있습니다."
+
+msgid "This page describes how end users can report translation bugs."
+msgstr "이 페이지는 최종 사용자가 번역 버그를 신고하는 방법을 설명합니다."
+
+msgid ""
+"This page describes the conventions and tips on writing this guide itself."
+msgstr "이 페이지는 해당 가이드를 작성할 때 통용 규칙과 팁을 설명합니다."
+
+msgid ""
+"This page documents what I18n team concerns and which things are needed to "
+"do with OpenStack releases. Each OpenStack release has around 6-month cycle "
+"and the corresponding schedule is available on https://releases.openstack."
+"org/ (e.g., https://releases.openstack.org/ocata/schedule.html describes "
+"Ocata release schedule)."
+msgstr ""
+"이 페이지는 OpenStack 릴리즈와 더불어 I18n 팀이 신경을 쓰고 있으며 필요로 하"
+"는 것들을 문서화합니다. 각 OpenStack 릴리즈는 약 6개월을 주기로 하고 있으며 "
+"관련한 스케줄은 https://releases.openstack.org/ 에서 확인 가능합니다 (예: "
+"https://releases.openstack.org/ocata/schedule.html 는 Ocata 릴리즈 스케줄을 "
+"설명합니다)."
+
+msgid "This script requires Zanata admin privilege."
+msgstr "이 스크립트에는 Zanata 관리자 권한이 필요합니다."
+
+msgid ""
+"This section tries to share best practices on how team coordinators manages "
+"their language team. Feel free to add useful information!"
+msgstr ""
+"이 섹션은 팀 코디네이터가 언어팀을 관리하는 모범 사례를 공유하고자 합니다. 유"
+"용한 정보가 있다면 언제든지 추가해 주세요!"
+
+msgid "This should be done after a stable version on Zanata is created."
+msgstr "Zanata에서 안정 버전이 생성된 이후에 이루어져야 합니다."
+
+msgid "This usually happens within a week after the release."
+msgstr "이는 보통 릴리즈 1주일 이후에 이루어집니다."
+
+msgid "Titles"
+msgstr "제목"
+
+msgid ""
+"To add a link to a generated document, you need to update the file ``www/"
+"<lang>/index.html`` in the ``master`` branch of the ``openstack-manuals`` "
+"repository. Note that the web pages are published from ``master`` branch, "
+"which contains the pages for all releases, such as Liberty. Therefore, you "
+"don't need to update the file ``www/<lang>/index.html`` in the stable branch."
+msgstr ""
+"생성된 문서에 대한 링크를 추가하려면, ``openstack-manuals`` 저장소에서 "
+"``master`` 브랜치 내 ``www/<lang>/index.html`` 파일을 수정할 필요가 있습니"
+"다. 참고로, 웹 페이지는 ``master`` 브랜치에서 퍼블리싱이 이루어지며, Liberty"
+"와 같은 모든 릴리즈를 포함하고 있습니다. 따라서, stable 브랜치 내 ``www/"
+"<lang>/index.html`` 파일을 수정할 필요가 없습니다."
+
+msgid ""
+"To build a translated document, you need to update the file ``doc-tools-"
+"check-languages.conf`` in each repository, and add an entry to ``BOOKS`` "
+"like ``[\"ja\"]=\"install-guide\"``."
+msgstr ""
+"번역된 문서를 빌드하려면, 각 저장소 내 ``doc-tools-check-languages.conf`` 파"
+"일을 수정하고, ``[\"ja\"]=\"install-guide\"`` 와 같이 ``BOOKS`` 에 항목을 추"
+"가합니다. "
+
+msgid ""
+"To communicate with the translation platform, you need to prepare a project "
+"configuration file named ``zanata.xml`` in the top directory of a project "
+"you are interested in. OpenStack projects does not contain ``zanata.xml`` in "
+"their git repositories, so you need to create it manually."
+msgstr ""
+"번역 플랫폼과 교류하려면 관심이 있는 프로젝트의 최상위 디렉토리에 ``zanata."
+"xml`` 이라는 프로젝트 구성 파일을 준비해야합니다. OpenStack 프로젝트에는 git"
+"에 ``zanata.xml`` 이 없습니다, 그러므로 리포지토리를 만들려면 수동으로 만들어"
+"야합니다."
+
+msgid ""
+"To display translated messages in python server projects, you need to "
+"compile message catalogs and also need to configure your server services "
+"following instructions described at `oslo.i18n documentation <https://docs."
+"openstack.org/oslo.i18n/latest/user/usage.html#displaying-translated-"
+"messages>`__."
+msgstr ""
+"Python 서버 프로젝트에서 번역 된 메시지를 표시하려면 메시지 카탈로그를 컴파일"
+"해야하며 `oslo.i18n documentation <https://docs.openstack.org/oslo.i18n/"
+"latest/user/usage.html#displaying-translated-messages>`__ 에서 설명하는 지침"
+"에 따라 서버 서비스를 구성해야합니다."
+
+msgid ""
+"To download translations from Zanata, run the following command after going "
+"into a project directory. You are usually interested in only a few of "
+"languages, so ``--locales`` option would be useful. For more options, see "
+"the output of ``zanata pull --help``."
+msgstr ""
+"Zanata에서 번역본을 다운로드하려면 프로젝트 디렉토리로 이동 한 후 다음 명령"
+"을 실행하십시오. 보통 몇 가지 언어에만 관심이 있으므로 ``--locales`` 옵션이 "
+"유용 할 것입니다. 더 많은 옵션을 보려면``zanata pull --help`` 의 출력을 보십"
+"시오."
+
+msgid ""
+"To fetch translated files regularly, execute this command manually or as a "
+"cron:"
+msgstr ""
+"번역이 이루어진 파일을 주기적으로 가져오려면, 다음 명령어를 수동으로 또는 "
+"cron으로 실행합니다:"
+
+msgid ""
+"To help with translation, :doc:`become an official translator "
+"<official_translator>` and join your language team. Then go to `translation "
+"website <https://translate.openstack.org/>`_ to start translation. You can "
+"find prioritized translation jobs as I18n team at the top of the page."
+msgstr ""
+"번역에 도움이 필요하시면 :doc:`become an official translator "
+"<official_translator>` 를 선택하고 언어 팀에 가입하십시오. 그런 다음 "
+"`translation website <https://translate.openstack.org/>`_ 로 가서 번역을 시작"
+"하십시오.  I18n 팀에서의 우선 순위가 높은 번역 작업을 페이지 상단에서 찾을 "
+"수 있습니다."
+
+msgid ""
+"To not have too much churn and last minute string fixes lead to files get "
+"removed, there is also a lower threshold for releases of **66 percent** of "
+"messages translated as policy - which is only manually enforced."
+msgstr ""
+"너무 많은 변경 및 마지막 문자열 수정으로 인해 파일들이 제거되는 것을 막기 위"
+"해, **66 퍼센트** 에 대한 메시지가 번역되어야 한다는 정책을 릴리즈에 대해 낮"
+"은 임계치로 적용 또한 하고 있습니다. 이는 수동으로 적용하고 있습니다."
+
+msgid "To report translation errors, see :doc:`bug_report`."
+msgstr "번역 오류를 보고하고자 하는 경우, :doc:`bug_report` 를 살펴봅니다."
+
+msgid "To run the script:"
+msgstr "스크립트를 실행하십시오:"
+
+msgid "To sync the translator list, run the following command:"
+msgstr "변역자 목록을 동기화하려면 다음 명령을 실행하십시오:"
+
+msgid "Tools"
+msgstr "도구"
+
+msgid "Train cycle"
+msgstr "Train 주기"
+
+msgid "Translate **master** version on Zanata."
+msgstr "Zanata에서 **master** 버전을 번역합니다."
+
+msgid ""
+"Translated documents are available at the OpenStack Documentation site. It "
+"is updated daily. Most contents are linked from either of:"
+msgstr ""
+"번역이 이루어진 문서는 OpenStack 문서 사이트에서 확인 가능합니다. 매일 업데이"
+"트가 이루어집니다. 대부분 내용은 다음 중 하나에 연결되어 있습니다:"
+
+msgid ""
+"Translated strings are automatically synced between translation server and "
+"Openstack infrastructure. The procedure is robust, but sometimes something "
+"can go wrong. For this reason there is a section :ref:`monitoring-"
+"translation-job-status` in the infrastructure chapter."
+msgstr ""
+"번역이 이루어진 문자열은 번역 서버와 OpenStack 인프라 사이에서 자동으로 동기"
+"화가 이루어집니다. 이 과정은 탄탄하게 되어 있으나, 때때로 무언가 잘못 동작할 "
+"수 있습니다. 이러한 이유로 인프라 챕터에 있는 :ref:`monitoring-translation-"
+"job-status` 섹션이 있습니다."
+
+msgid ""
+"Translating: manage the translation in Zanata, including the translation "
+"memory and glossary management"
+msgstr ""
+"Translating: 번역 메모리 및 용어 관리를 포함하여 Zanata의 번역을 관리합니다."
+
+msgid "Translation"
+msgstr "번역"
+
+msgid "Translation Job Control"
+msgstr "번역 작업 제어"
+
+msgid "Translation Statistics"
+msgstr "번역 통계"
+
+msgid "Translation activities with plans from language teams"
+msgstr "언어 팀에 대한 번역 활동 및 계획"
+
+msgid "Translation bugs"
+msgstr "번역 버그"
+
+msgid ""
+"Translation bugs are tracked on `Launchpad <https://bugs.launchpad.net/"
+"openstack-i18n>`__. Often only the language teams are able to handle "
+"translation bugs, e.g. wrong translation words or senses. PTL fits thereon "
+"or designates bug triage liaison."
+msgstr ""
+"번역 버그들은 `Launchpad <https://bugs.launchpad.net/openstack-i18n>`__ 사이"
+"트에서 추적됩니다. 대체로 언어 팀만이 잘못된 단어 번역 또는 어감 등의 번역 버"
+"그를 처리 할 수 있습니다. PTL은 그것에 부합하거나 버그 분류 담당자를 지명합니"
+"다."
+
+msgid "Translation bugs in all languages can be reported here."
+msgstr "모든 언어에 대한 번역 버그는 여기에 신고 가능합니다."
+
+msgid "Translation infrastructure"
+msgstr "번역 인프라"
+
+msgid "Translation infrastructure tasks and scripts"
+msgstr "번역 인프라 업무와 스크립트"
+
+msgid ""
+"Translation is another kind of important contribution to OpenStack "
+"community. If you want to become a official translator, you need to finish "
+"following steps:"
+msgstr ""
+"번역은 OpenStack 커뮤니티에 기여하는 중요한 또 다른 방법입니다. 공식 번역자"
+"가 되고자 한다면, 다음 단계를 완료할 필요가 있습니다:"
+
+msgid "Translation jobs"
+msgstr "Translation jobs"
+
+msgid "Translation tips"
+msgstr "번역 팁"
+
+msgid "Translation tools"
+msgstr "번역 도구"
+
+msgid "Translations"
+msgstr "번역"
+
+msgid ""
+"Translations are being imported into a project repository daily, so in most "
+"cases you do not need to pull translations from Zanata manually. What you "
+"need is to pull the latest horizon code."
+msgstr ""
+"번역은 프로젝트 저장소에 매일 가져오기 작업이 이루어지기에, 대부분의 경우 "
+"Zanata에서 수동으로 번역을 가져올 필요는 없습니다. 필요로 하는 것은 최신 "
+"horizon 코드를 가져오는 것입니다."
+
+msgid ""
+"Translations on master version in Zanata are normally recommended for "
+"upstream contribution."
+msgstr ""
+"Zanata의 마스터 버전에 대한 번역은 보통 upstream 컨트리뷰션을 위해 권장됩니"
+"다."
+
+msgid ""
+"Translators translate repositories using the `translation server <http://"
+"translate.openstack.org>`_ which runs the Zanata software."
+msgstr ""
+"번역자들은 Zanata 소프트웨어가 실행중인 `번역 서버 <http://translate."
+"openstack.org>`_  를 사용하여 저장소를 번역합니다."
+
+msgid ""
+"Translators who translate and review 300 and more words combinedly in the "
+"last six months until the deadline of extra ATCs nomination are nominated as "
+"ATCs, and the ATC status of translators is valid for one year. Translation "
+"count and review count can be added up. The detail period is determined by "
+"the PTL in each cycle. For Newton cycle, the six month period was from "
+"2016-02-01 to 2016-07-31, and this ATC status will expire on July 2017 if "
+"there will be no additional translation contributions."
+msgstr ""
+"Extra ATC 추천 마감기한까지를 기준으로 최근 6개월동안 번역 및 리뷰를 합쳐 300"
+"단어 이상 기여한 번역자는 ATC로 간주하며, 번역자에 대한 ATC 상태는 1년간 유효"
+"합니다. 번역 및 리뷰 개수는 더해질 수 있습니다. 구체적인 기간은 각 주기에서 "
+"PTL에 의해 결정이 이루어집니다. Newton 주기에서, 6개월 주기는 2016-02-01 에"
+"서 2016-07-31 까지였으며, ATC 상태는 다른 추가적인 번역 컨트리뷰션이 있지 않"
+"는한 2017년 7월에 만료 예정입니다."
+
+msgid ""
+"Update jobs for Zanata start after patches are merged on OpenStack project "
+"repositories, and Zuul starts to run tasks everyday at **6:00 UTC** for the "
+"updates on OpenStack project repositories."
+msgstr ""
+"Zanata를 위한 업데이트 작업은 패치들이 OpenStack 프로젝트 저장소에 반영된 후 "
+"시작하며, Zuul은 매일 **6:00 UTC (한국 시각 기준 오후 3시)** 에 OpenStack 프"
+"로젝트 저장소에 업데이트를 위한 작업을 시작합니다. "
+
+msgid "Uploading"
+msgstr "Uploading"
+
+msgid "Uploading: Upload the translation resources to Zanata"
+msgstr "Uploading:  Zanata에 번역 리소스 업로드"
+
+msgid "User configuration"
+msgstr "사용자 구성"
+
+msgid "Using docs.openstack.org"
+msgstr "docs.openstack.org 사용하기"
+
+msgid "Using translations"
+msgstr "번역 사용"
+
+msgid "Usual topics"
+msgstr "일반적인 토픽"
+
+msgid ""
+"Visit `Stackalytics <http://stackalytics.com/>`__ and choose "
+"``Translations`` as ``Metric`` dropdown menu at the upper-right."
+msgstr ""
+"`Stackalytics <http://stackalytics.com/>`__ 에 방문하여 오른쪽 상단에 있는 "
+"``Metric`` 드롭다운 메뉴에서 ``Translations`` 를 선택합니다."
+
+msgid ""
+"We have two types of Zuul jobs for translations: syncing source strings into "
+"Zanata with the latest repositories and pushing translations from Zanata "
+"into the repositories. The first job is for Zanata-side updates. Up-to-date "
+"source strings to be translated are compared and updated between OpenStack "
+"project repositories and Zanata. If source texts in OpenStack project "
+"repositories are changed, then change sets are pushed into Zanata so "
+"translators deal with up-to-date source strings. On the other hand, the "
+"second job is aimed to reflect changes in translated strings in Zanata "
+"(after translators do translation activities) into corresponding OpenStack "
+"project repositories. The job will propose changes as :doc:`Translation "
+"Import <reviewing-translation-import>` Gerrit patches."
+msgstr ""
+"번역을 위한 Zuul 작업에는 두 가지 유형이 있습니다. 소스 문자열을 Zanata에 최"
+"신의 저장소와 동기화하고, Zanata에서 번역본을 저장소에 푸시하는 것입니다. 첫 "
+"번째 작업은 Zanata측 업데이트입니다. 번역할 최신 소스 문자열은 OpenStack 프로"
+"젝트 저장소와 Zanata 간에 비교되고 업데이트됩니다. OpenStack 프로젝트 저장소"
+"의 소스 텍스트가 변경되면, 변경된 집합이 Zanata로 푸시되므로, 번역자가 최신"
+"의 소스 문자열을 처리하게 됩니다. 한편, 두 번째 작업은 Zanata의 번역된 문자열"
+"(번역자가 번역을 수행한 후)의 변경 사항을 해당 OpenStack 프로젝트 저장소에 반"
+"영하는 것입니다. 해당 작업은 다음과 같이 변경 사항을 제안합니다. :doc:"
+"`Translation Import <reviewing-translation-import>`Gerrit patches. "
+
+msgid ""
+"We use :ref:`Zanata CLI <zanata-cli>` to download the translated PO files "
+"from the translation platform."
+msgstr ""
+"번역 플랫폼에서 번역된 PO 파일을 다운로드하려면 :ref:`Zanata CLI <zanata-"
+"cli>` 를사용합니다."
+
+msgid ""
+"We use :ref:`Zanata CLI <zanata-cli>` to upload the POT file to the "
+"translate platform."
+msgstr ""
+"우리는 :ref:`Zanata CLI <zanata-cli>` 를 사용하여 POT 파일을 번역 플랫폼에 업"
+"로드합니다."
+
+msgid ""
+"We use sphinx-build to translate RST files to POT files. Because we want to "
+"have a single POT file per document, we use msgcat to merge those POTs after "
+"sphinx-build."
+msgstr ""
+"우리는 RST 파일을 POT 파일로 변환하기 위해 sphinx-build를 사용합니다. 문서 "
+"당 하나의 POT 파일을 갖기를 원하기 때문에 우리는 msgcat을 사용하여 sphinx-"
+"build 이후에 해당 POT과 병합합니다."
+
+msgid "What is wrong? What should be improved?"
+msgstr "잘못된 점이 있나요? 무엇을 수정해야될까요?"
+
+msgid ""
+"When a filename is ``workflows.py`` or ``forms.py``, it means it is used in "
+"a form for creating or editing something."
+msgstr ""
+"파일 이름이 ``workflows.py`` 또는 ``forms.py`` 일 때, 이것은 뭔가를 생성하거"
+"나 편집하기위한 형식으로 사용된다는 것을 의미합니다."
+
+msgid ""
+"When a new member request is received, a coordinator approves (or rarely "
+"rejects) the request. At the moment, Zanata provides no way to communicate "
+"with language team members, so it is better to inform the new member of ways "
+"usually used in the language team."
+msgstr ""
+"새로운 구성원 요청을 받았을 때, 코디네이터는 해당 요청을 승인 (또는 필요한 경"
+"우 거절)합니다. 현재, Zanata는 언어 팀 구성원과 의사소통하는 방식을 제공하고 "
+"있지 않기에, 따라서 새로운 구성원에게 언어팀 내 주로 사용하는 방식을 알려주"
+"는 것이 좋습니다."
+
+msgid ""
+"When a translation period towards a new OpenStack release approaches, it is "
+"recommended to coordinate and prioritize translation efforts."
+msgstr ""
+"새로운 OpenStack 릴리즈를 향한 번역 기간이 다가왔을 때, 번역 노력 조정 및 우"
+"선 순위를 결정하는 것을 권장합니다."
+
+msgid ""
+"When proposing extra ATCs at that time, some translators were not included "
+"in `translation_team.yaml <https://opendev.org/openstack/i18n/src/"
+"commit/73a36041dbdc45212051c60cbeef3f7783200fd2/tools/zanata/"
+"translation_team.yaml>`__ file. It seems that 1) new translators were joined "
+"and the statistics was calculated but the file was already created, or 2) "
+"there might be some lack of communication with language coordinators, since "
+"I18n encouraged each language coordinator to update this file."
+msgstr ""
+"추가 ATC가 제안되었는데도 `translation_team.yaml <https://opendev.org/"
+"openstack/i18n/src/commit/73a36041dbdc45212051c60cbeef3f7783200fd2/tools/"
+"zanata/translation_team.yaml>`__ 파일에 번역자들이 포함되지 않은 경우에는  "
+"1) 새로운 번역자들이 참가했고 통계에 집계되었지만 파일이 이미 생성되었을 경우"
+"이였거나, 2) 언어 코디네이터들은 해당 파일을 업데이트해야 함에도 불구하고 코"
+"디네이터간의 의사소통 부족으로 업데이트가 되지 않은 것이 원인으로 보일 수 있"
+"습니다."
+
+msgid ""
+"When you add a new entry to the glossary, it is highly recommended to add "
+"the entry to the master glossary ``glossary/locale/glossary.pot``. By doing "
+"this, all language teams can share the glossary."
+msgstr ""
+"새로운 단어를 용어집에 추가하는 경우, 해당 단어를 마스터 용어집 ``glossary/"
+"locale/glossary.pot`` 에 추가할 것을 강력히 권장합니다. 이렇게 함으로써, 모"
+"든 언어팀이 해당 용어집을 공유할 수 있습니다."
+
+msgid ""
+"When you are using OpenStack (including the dashboard, API or CLI) or are "
+"reading translated documentations, if you find something wrong, something "
+"you cannot understand, something you cannot agree, or something to be "
+"improved, please consider reporting it."
+msgstr ""
+"OpenStack (대시보드, API 또는 CLI 포함)을 사용할 때 또는 번역 문서를 읽을 "
+"때, 무엇인가 잘못되었거나, 이해할 수 없거나, 동의하기 어려운 부분 또는 개선"
+"이 필요한 부분을 찾았다면 해당 부분을 신고하는 것을 고려하십시오."
+
+msgid ""
+"When you want to update a glossary of your language, edit a corresponding "
+"glossary file using your favorite editor and propose a change to the Gerrit "
+"review system."
+msgstr ""
+"대상 언어에 대한 용어집을 수정하려면, 선호하는 편집기를 사용하여 대응하는 용"
+"어집 파일을 편집한 후 Gerrit 리뷰 시스템에 변경 사항을 제안합니다."
+
+msgid ""
+"When your request is approved, add an item in \"Local Translation Teams\" in "
+"the wiki page, create a wiki page under page `I18nTeam <https://wiki."
+"openstack.org/wiki/I18nTeam/team>`_ (for example, I18nTeam/team/zh_cn) to "
+"introduce your team, with the following information at least: the contact "
+"information, the web page, and the work items."
+msgstr ""
+"요청이 수락되면, 위키 페이지 내 \"Local Translation Teams\" 에 항목을 추가하"
+"고, `I18nTeam <https://wiki.openstack.org/wiki/I18nTeam/team>`_ 페이지에서 위"
+"키 페이지 (예를 들면, I18nTeam/team/zh_cn)를 생성하여 팀 소개와 함께 적어도 "
+"연락처 정보, 웹 페이지, 그리고 작업 항목과 같은 정보를 포함합니다."
+
+msgid "When your request is approved, you will get an email notification."
+msgstr "요청이 수락된 경우, 이메일 통지를 받을 것입니다."
+
+msgid "Where a string is used in Dashboard UI?"
+msgstr "대시보드 UI에서 사용하는 문자열은 어디에 있습니까?"
+
+msgid "Where a string is used in source code?"
+msgstr "소스 코드에서 사용하는 문자열은 어디에 있습니까?"
+
+msgid "Where can I report a bug?"
+msgstr "어디에 버그를 신고할 수 있습니까?"
+
+msgid "Where you find a bug you are reporting?"
+msgstr "신고하고자 하는 버그를 어떻게 찾을 수 있습니까?"
+
+msgid "Who can help you?"
+msgstr "누가 도와줄 수 있을까요?"
+
+msgid ""
+"Write an email to \"openstack-i18n@lists.openstack.org\" to introduce "
+"yourself and the language team you want to create, together with your ID on "
+"Zanata."
+msgstr ""
+"\"openstack-i18n@lists.openstack.org\" 에 이메일을 작성하여 Zanata ID와 함께 "
+"본인 및 생성하고자 하는 언어팀을 소개합니다."
+
+msgid ""
+"You are encouraged to register with your business email, which will help "
+"your company to get the credit. If you don't want to, use your personal "
+"email will be OK too."
+msgstr ""
+"회사 이메일로 등록하여, 회사에서 크레딧을 얻도록 돕는 것을 권장합니다. 이를 "
+"원하지 않는 경우에는, 개인 이메일 또한 괜찮습니다."
+
+msgid "You can also check:"
+msgstr "또한 다음을 확인할 수 있습니다:"
+
+msgid ""
+"You can check a generated document for a specified branch on http://docs."
+"openstack.org/<branch>/<language>/<document>. For example, the link of "
+"Ubuntu Installation Guide for Liberty is http://docs.openstack.org/liberty/"
+"ja/install-guide-ubuntu/."
+msgstr ""
+"특정 브랜치에 대한 생성된 문서는 http://docs.openstack.org/<branch>/"
+"<language>/<document> 에서 확인할 수 있습니다. 예를 들어, Liberty에 대한 "
+"Ubuntu 설치 가이드 링크는 http://docs.openstack.org/liberty/ja/install-guide-"
+"ubuntu/ 입니다."
+
+msgid ""
+"You can check on `Gerrit <https://review.opendev.org/#/q/topic:zanata/"
+"translations+(status:open+OR+status:merged)>`__, if the translated strings "
+"are imported by the project teams. Core reviewers in each repository are "
+"strong encouraged to approve translation sync patches but do not be sad if "
+"the translations are not accepted. Zanata Sync jobs are repeated every day "
+"until they are merged."
+msgstr ""
+"번역이 이루어진 문자열을 프로젝트 팀에서 가져오는 항목에 대해서는 `Gerrit "
+"<https://review.opendev.org/#/q/topic:zanata/translations+(status:open+OR"
+"+status:merged)>`__ 에서 확인할 수 있습니다. 각 저장소 내 코어 리뷰어들에게"
+"는 번역 동기화에 대한 패치를 승인하도록 권장하고 있습니다. 그러나 번역이 수용"
+"되지 않는다고 하여 낙담하지는 마십시오. Zanata 동기화 작업은 머지가 이루어질 "
+"때까지 매일 계속 반복합니다."
+
+msgid ""
+"You can estimate where a string is used from a location in a source code. "
+"(See the previous entry on how to find a location.)"
+msgstr ""
+"소스 코드의 위치에서 문자열이 사용되는 위치를 예측할 수 있습니다. (위치를 찾"
+"는 방법에 대한 이전 항목을 참조하십시오.)"
+
+msgid ""
+"You can extract the messages in code to PO template (POT) with pybabel, "
+"where **PROJECT** is a project name like ``nova`` and **VERSION** is a "
+"version number. Note that you can omit ``--project`` and ``--version`` "
+"options if you just use them locally as they are just used in the POT file "
+"header."
+msgstr ""
+"** PROJECT ** 는 ``nova`` 와 같은 프로젝트 이름이고 ** VERSION ** 은 버전 번"
+"호입니다. pybabel을 사용하여 코드에서 PO 템플릿 (POT)으로 메시지를 추출 할 "
+"수 있습니다. POT 파일 헤더에서 사용되는 것처럼 로컬에서 사용하는 경우 ``--"
+"project`` 와 ``--version`` 옵션을 생략할 수 있습니다."
+
+msgid "You can find the location in a source code by checking the POT file."
+msgstr "POT 파일을 확인하여 소스 코드에서 위치를 찾을 수 있습니다."
+
+msgid ""
+"You can refer to `previous meeting logs with their notes <http://eavesdrop."
+"openstack.org/meetings/openstack_i18n_team_meeting/>`_."
+msgstr ""
+"`이전 미팅 로그 및 기록 <http://eavesdrop.openstack.org/meetings/"
+"openstack_i18n_team_meeting/>`_ 을 확인하실 수 있습니다."
+
+msgid "You can report a bug in your language (or English)."
+msgstr "사용하는 언어 (또는 영어)로 버그를 신고할 수 있습니다."
+
+msgid ""
+"You can see detail member-level statistics data on `HTML version of the page "
+"<https://docs.openstack.org/i18n/latest/atc-stats.html>`_."
+msgstr ""
+"자세한 구성원에 대한 통계 데이터를 `HTML version of the page <https://docs."
+"openstack.org/i18n/latest/atc-stats.html>`_ 에서 확인하실 수 있습니다."
+
+msgid ""
+"You can set the components of your AIO installation in ``tests/vars/"
+"bootstrap-aio-vars.yml``. Dependly on your environment the installation "
+"takes 1-2 hours. For more details on the AIO configuration, please see `OSA "
+"AIO documentation <https://docs.openstack.org/openstack-ansible/latest/user/"
+"aio/quickstart.html#building-an-aio>`_."
+msgstr ""
+"AIO 설치에 대한 구성요소는 ``tests/vars/bootstrap-aio-vars.yml`` 에서 설정할 "
+"수 있습니다. 대상 환경에 따라 달라지지만, 설치 과정은 보통 1-2시간 소요됩니"
+"다. AIO 구성에 대한 보다 자세한 정보는 `OSA AIO documentation <https://docs."
+"openstack.org/openstack-ansible/latest/user/aio/quickstart.html#building-an-"
+"aio>`_ 을 살펴봅니다."
+
+msgid ""
+"You must determine whether bugs are **translation bugs** or **bugs in a "
+"source project**. Typical i18n bugs in the source project include:"
+msgstr ""
+"버그가 **번역 버그** 인지 또는 **소스 프로젝트 내 버그** 인지를 결정해야 합니"
+"다. 보통 소스 프로젝트 내 i18n 버그는 다음 (유형)을 포함합니다:"
+
+msgid ""
+"You need to create a configuration file in ``$HOME/.config/zanata.ini`` that "
+"contains user-specific configuration. For information on how to create a "
+"configuration file, see `Zanata CLI configuration <http://docs.zanata.org/en/"
+"release/client/configuration/#user-configuration>`__."
+msgstr ""
+"사용자 별 설정이 들어있는 ``$HOME/.config/zanata.ini`` 에 설정 파일을 만들어"
+"야합니다. 설정 파일을 만드는 방법에 대한 정보는 `Zanata CLI configuration "
+"<http://docs.zanata.org/en/release/client/configuration/#user-"
+"configuration>`__ 을 살펴보시면 됩니다."
+
+msgid "Zanata"
+msgstr "Zanata"
+
+msgid "Zanata CLI"
+msgstr "Zanata CLI"
+
+msgid ""
+"Zanata provides suggestions for translation based on a glossary of your "
+"language. The glossary is maintained in the i18n repository."
+msgstr ""
+"Zanata는 대상 언어에 대한 용어집에 기반하여 번역을 제안합니다. 해당 용어집은 "
+"i18n 저장소에서 관리가 이루어지고 있습니다."
+
+msgid "Zanata provides ways to know your activity on Zanata."
+msgstr "Zanata는 Zanata에서 있었던 활동을 알도록 하는 방법을 제공합니다."
+
+msgid "Zbyněk Schwarz (id: tsbook) - Czech"
+msgstr "Zbyněk Schwarz (id: tsbook) - Czech"
+
+msgid "[I18n PTL] Call for translation"
+msgstr "[I18n PTL] 번역을 요청합니다"
+
+msgid ""
+"[I18n PTL] Coordinate release and translation import schedule of individual "
+"projects with PTL or I18n liaison."
+msgstr ""
+"[I18n PTL]  개별 프로젝트에 대해 PTL 또는 I18n liaison과 함께 릴리즈, 번역 가"
+"져오기 일정을 조정합니다."
+
+msgid ""
+"[Infra] Setup translation jobs such as ``translation-jobs-newton`` to import "
+"translations for stable branches."
+msgstr ""
+"[Infra] 안정 브랜츠에 대해 번역을 가져오기 위해 ``translation-jobs-newton`` "
+"과 같은 번역 작업을 셋업합니다."
+
+msgid "[Project] Official release!"
+msgstr "[Project] 공식 릴리즈가 이루어졌습니다!"
+
+msgid ""
+"[Project] RC2 or RC3 release will be shipped with latest translations. Final "
+"RC release will happen one week before the official release week."
+msgstr ""
+"[Project] RC2 또는 RC3 릴리즈가 최신 번역을 포함할 것입니다. 최종 RC 릴리즈"
+"는 공식 릴리즈 주간에서 1주일 이전에 (대개) 이루어질 것입니다."
+
+msgid ""
+"[Project] Release RC1 and create a stable branch. ``Hard StringFreeze`` is "
+"in effect."
+msgstr ""
+"[Project] RC1 릴리즈가 이루어지고 안정 브랜치를 생성합니다. ``Hard "
+"StringFreeze`` 가 적용이 이루어지는 시기입니다."
+
+msgid "[Project] Release milestone-3. ``Soft StringFreeze`` is in effect."
+msgstr "[프로젝트] 릴리즈 milestone-3. ``Soft StringFreeze`` 이 유효합니다."
+
+msgid ""
+"[Translator] It is suggested to complete translation work by Monday or "
+"Tuesday of the Final RC week."
+msgstr ""
+"[Translator] 번역 작업은 최종 RC 주간에서 월요일 또는 화요일까지 완료가 이루"
+"어지기를 권장합니다."
+
+msgid "[Translator] Start translations for the release."
+msgstr "[번역자] 해당 릴리즈에 대한 번역을 시작합니다."
+
+msgid ""
+"[Translator] Translate **stable-XXXX** version instead of master version on "
+"Zanata."
+msgstr ""
+"[Translator] Zanata에서 master 버전 대신 **stable-XXXX** 버전을 번역합니다."
+
+msgid "[Zanata admin] Create a stable version such as ``stable-newton``"
+msgstr "[Zanata admin] ``stable-newton`` 이름과 같이 안정 버전을 생성합니다"
+
+msgid "[Zanata admin] Merge a stable version back into the master version."
+msgstr "[Zanata admin] 안정 버전을 master 버전으로 다시 머지합니다."
+
+msgid ""
+"[ianychoi] Although one year was already passed (as of now: Jan 15, 2017), I "
+"really would like to say those translators also contributed translations "
+"with I18n team members. For acknowledgement purpose, I write their Zanata "
+"ID, name, and language team in here :"
+msgstr ""
+"[ianychoi] 이미 1년이 지났음에도 불구하고 (as of now: Jan 15, 2017), 이 번역"
+"자들이 I18n 팀 멤버들과 함께 공헌했음을 말하고 싶습니다. 감사의 뜻으로 이분들"
+"의 Zanata ID, 성함과 소속 언어팀을 여기 적습니다:"
+
+msgid ""
+"[ianychoi] Note: only \"translated\" metric was considered to follow the "
+"description in I18n contributor guide. After more detail investigation on "
+"previous ATC criteria, review metrics were also considered. Fortunately, the "
+"three translators (jftalta - 117 translated & 2897 reviews, myamamot - 725 "
+"reviews, mucahit - 1241 reviews) are also regarded ATCs from Newton cycle :) "
+"- I keep it as record for the next ATC list changes."
+msgstr ""
+"[ianychoi] Note: only \"translated\" metric was considered to follow the "
+"description in I18n contributor guide. After more detail investigation on "
+"previous ATC criteria, review metrics were also considered. Fortunately, the "
+"three translators (jftalta - 117 translated & 2897 reviews, myamamot - 725 "
+"reviews, mucahit - 1241 reviews) are also regarded ATCs from Newton cycle :) "
+"- I keep it as record for the next ATC list changes."
+
+msgid ""
+"`Broken Translation Jobs on Zuul <http://zuul.openstack.org/builds?"
+"job_name=upstream-translation-update&job_name=propose-translation-"
+"update&result=Failure>`_"
+msgstr ""
+"`Broken Translation Jobs on Zuul <http://zuul.openstack.org/builds?"
+"job_name=upstream-translation-update&job_name=propose-translation-"
+"update&result=Failure>`_"
+
+msgid "`Bug lists <https://bugs.launchpad.net/openstack-i18n>`_"
+msgstr "`버그 목록 <https://bugs.launchpad.net/openstack-i18n>`_"
+
+msgid ""
+"`Dashboard <https://translate.openstack.org/dashboard/>`__ page shows your "
+"recent activity statistics this month and detail activity."
+msgstr ""
+"`대시보드 <https://translate.openstack.org/dashboard/>`__ 페이지는 해당 월에 "
+"대한 최근 활동 및 구체적인 활동을 보여줍니다."
+
+msgid "`Horizon (OpenStack dashboard) <https://bugs.launchpad.net/horizon>`_"
+msgstr "`Horizon (OpenStack dashboard) <https://bugs.launchpad.net/horizon>`_"
+
+msgid ""
+"`Horizon I18n bugs <https://bugs.launchpad.net/horizon/+bugs?field."
+"tag=i18n>`_"
+msgstr ""
+"`Horizon I18n 버그 <https://bugs.launchpad.net/horizon/+bugs?field."
+"tag=i18n>`_"
+
+msgid ""
+"`Language translation team <https://wiki.openstack.org/wiki/I18nTeam/"
+"team>`_: you can ask in your language :-)"
+msgstr ""
+"`언어(별) 번역팀 <https://wiki.openstack.org/wiki/I18nTeam/team>`_: 사용하는 "
+"언어로 물어볼 수 있습니다 :-)"
+
+msgid ""
+"`Open reviews in openstack/i18n <https://review.opendev.org/#/q/status:open"
+"+project:openstack/i18n>`_"
+msgstr ""
+"`Open reviews in openstack/i18n <https://review.opendev.org/#/q/status:open"
+"+project:openstack/i18n>`_"
+
+msgid "`OpenStack manuals <https://bugs.launchpad.net/openstack-manuals>`_"
+msgstr "`OpenStack manuals <https://bugs.launchpad.net/openstack-manuals>`_"
+
+msgid ""
+"`OpenStack-Ansible (OSA) <https://docs.openstack.org/openstack-ansible/"
+"latest/>`__ provides Ansible playbooks and roles for the deployment and "
+"configuration of an OpenStack environment. As part of the project a feature "
+"named 'Translation Check Site' is developed. An OSA instance will fetch "
+"translation strings from `translation platform <https://translate.openstack."
+"org/>`__, compile and serve these strings in Horizon. You need a machine "
+"with two or four CPU cores, at least 8 GB memory and 70 GB disk to run OSA."
+msgstr ""
+"`OpenStack-Ansible (OSA) <https://docs.openstack.org/openstack-ansible/"
+"latest/>`__ 은 OpenStack 환경에 대한 배포 및 구성을 위해 Ansible playbook 및 "
+"role을 제공합니다. 이 프로젝트 내 일부분으로 'Translation Check Site' 기능이 "
+"있습니다. OSA 인스턴스는 `번역 플랫폼 <https://translate.openstack.org/>`__ "
+"으로부터 번역 문자열을 가져온 다음, Horizon에 대해 해당 문자열을 컴파일하여 "
+"제공합니다. 2 또는 4 코어 CPU와 함께 적어도 8 GB 메모리 및 70 GB 디스크 이상"
+"을 가진 머신을 필요로 합니다."
+
+msgid ""
+"`Profile <https://translate.openstack.org/profile/>`__ page provides more "
+"nice statistics view. It shows your statistics in this month and last month."
+msgstr ""
+"`Profile <https://translate.openstack.org/profile/>`__ 페이지는 보다 괜찮은 "
+"통계 뷰 화면을 제공합니다. 현재 달 및 지난 달에 대한 통계를 제공합니다."
+
+msgid ""
+"`Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/"
+"quickref.html>`__"
+msgstr ""
+"`Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/"
+"quickref.html>`__"
+
+msgid ""
+"`Sphinx documentation <http://sphinx.readthedocs.io/en/latest/rest.html>`__"
+msgstr ""
+"`Sphinx documentation <http://sphinx.readthedocs.io/en/latest/rest.html>`__"
+
+msgid ""
+"`Stackalytics <http://stackalytics.com/>`__ is a popular web site which "
+"allows us to know various statistics related to OpenStack. It supports "
+"translation statistics :)"
+msgstr ""
+"`Stackalytics <http://stackalytics.com/>`__ 는 OpenStack과 관련된 다양한 통계"
+"를 알도록 해 주는 대중적인 웹사이트입니다. 번역 통계를 지원합니다 :)"
+
+msgid "`Translation plan <https://translate.openstack.org/>`_"
+msgstr "`번역 계획 <https://translate.openstack.org/>`_"
+
+msgid ""
+"`Translation statistics <http://stackalytics.com/?metric=translations>`_"
+msgstr "`번역 통계 <http://stackalytics.com/?metric=translations>`_"
+
+msgid "``--help`` option shows the detail usage."
+msgstr "``--help`` 옵션은 자세한 사용법을 보여줍니다."
+
+msgid "``<Zanata-project-name>`` is Zanata project name,"
+msgstr "``<Zanata-project-name>`` 는 Zanata 프로젝트 이름입니다."
+
+msgid ""
+"``<Zanata-project-version>`` is Zanata project version such as ``master`` or "
+"``stable-mitaka``,"
+msgstr ""
+"``<Zanata-project-version>`` 는 ``master`` 또는 ``stable-mitaka`` 와 같은 "
+"Zanata 프로젝트 버전입니다."
+
+msgid ""
+"``<path>`` is a path of a document such as ``nova/locale``, "
+"``openstack_dashboard/locale`` or ``releasenotes/source/locale``,"
+msgstr ""
+"``<path>``는 ``nova/locale``, ``openstack_dashboard/locale`` 또는 "
+"``releasenotes/source/locale`` 와 같은 문서 경로입니다."
+
+msgid "``<resource>`` is a document name in Zanata."
+msgstr "``<resource>`` Zanata 내 문서 이름입니다."
+
+msgid "``dashboards/admin/aggregates/views.py:104``"
+msgstr "``dashboards/admin/aggregates/views.py:104``"
+
+msgid "``dashboards/project/containers/templates/containers/_update.html:21``"
+msgstr "``dashboards/project/containers/templates/containers/_update.html:21``"
+
+msgid "``dashboards/project/loadbalancers/workflows.py:44``"
+msgstr "``dashboards/project/loadbalancers/workflows.py:44``"
+
+msgid ""
+"`build status for publishing on Zuul <http://zuul.openstack.org/builds.html?"
+"job_name=publish-openstack-manuals>`__"
+msgstr ""
+"`Zuul에서 퍼블리싱이 이루어질 때 빌드 상태 <http://zuul.openstack.org/builds."
+"html?job_name=publish-openstack-manuals>`__"
+
+msgid ""
+"`checkbuild with drafts on Zuul <http://zuul.openstack.org/builds.html?"
+"job_name=build-tox-manuals-checkbuild>`__"
+msgstr ""
+"`Zuul에서 draft와 함께 checkbuild 확인 <http://zuul.openstack.org/builds."
+"html?job_name=build-tox-manuals-checkbuild>`__"
+
+msgid ""
+"`https://review.opendev.org/#/c/451625/ <https://review.opendev.org/#/"
+"c/451625/>`__"
+msgstr ""
+"`https://review.opendev.org/#/c/451625/ <https://review.opendev.org/#/"
+"c/451625/>`__"
+
+msgid ""
+"`https://review.opendev.org/#/c/483452/ <https://review.opendev.org/#/"
+"c/483452/>`__"
+msgstr ""
+"`https://review.opendev.org/#/c/483452/ <https://review.opendev.org/#/"
+"c/483452/>`__"
+
+msgid ""
+"`https://review.opendev.org/#/c/488226/ <https://review.opendev.org/#/"
+"c/488226/>`__"
+msgstr ""
+"`https://review.opendev.org/#/c/488226/ <https://review.opendev.org/#/"
+"c/488226/>`__"
+
+msgid ""
+"`openstack-i18n in Launchpad <https://bugs.launchpad.net/openstack-i18n>`_"
+msgstr ""
+"`openstack-i18n in Launchpad <https://bugs.launchpad.net/openstack-i18n>`_"
+
+msgid ""
+"`releasenotes/run.yaml <https://opendev.org/openstack/project-config/src/"
+"playbooks/releasenotes/run.yaml>`__"
+msgstr ""
+"`releasenotes/run.yaml <https://opendev.org/openstack/project-config/src/"
+"playbooks/releasenotes/run.yaml>`__"
+
+msgid "add the source project to \"Also affects project\" of this bug."
+msgstr "소스 프로젝트를 해당 버그 내 \"Also affects project\" 에 추가합니다."
+
+msgid "adiantum"
+msgstr "adiantum"
+
+msgid "albertomolina"
+msgstr "albertomolina"
+
+msgid "aleksey"
+msgstr "aleksey"
+
+msgid "alessandra"
+msgstr "alessandra"
+
+msgid "amikhalev"
+msgstr "amikhalev"
+
+msgid "amotoki"
+msgstr "amotoki"
+
+msgid "andibing"
+msgstr "andibing"
+
+msgid "andrecampos"
+msgstr "andrecampos"
+
+msgid "angelique_pillal16"
+msgstr "angelique_pillal16"
+
+msgid "anikitenkov"
+msgstr "anikitenkov"
+
+msgid "antoniok"
+msgstr "antoniok"
+
+msgid "apapsujko"
+msgstr "apapsujko"
+
+msgid "approved"
+msgstr "approved"
+
+msgid ""
+"assign the bug to you or a member of your language team, and then mark it as "
+"\"In Progress\""
+msgstr ""
+"버그를 본인 또는 대상 언어팀 구성원에게 할당하고, \"In Progress\" 로 상태를 "
+"기록합니다"
+
+msgid "betorvalds"
+msgstr "betorvalds"
+
+msgid "billxiang"
+msgstr "billxiang"
+
+msgid "blkart"
+msgstr "blkart"
+
+msgid "bokaitseng"
+msgstr "bokaitseng"
+
+msgid "bugs in a source project"
+msgstr "소스 프로젝트 내 버그"
+
+msgid "bugs in tool chains"
+msgstr "툴 체인 내 버그"
+
+msgid "caihui"
+msgstr "caihui"
+
+msgid "ccamacho"
+msgstr "ccamacho"
+
+msgid "cduch"
+msgstr "cduch"
+
+msgid "changhuiyuan"
+msgstr "changhuiyuan"
+
+msgid "chuinggun"
+msgstr "chuinggun"
+
+msgid "ciello89"
+msgstr "ciello89"
+
+msgid "confirm the bug"
+msgstr "버그를 확인합니다"
+
+msgid "confirm the bug or mark it as incomplete"
+msgstr "버그를 확인하거나 incomplete로 구분합니다"
+
+msgid "corin"
+msgstr "corin"
+
+msgid "croe"
+msgstr "croe"
+
+msgid "cs"
+msgstr "cs"
+
+msgid "daisyycguo"
+msgstr "daisyycguo"
+
+msgid "danny"
+msgstr "danny"
+
+msgid "de"
+msgstr "de"
+
+msgid "deejay1"
+msgstr "deejay1"
+
+msgid "dmakarov"
+msgstr "dmakarov"
+
+msgid "duyarli"
+msgstr "duyarli"
+
+msgid "dynarro"
+msgstr "dynarro"
+
+msgid "eblock"
+msgstr "eblock"
+
+msgid "egongu90"
+msgstr "egongu90"
+
+msgid "elliswu"
+msgstr "elliswu"
+
+msgid "en-GB"
+msgstr "en-GB"
+
+msgid "ericbaum"
+msgstr "ericbaum"
+
+msgid "es"
+msgstr "es"
+
+msgid "es-MX"
+msgstr "es-MX"
+
+msgid "eugeniato"
+msgstr "eugeniato"
+
+msgid "eumel8"
+msgstr "eumel8"
+
+msgid ""
+"exported the translators contribution statistics from Transifex since "
+"2014-11-01 to 2015-07-16"
+msgstr ""
+"2014년 11월 1일 - 2015년 7월 16일의 기간의 Transifex 의 번역자 공헌 통계로부"
+"터 추출함"
+
+msgid "fcpimenta"
+msgstr "fcpimenta"
+
+msgid "fi-FI"
+msgstr "fi-FI"
+
+msgid "fifieldt"
+msgstr "fifieldt"
+
+msgid ""
+"fix it by visiting a corresponding resource in Zanata and correcting "
+"translations."
+msgstr ""
+"Zanata 내 대응하는 리소스에 접속하고 번역을 올바르게 바꿈으로써 수정합니다."
+
+msgid "fr"
+msgstr "fr"
+
+msgid "frontjang"
+msgstr "frontjang"
+
+msgid "ftarasenko"
+msgstr "ftarasenko"
+
+msgid "gael\\__"
+msgstr "gael\\__"
+
+msgid "gael_rehault"
+msgstr "gael_rehault"
+
+msgid "gecong"
+msgstr "gecong"
+
+msgid "geraldlonlas"
+msgstr "geraldlonlas"
+
+msgid "h3c_wuhan"
+msgstr "h3c_wuhan"
+
+msgid "haruki"
+msgstr "haruki"
+
+msgid "heleno_jimenez"
+msgstr "heleno_jimenez"
+
+msgid "henris"
+msgstr "henris"
+
+msgid "hidekazuna"
+msgstr "hidekazuna"
+
+msgid ""
+"http://docs.openstack.org/<lang> contains released documents. Follow "
+"\"Languages\" in http://docs.openstack.org/."
+msgstr ""
+"http://docs.openstack.org/<lang> 는 릴리즈가 이루어진 문서를 포함합니다. "
+"http://docs.openstack.org/ 에서 \"Languages\" 를 살펴봅니다."
+
+msgid "http://lists.openstack.org/pipermail/openstack-dev/2016-May/094215.html"
+msgstr ""
+"http://lists.openstack.org/pipermail/openstack-dev/2016-May/094215.html"
+
+msgid "huyupeng"
+msgstr "huyupeng"
+
+msgid "hybridpollo"
+msgstr "hybridpollo"
+
+msgid "ianychoi"
+msgstr "ianychoi"
+
+msgid "id"
+msgstr "id"
+
+msgid "igene"
+msgstr "igene"
+
+msgid "ikochetova"
+msgstr "ikochetova"
+
+msgid "iranzo"
+msgstr "iranzo"
+
+msgid "isbaran"
+msgstr "isbaran"
+
+msgid "ishashero"
+msgstr "ishashero"
+
+msgid "istartsev"
+msgstr "istartsev"
+
+msgid "it"
+msgstr "it"
+
+msgid "itlinux"
+msgstr "itlinux"
+
+msgid "ja"
+msgstr "ja"
+
+msgid "jaegerandi"
+msgstr "jaegerandi"
+
+msgid "jameslee"
+msgstr "jameslee"
+
+msgid "jenniferkuo"
+msgstr "jenniferkuo"
+
+msgid "jftalta"
+msgstr "jftalta"
+
+msgid "jimidar"
+msgstr "jimidar"
+
+msgid "jimmyli"
+msgstr "jimmyli"
+
+msgid "jitaejang"
+msgstr "jitaejang"
+
+msgid "josemello"
+msgstr "josemello"
+
+msgid "jpichon"
+msgstr "jpichon"
+
+msgid "jsshin"
+msgstr "jsshin"
+
+msgid "kepark07"
+msgstr "kepark07"
+
+msgid "ko-KR"
+msgstr "ko-KR"
+
+msgid "koain"
+msgstr "koain"
+
+msgid "kodokuu"
+msgstr "kodokuu"
+
+msgid "komatineni"
+msgstr "komatineni"
+
+msgid "kyle"
+msgstr "kyle"
+
+msgid "kzaitsev"
+msgstr "kzaitsev"
+
+msgid "lang"
+msgstr "lang"
+
+msgid "lapalm"
+msgstr "lapalm"
+
+msgid "lenkahusakova"
+msgstr "lenkahusakova"
+
+msgid "liced"
+msgstr "liced"
+
+msgid "lindayang"
+msgstr "lindayang"
+
+msgid "linlin"
+msgstr "linlin"
+
+msgid "liujiong"
+msgstr "liujiong"
+
+msgid "liujunpeng"
+msgstr "liujunpeng"
+
+msgid "loewal"
+msgstr "loewal"
+
+msgid "lony"
+msgstr "lony"
+
+msgid "lstemmle"
+msgstr "lstemmle"
+
+msgid "lucasagomes"
+msgstr "lucasagomes"
+
+msgid "maoshuai"
+msgstr "maoshuai"
+
+msgid "marcelodieder"
+msgstr "marcelodieder"
+
+msgid "marcio"
+msgstr "marcio"
+
+msgid "mariantb"
+msgstr "mariantb"
+
+msgid "marquesc"
+msgstr "marquesc"
+
+msgid "masami_sasahara"
+msgstr "masami_sasahara"
+
+msgid "max821214"
+msgstr "max821214"
+
+msgid "mbozhenko"
+msgstr "mbozhenko"
+
+msgid "mimisheep"
+msgstr "mimisheep"
+
+msgid "mmarin"
+msgstr "mmarin"
+
+msgid "mmasaki"
+msgstr "mmasaki"
+
+msgid "mokhin2"
+msgstr "mokhin2"
+
+msgid "mucahit"
+msgstr "mucahit"
+
+msgid "myamamot"
+msgstr "myamamot"
+
+msgid "nburtsev"
+msgstr "nburtsev"
+
+msgid "nexusz99"
+msgstr "nexusz99"
+
+msgid "nikoul"
+msgstr "nikoul"
+
+msgid "nsmirnov"
+msgstr "nsmirnov"
+
+msgid "nuyori"
+msgstr "nuyori"
+
+msgid "openstack"
+msgstr "openstack"
+
+msgid "openstackhc"
+msgstr "openstackhc"
+
+msgid "otsuka"
+msgstr "otsuka"
+
+msgid "oussemos"
+msgstr "oussemos"
+
+msgid "pa-IN"
+msgstr "pa-IN"
+
+msgid "pat"
+msgstr "pat"
+
+msgid "pcaruana"
+msgstr "pcaruana"
+
+msgid "petro"
+msgstr "petro"
+
+msgid "pl-PL"
+msgstr "pl-PL"
+
+msgid "porrua"
+msgstr "porrua"
+
+msgid "prioritize the bug"
+msgstr "번역 우선순위를 지정합니다"
+
+msgid "pt-BR"
+msgstr "pt-BR"
+
+msgid "raildomascena"
+msgstr "raildomascena"
+
+msgid "rbraga"
+msgstr "rbraga"
+
+msgid "rejected"
+msgstr "rejected"
+
+msgid "review-approved"
+msgstr "review-approved"
+
+msgid "review-rejected"
+msgstr "review-rejected"
+
+msgid "robcresswell"
+msgstr "robcresswell"
+
+msgid "romainsc"
+msgstr "romainsc"
+
+msgid "rsimai"
+msgstr "rsimai"
+
+msgid "ru"
+msgstr "ru"
+
+msgid "rustinpeace"
+msgstr "rustinpeace"
+
+msgid "sanporci"
+msgstr "sanporci"
+
+msgid "sasukeh"
+msgstr "sasukeh"
+
+msgid "seonhopark"
+msgstr "seonhopark"
+
+msgid "seyeon"
+msgstr "seyeon"
+
+msgid "sfilatov"
+msgstr "sfilatov"
+
+msgid "shintaro"
+msgstr "shintaro"
+
+msgid "shu"
+msgstr "shu"
+
+msgid "stanislavulrych"
+msgstr "stanislavulrych"
+
+msgid "suhartono"
+msgstr "suhartono"
+
+msgid "sunanchen"
+msgstr "sunanchen"
+
+msgid "sunjing"
+msgstr "sunjing"
+
+msgid "sylvie_chesneau"
+msgstr "sylvie_chesneau"
+
+msgid "t09sunny"
+msgstr "t09sunny"
+
+msgid "tag it with the project name, for example \"horizon\" or \"docs\"."
+msgstr ""
+"예를 들면 \"horizon\" 또는 \"docs\" 와 같이 프로젝트 이름을 태그로 겁니다."
+
+msgid "tag the bug with a language name"
+msgstr "버그에 언어명을 태그로 붙입니다"
+
+msgid "te-IN"
+msgstr "te-IN"
+
+msgid "terrytai820"
+msgstr "terrytai820"
+
+msgid "tfu"
+msgstr "tfu"
+
+msgid "thnam"
+msgstr "thnam"
+
+msgid "thomas_vysokos"
+msgstr "thomas_vysokos"
+
+msgid "tigerfang"
+msgstr "tigerfang"
+
+msgid "to222"
+msgstr "to222"
+
+msgid "tr-TR"
+msgstr "tr-TR"
+
+msgid "translated"
+msgstr "translated"
+
+msgid "translated + reviewed"
+msgstr "translated + reviewed"
+
+msgid "translation bugs"
+msgstr "번역 버그"
+
+msgid "travisn"
+msgstr "travisn"
+
+msgid "tsbook"
+msgstr "tsbook"
+
+msgid "tsutomu_kimura"
+msgstr "tsutomu_kimura"
+
+msgid "ujuc"
+msgstr "ujuc"
+
+msgid "user_id"
+msgstr "user_id"
+
+msgid "valentin"
+msgstr "valentin"
+
+msgid "vcomas3"
+msgstr "vcomas3"
+
+msgid "vi01et"
+msgstr "vi01et"
+
+msgid "vponomaryov"
+msgstr "vponomaryov"
+
+msgid "vsokolov"
+msgstr "vsokolov"
+
+msgid "vstepurova"
+msgstr "vstepurova"
+
+msgid "vuuv"
+msgstr "vuuv"
+
+msgid "wall_dirk"
+msgstr "wall_dirk"
+
+msgid "webberguo"
+msgstr "webberguo"
+
+msgid "willychen"
+msgstr "willychen"
+
+msgid "wonil22"
+msgstr "wonil22"
+
+msgid "xhkjoe"
+msgstr "xhkjoe"
+
+msgid "xiangbinbin"
+msgstr "xiangbinbin"
+
+msgid "xuyang"
+msgstr "xuyang"
+
+msgid "yeguchi"
+msgstr "yeguchi"
+
+msgid "yfukuda"
+msgstr "yfukuda"
+
+msgid "ykatabam"
+msgstr "ykatabam"
+
+msgid "yosshy"
+msgstr "yosshy"
+
+msgid "yryndenkova"
+msgstr "yryndenkova"
+
+msgid "yukinori_yagisawa"
+msgstr "yukinori_yagisawa"
+
+msgid "yusuke1219"
+msgstr "yusuke1219"
+
+msgid "yuta_hono"
+msgstr "yuta_hono"
+
+msgid "zenglulu"
+msgstr "zenglulu"
+
+msgid "zero00072"
+msgstr "zero00072"
+
+msgid "zh-CN"
+msgstr "zh-CN"
+
+msgid "zh-TW"
+msgstr "zh-TW"
+
+msgid "zhangjingwen"
+msgstr "zhangjingwen"
+
+msgid "zhengjie7800"
+msgstr "zhengjie7800"
+
+msgid "zhouchangxun"
+msgstr "zhouchangxun"
+
+msgid "zhsj"
+msgstr "zhsj"
+
+msgid "zhugaoxiao"
+msgstr "zhugaoxiao"
+
+msgid "zigmax"
+msgstr "zigmax"
+
+msgid "zloykaban"
+msgstr "zloykaban"
+
+msgid "zzxwill"
+msgstr "zzxwill"
+
+msgid "Łukasz Jernas (id: deejay1) - Polish (Poland)"
+msgstr "Łukasz Jernas (id: deejay1) - Polish (Poland)"
