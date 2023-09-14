@@ -90,7 +90,6 @@ class WeblateUtility(object):
             for group in groups_data["results"]:
                 for language in group["languages"]:
                     language_data = self.read_json_from_uri(language)
-                    print(language_data)
                     languages[language_data["name"]] = {
                         "language": language_data["code"],
                         "translators": [],
@@ -110,26 +109,6 @@ class WeblateUtility(object):
             for language in group_data["languages"]:
                 language_data = self.read_json_from_uri(language)
                 languages.append(language_data["name"])
-
-        return languages
-
-    def get_locales(self):
-        uri = WEBLATE_URI % "languages/"
-        languages = {}
-        while True:
-            LOG.debug("Reading the list of locales from %s" % uri)
-            locales_data = self.read_json_from_uri(uri)
-            for locale in locales_data["results"]:
-                languages[locale["code"]] = {
-                    "language": locale["name"],
-                    "coordinators": [],
-                    "reviewers": [],
-                    "translators": [],
-                }
-            if locales_data["next"] is None:
-                break
-            else:
-                uri = locales_data["next"]
 
         return languages
 
@@ -153,42 +132,15 @@ def collect_weblate_groups_and_users(wc):
 
     LOG.info("Retrieving language list")
     languages = weblate.get_languages()
-    print(languages)
     users = weblate.get_users()["results"]
 
     for user in users:
-        print(user)
         LOG.info("Getting language list from user %s" % user["username"])
         user_language = weblate.get_user_language(user)
-        print(user["username"], user_language)
 
         for language in languages.keys():
-            print(language)
             if language in user_language:
                 languages[language]["translators"].append(user["username"])
-
-    result = OrderedDict((k, languages[k]) for k in sorted(languages))
-    return result
-
-
-def collect_weblate_language_and_users(wc):
-    weblate = WeblateUtility(wc)
-
-    LOG.info("Retrieving language list")
-    languages = weblate.get_locales()
-    users = weblate.get_users()["results"]
-
-    for language in languages.keys():
-        LOG.info("Getting user list from language %s" % language)
-
-        for user in users:
-            languages[language]["translators"].append(user["username"])
-            # languages[language]["reviewers"].append(user["username"])
-            # languages[language]["coordinators"].append(user["username"])
-
-        # Sort each user list alphabetically
-        for role in ["translators", "reviewers", "coordinators"]:
-            languages[language][role].sort()
 
     result = OrderedDict((k, languages[k]) for k in sorted(languages))
     return result
@@ -211,7 +163,6 @@ if __name__ == "__main__":
     options = parser.parse_args()
 
     output_file = options.output_file
-    # data = collect_weblate_language_and_users(wc)
     data = collect_weblate_groups_and_users(wc)
     save_to_yaml(data, output_file)
     print("output is saved to filename: %s" % output_file)
