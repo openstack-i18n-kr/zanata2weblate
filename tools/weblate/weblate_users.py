@@ -85,14 +85,15 @@ class WeblateUtility(object):
         uri = WEBLATE_URI % "groups/"
         languages = {}
         while True:
-            LOG.debug("Reading the list of locales from %s" % uri)
+            LOG.debug("Reading the list of languages from %s" % uri)
             groups_data = self.read_json_from_uri(uri)
             for group in groups_data["results"]:
                 for language in group["languages"]:
                     language_data = self.read_json_from_uri(language)
                     print(language_data)
-                    languages[language_data["code"]] = {
-                        "language": language_data["name"],
+                    languages[language_data["name"]] = {
+                        "language": language_data["code"],
+                        "translators": [],
                     }
             if groups_data["next"] is None:
                 break
@@ -101,7 +102,7 @@ class WeblateUtility(object):
 
         return languages
 
-    def get_language_by_user(self, user):
+    def get_user_language(self, user):
         groups = user["groups"]
         languages = []
         for group in groups:
@@ -152,13 +153,17 @@ def collect_weblate_groups_and_users(wc):
 
     LOG.info("Retrieving language list")
     languages = weblate.get_languages()
+    print(languages)
     users = weblate.get_users()["results"]
 
     for user in users:
+        print(user)
         LOG.info("Getting language list from user %s" % user["username"])
-        user_language = weblate.get_language_by_user(user)
+        user_language = weblate.get_user_language(user)
+        print(user["username"], user_language)
 
         for language in languages.keys():
+            print(language)
             if language in user_language:
                 languages[language]["translators"].append(user["username"])
 
