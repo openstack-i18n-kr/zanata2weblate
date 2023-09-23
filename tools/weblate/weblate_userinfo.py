@@ -45,16 +45,13 @@ class WeblateAccounts(object):
                                                content_type=content_type,
                                                verify=verify)
 
-    def get_account_data(self, weblate_username):
-        """Get detail about information
+    def get_users_data(self):
+        """Get list of users
 
-        Retrieve name and email address information by Weblate username
-        using Weblate REST API
+        Retrieve list of users using Weblate REST API
 
         """
-        r = self.rest_service.query(
-                'users/%s/'
-                % (weblate_username))
+        r = self.rest_service.query('users/')
         return r.json()
 
 
@@ -63,14 +60,11 @@ def _make_language_team(name, team_info):
         'tag': 'language_team',
         'language_code': name,
         'language': team_info['language'],
-        # Weblate ID which only consists of numbers is a valid ID
-        # and such entry is interpreted as integer unless it is
-        # quoted in the YAML file. Ensure to stringify them.
-        # This part needs update for Weblate, as there are no specific
-        # 'translators', 'reviewers', 'coordinators' roles in Weblate.
+        # Retreive only translators for Weblate as we don't have
+        # reviewers and coordinators in Weblate.
         'translators': [str(i) for i in team_info['translators']],
-        'reviewers': [str(i) for i in team_info.get('reviewers', [])],
-        'coordinators': [str(i) for i in team_info.get('coordinators', [])],
+        # 'reviewers': [str(i) for i in team_info.get('reviewers', [])],
+        # 'coordinators': [str(i) for i in team_info.get('coordinators', [])],
     }
 
 
@@ -82,6 +76,21 @@ def _make_user(user_name, language_code, language):
         'name': '',
         'email': ''
     }
+
+
+def _simplify_user_data(users):
+    """Simplify user data from raw json data
+
+    Extract "email", "full_name" and "username" from raw json data
+
+    """
+    simplified_users = {}
+    for user in users:
+        simplified_users[user['username']] = {
+            'email': user['email'],
+            'full_name': user['full_name']
+        }
+    return simplified_users
 
 
 def read_language_team_yaml(translation_team_uri, lang_list):
@@ -122,11 +131,17 @@ def get_weblate_userdata(wc, verify, role, language_teams):
         for user in language_team[role]:
             users[user] = _make_user(user, language_code, language_name)
 
+    # Get all users
+    user_list = accounts.get_users_data()
+
+    # Simplify user data
+    user_info = _simplify_user_data(user_list['results'])
+
     for user_name in users:
         user = users.get(user_name)
         print('Getting user detail data for user %(user_name)s'
               % {'user_name': user_name})
-        user_data = accounts.get_account_data(user_name)
+        user_data = user_info.get(user_name)
 
         if user_data:
             user['name'] = user_data['full_name']

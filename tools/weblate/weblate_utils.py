@@ -21,7 +21,7 @@ import wlc.config as cfg
 class IniConfig(object):
     """Object that stores weblate.ini configuration
 
-    Read weblate.ini and make its values available.
+    Read url and key from weblate.ini and make its values available.
 
     Attributes:
     inifile: The path to the ini file to load values from.
@@ -36,8 +36,6 @@ class IniConfig(object):
         config.load(self.inifile)
 
         self.url, self.key = config.get_url_key()
-        
-        print(self.url, self.key)
 
 
 class WeblateRestService(object):
