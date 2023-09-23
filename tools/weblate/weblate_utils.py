@@ -36,6 +36,8 @@ class IniConfig(object):
         config.load(self.inifile)
 
         self.url, self.key = config.get_url_key()
+        
+        print(self.url, self.key)
 
 
 class WeblateRestService(object):

@@ -23,8 +23,8 @@ import sys
 from oslo_log import log as logging
 import yaml
 
-from WeblateUtils import IniConfig
-from WeblateUtils import WeblateRestService
+from weblate_utils import IniConfig
+from weblate_utils import WeblateRestService
 
 LOG = logging.getLogger(__name__)
 
@@ -66,7 +66,8 @@ def _make_language_team(name, team_info):
         # Weblate ID which only consists of numbers is a valid ID
         # and such entry is interpreted as integer unless it is
         # quoted in the YAML file. Ensure to stringify them.
-        # This part needs update for Weblate specific.
+        # This part needs update for Weblate, as there are no specific
+        # 'translators', 'reviewers', 'coordinators' roles in Weblate.
         'translators': [str(i) for i in team_info['translators']],
         'reviewers': [str(i) for i in team_info.get('reviewers', [])],
         'coordinators': [str(i) for i in team_info.get('coordinators', [])],
