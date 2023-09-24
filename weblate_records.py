@@ -1,4 +1,4 @@
-from abc import ABC, abstractmethod
+from abc import ABC
 from dataclasses import dataclass, asdict
 from typing import Optional
 
@@ -255,7 +255,7 @@ class WeblateTranslationInfo(AbstractWeblateRecord):
     Translation API response
 
     weblate-4.18.2
-    GET /api/translations/(string: project)/(string: component)/(string: language)/
+    GET /api/translations/(string: project)/(string: component)/(string: lang)/
     """
 
     component: dict
