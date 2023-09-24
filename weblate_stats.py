@@ -28,27 +28,35 @@ import sys
 import requests
 import yaml
 
-import wlc.config as cfg
+from typing import Optional
+
+from datetime import timedelta
+
 from wlc import Weblate
 from WeblateUtils import IniConfig
-from weblate_records import (
-    WeblateProject,
-    WeblateObjectStats,
-    WeblateProjectStats,
-    WeblateUserStats,
-    WeblateUserInfo,
-    WeblateGroupInfo,
-    WeblateTranslationInfo,
-    WeblateComponentInfo,
-    WeblateChangeInfo,
-)
+from weblate_records import WeblateObjectStats
+from weblate_records import WeblateUserStats
+from weblate_records import WeblateUserInfo
+from weblate_records import WeblateComponentInfo
+from weblate_records import WeblateProjectStats
 
 WEBLATE_HOST = "https://openstack.weblate.cloud"
+EXAMPLE_HOST = "http://weblate.example.com"
 WEBLATE_URI = WEBLATE_HOST + "/%s"
 LOG = logging.getLogger("weblate_stats")
 
-WEBLATE_VERSION_EXPR = r"^(master[-,a-z]*|stable-[a-z]+|openstack-user-survey)$"
-WEBLATE_VERSION_PATTERN = re.compile(WEBLATE_VERSION_EXPR)
+WEBLATE_VER_EXPR = r"^(master[-,a-z]*|stable-[a-z]+|openstack-user-survey)$"
+WEBLATE_VER_PATTERN = re.compile(WEBLATE_VER_EXPR)
+
+
+DEFAULT_STATS = {
+    "translated": 0,
+    "approved": 0,
+    "needReview": 0,
+    "fuzzy": 0,
+    "failingCheck": 0,
+    "pending": 0,
+}
 
 
 class WeblateUtility(object):
@@ -57,7 +65,6 @@ class WeblateUtility(object):
 
     Reference
         https://docs.weblate.org/en/weblate-4.18.2/api.html#projects
-
         https://docs.weblate.org/en/weblate-4.18.2/api.html#get--api-users-(str-username)-statistics-
     """
 
@@ -85,15 +92,18 @@ class WeblateUtility(object):
         }
         self.verify = verify
 
+    def _unify(self, locale: str) -> str:
+        return locale.replace("-", "").replace("_", "").lower()
+
+    # API REQUEST
+
     def read_uri(self, uri, headers):
         try:
             headers["User-Agent"] = random.choice(WeblateUtility.user_agents)
             req = requests.get(uri, headers=headers)
             return req.text
         except Exception as e:
-            LOG.error(
-                'Error "%(error)s" while reading uri %(uri)s', {"error": e, "uri": uri}
-            )
+            LOG.error('Error "%s" while reading uri %s', (e, uri))
             raise
 
     def read_json_from_uri(self, uri):
@@ -107,130 +117,176 @@ class WeblateUtility(object):
             )
             raise
 
-    def get_projects(self) -> list:
+    def get_projects(self, **kargs) -> list:
         uri = WEBLATE_URI % ("api/projects/")
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
         LOG.debug("Reading projects from %s" % uri)
         projects_data = self.read_json_from_uri(uri)
+
         return projects_data["results"]
-        # return [project["slug"] for project in projects_data]
 
-    def get_project_statistics(
-        self, project_slug: str
-    ) -> WeblateProjectStats:  # 3 유저-프로젝트 + 로케일
+    def get_project_statistics(self, project_slug: str, **kargs):
         uri = WEBLATE_URI % ("api/projects/%s/statistics/" % (project_slug))
-        LOG.debug("Reading project statistics from %s" % uri)
-        project_data = self.read_json_from_uri(uri)
-        return WeblateProjectStats.from_dict(project_data)
 
-    def get_object_statistics(self, obj: str) -> WeblateObjectStats:
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
+        LOG.debug("Reading project statistics from %s" % uri)
+        project_statistics_data = self.read_json_from_uri(uri)
+        return WeblateProjectStats.from_dict(project_statistics_data)
+
+    def get_object_statistics(self, obj: str, **kargs):
         uri = WEBLATE_URI % ("api/%s/statistics/" % (obj))
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
         LOG.debug("Reading object statistics from %s" % uri)
         object_data = self.read_json_from_uri(uri)
         return WeblateObjectStats.from_dict(object_data)
 
-    def get_users(self) -> list:
+    def get_users(self, **kargs) -> list:
         uri = WEBLATE_URI % ("api/users/")
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
         LOG.debug("Reading users from %s" % uri)
         users_data = self.read_json_from_uri(uri)
         return users_data["results"]
 
-    def get_user(self, username: str) -> WeblateUserInfo:  # 1 -> 유저 별 그룹정보
+    def get_user(self, username: str, **kargs):
         uri = WEBLATE_URI % ("api/users/%s/" % (username))
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
         LOG.debug("Reading user from %s" % uri)
         user_data = self.read_json_from_uri(uri)
-        return WeblateUserInfo.from_dict(user_data)
+        return user_data
 
-    def get_user_statistics(self, username: str) -> WeblateUserStats:  # 2 -> 토탈정보
+    def get_user_statistics(self, username: str, **kargs):
         uri = WEBLATE_URI % ("api/users/%s/statistics/" % (username))
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
         LOG.debug("Reading user statistics from %s" % uri)
         user_data = self.read_json_from_uri(uri)
         return WeblateUserStats.from_dict(user_data)
 
-    def get_group(self, group_id: int) -> WeblateGroupInfo:  # 2 -> 프로젝트
+    def get_group(self, group_id: int, **kargs):
         uri = WEBLATE_URI % ("api/groups/%s/" % (group_id))
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
         LOG.debug("Reading group from %s" % uri)
         group_data = self.read_json_from_uri(uri)
         return WeblateUserInfo.from_dict(group_data)
 
-    def get_projects(self) -> list:
-        uri = WEBLATE_URI % ("api/projects/")
-        LOG.debug("Reading projects from %s" % uri)
-        projects_data = self.read_json_from_uri(uri)
-        return projects_data["results"]
-        # return [project["slug"] for project in projects_data]
-
     def get_component(
-        self, project: str, component: str
-    ) -> WeblateComponentInfo:  # 2 -> 프로젝트
+        self, project: str, component: str, **kargs
+    ) -> WeblateComponentInfo:
         uri = WEBLATE_URI % ("api/components/%s/%s/" % (project, component))
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
         LOG.debug("Reading component from %s" % uri)
         component_data = self.read_json_from_uri(uri)
         return WeblateComponentInfo.from_dict(component_data)
 
+    def get_translation_changes(
+        self, project: str, component: str, lang: str, **kargs
+    ) -> list:
+        uri: str = WEBLATE_URI % (
+            "api/translations/%s/%s/%s/changes/" % (project, component, lang)
+        )
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri = WEBLATE_HOST + uri.split(EXAMPLE_HOST)[1]
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
+        if "checksum" in kargs:
+            uri += "?checksum=%s" % (kargs.get("checksum"))
+
+        LOG.debug("Reading translation changes from %s" % uri)
+        translation_data = self.read_json_from_uri(uri)
+        return translation_data
+
     def get_translations(
-        self, project: str, component: str, language: str
-    ) -> WeblateTranslationInfo:  # 2 -> 프로젝트
-        uri = WEBLATE_URI % (
+        self, project: str, component: str, language: str, **kargs
+    ) -> Optional[dict]:
+        uri: str = WEBLATE_URI % (
             "api/translations/%s/%s/%s/" % (project, component, language)
         )
-        LOG.debug("Reading component from %s" % uri)
-        translation_data = self.read_json_from_uri(uri)
-        return WeblateTranslationInfo.from_dict(translation_data)
 
-    def get_change(self, id: int) -> WeblateChangeInfo:  # 2 -> 프로젝트
+        checksum: str = ""
+        if "?checksum" in kargs.get("checksum"):
+            checksum = kargs.get("checksum").split("?checksum=")[1]
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri = WEBLATE_HOST + uri.split(EXAMPLE_HOST)[1]
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
+        if "checksum" in kargs:
+            uri += "?checksum=%s" % (checksum)
+
+        LOG.debug("Reading translation from %s" % uri)
+        translation_data = self.read_json_from_uri(uri)
+
+        langs = set()
+        langs.add(self._unify(translation_data["language"]["code"]))
+        langs.add(self._unify(translation_data["language"]["name"]))
+        langs.add(self._unify(translation_data["language_code"]))
+        for lang in translation_data["language"]["aliases"]:
+            langs.add(self._unify(lang))
+
+        user_lang = self._unify(kargs.get("user_lang"))
+        if "user_lang" in kargs and user_lang not in langs:
+            return None
+
+        return translation_data
+
+    def get_change(self, id: int, **kargs) -> dict:
         uri = WEBLATE_URI % ("api/changes/%d/" % (id))
+
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
+
         LOG.debug("Reading change from %s" % uri)
         change_data = self.read_json_from_uri(uri)
-        return WeblateChangeInfo.from_dict(change_data)
+        return change_data
 
-    ################
+    def get_units(self, start_datetime: str, end_datetime: str, **kargs):
+        change_date_query = "?q=changed:>=%s AND changed:<=%s " % (
+            start_datetime,
+            end_datetime,
+        )
+        uri = WEBLATE_URI % ("api/units/%s" % (change_date_query))
 
-    # def _get_project_statistics(
-    #     self, url: str
-    # ) -> WeblateProjectStats:  # 3 유저-프로젝트 + 로케일
-    #     uri = WEBLATE_URI % ("api/projects/%s/statistics/" % (project_slug))
-    #     LOG.debug("Reading project statistics from %s" % uri)
-    #     project_data = self.read_json_from_uri(uri)
-    #     return WeblateProjectStats.from_dict(project_data)
+        if "url" in kargs:
+            uri = kargs.get("url")
+            uri.replace(EXAMPLE_HOST, WEBLATE_HOST, 1)
 
-    # def _get_object_statistics(self, url: str) -> WeblateObjectStats:
-    #     uri = WEBLATE_URI % ("api/%s/statistics/" % (obj))
-    #     LOG.debug("Reading object statistics from %s" % uri)
-    #     object_data = self.read_json_from_uri(uri)
-    #     return WeblateObjectStats.from_dict(object_data)
-
-    # def _get_users(self, url: str) -> list:
-    #     uri = WEBLATE_URI % ("api/users/")
-    #     LOG.debug("Reading users from %s" % uri)
-    #     users_data = self.read_json_from_uri(uri)
-    #     return users_data["results"]
-
-    # def _get_user(self, url: str) -> WeblateUserInfo:  # 1 -> 유저 별 그룹정보
-    #     uri = WEBLATE_URI % ("api/users/%s/" % (username))
-    #     LOG.debug("Reading user from %s" % uri)
-    #     user_data = self.read_json_from_uri(uri)
-    #     return WeblateUserInfo.from_dict(user_data)
-
-    # def _get_user_statistics(self, url: str) -> WeblateUserStats:  # 2 -> 토탈정보
-    #     uri = WEBLATE_URI % ("api/users/%s/statistics/" % (username))
-    #     LOG.debug("Reading user statistics from %s" % uri)
-    #     user_data = self.read_json_from_uri(uri)
-    #     return WeblateUserStats.from_dict(user_data)
-
-    # def _get_group(self, url: str) -> WeblateGroupInfo:  # 2 -> 프로젝트
-    #     LOG.debug("Reading group from %s" % url)
-    #     group_data = self.read_json_from_uri(url)
-    #     return WeblateUserInfo.from_dict(group_data)
-
-    # def _get_component(self, url: str) -> WeblateComponentInfo:
-    #     LOG.debug("Reading group from %s" % url)
-    #     group_data = self.read_json_from_uri(url)
-    #     return None
-
-    # def _get_component(self, url: str):
-    #     LOG.debug("Reading group from %s" % url)
-    #     group_data = self.read_json_from_uri(url)
-    #     return None
+        LOG.debug("Reading units from %s" % uri)
+        units_data = self.read_json_from_uri(uri)
+        return units_data["results"]
 
 
 class LanguageTeam(object):
@@ -245,20 +301,22 @@ class LanguageTeam(object):
         self.coordinators = [str(i) for i in team_info.get("coordinators", [])]
 
     @classmethod
-    def load_from_language_team_yaml(cls, translation_team_uri, lang_list):
-        LOG.debug("Process list of language team from uri: %s", translation_team_uri)
+    def load_from_language_team_yaml(cls, trans_team_uri, lang_list):
+        LOG.debug("Process list of language team from uri: %s", trans_team_uri)
 
-        content = yaml.safe_load(io.open(translation_team_uri, "r"))
+        content = yaml.safe_load(io.open(trans_team_uri, "r"))
 
         if lang_list:
             lang_notfound = [
-                lang_code for lang_code in lang_list if lang_code not in content
+                lang_code for lang_code in lang_list 
+                if lang_code not in content
             ]
+
             if lang_notfound:
                 LOG.error(
                     "Language %s not tound in %s.",
                     ", ".join(lang_notfound),
-                    translation_team_uri,
+                    trans_team_uri,
                 )
                 sys.exit(1)
 
@@ -270,8 +328,15 @@ class LanguageTeam(object):
 
 
 class User(object):
-    trans_fields = ["total", "Translated", "NeedReview", "Approved", "Rejected"]
-    review_fields = ["total", "Approved", "Rejected"]
+    trans_fields = [
+        "translated",
+        "approved",
+        "needReview",
+        "fuzzy",
+        "failingCheck",
+        "pending",
+    ]
+    review_fields = ["total", "approved"]  # Todo
 
     def __init__(self, user_id, language_code):
         self.user_id = user_id
@@ -295,70 +360,6 @@ class User(object):
         else:
             return self.user_id < other.user_id
 
-    def read_from_weblate_stats(self, weblate_stats, project_list, version_list):
-        # data format (Zanata 4.3.3)
-        # [
-        #     {
-        #         "savedDate": "2020-09-06",
-        #         "projectSlug": "i18n",
-        #         "projectName": "i18n",
-        #         "versionSlug": "master",
-        #         "localeId": "ko-KR",
-        #         "localeDisplayName": "Korean (South Korea)",
-        #         "savedState": "Translated",
-        #         "wordCount": 119
-        #     }
-        # ]
-        for weblate_stat in weblate_stats:
-            project_id = weblate_stat["projectSlug"]
-            version = weblate_stat["versionSlug"]
-            lang = weblate_stat["localeId"]
-            stat_state = weblate_stat["savedState"]
-            word_count = weblate_stat["wordCount"]
-
-            if project_list and project_id not in project_list:  # pid가 없으면
-                continue
-
-            if version_list and version not in version_list:  # vid가 없으면
-                continue
-
-            if self.lang != lang:  # lang이 다르면
-                continue
-
-            my_project = self.stats[project_id]
-
-            if version not in my_project:
-                my_project[version] = {
-                    "translation-stats": collections.defaultdict(int),
-                    "review-stats": collections.defaultdict(int),
-                }
-            my_version = my_project[version]
-
-            if stat_state in self.trans_fields:
-                my_trans_stats = my_version["translation-stats"]
-                my_trans_stats[stat_state] += word_count
-                my_trans_stats["total"] += word_count
-
-            if stat_state in self.review_fields:
-                my_review_stats = my_version["review-stats"]
-                my_review_stats[stat_state] += word_count
-                my_review_stats["total"] += word_count
-
-    def populate_total_stats(self):
-        total_trans = dict([(k, 0) for k in self.trans_fields])
-        total_review = dict([(k, 0) for k in self.review_fields])
-
-        for project_id, versions in self.stats.items():
-            for version, stats in versions.items():
-                trans_stats = stats.get("translation-stats", {})
-                for k in self.trans_fields:
-                    total_trans[k] += trans_stats.get(k, 0)
-                review_stats = stats.get("review-stats", {})
-                for k in self.review_fields:
-                    total_review[k] += review_stats.get(k, 0)
-        self.stats["__total__"]["translation-stats"] = total_trans
-        self.stats["__total__"]["review-stats"] = total_review
-
     def needs_output(self, include_no_activities):
         if include_no_activities:
             return True
@@ -368,64 +369,52 @@ class User(object):
     def get_flattened_data_title():
         return [
             "user_id",
-            "lang",
-            "project",
-            "version",
-            "translation-total",
+            "main_lang",
             "translated",
             "needReview",
             "approved",
-            "rejected",
-            "review-total",
-            "review-approved",
-            "review-rejected",
+            "fuzzy",
+            "failingCheck",
+            "pending",
         ]
 
     def convert_to_flattened_data(self, detail=False):
-        self.populate_total_stats()
-
         data = []
+        for stat, count in self.stats.items():
+            if detail:
+                data.append(
+                    [self.user_id, self.lang]
+                    + [count for k in self.trans_fields]
+                )
 
-        for project_id, versions in self.stats.items():
-            if project_id == "__total__":
-                continue
-            for version, stats in versions.items():
-                trans_stats = stats.get("translation-stats", {})
-                review_stats = stats.get("review-stats", {})
-                if detail:
-                    data.append(
-                        [self.user_id, self.lang, project_id, version]
-                        + [trans_stats.get(k, 0) for k in self.trans_fields]
-                        + [review_stats.get(k, 0) for k in self.review_fields]
-                    )
-
-        data.append(
-            [self.user_id, self.lang, "-", "-"]
-            + [
-                self.stats["__total__"]["translation-stats"][k]
-                for k in self.trans_fields
-            ]
-            + [self.stats["__total__"]["review-stats"][k] for k in self.review_fields]
-        )
+        stat_sum: int = sum([self.stats[k] for k in self.trans_fields])
+        if stat_sum > 0:
+            data.append(
+                [self.user_id, self.lang]
+                + [self.stats[k] for k in self.trans_fields]
+            )
 
         return data
 
-    def convert_to_serializable_data(self, detail):
-        self.populate_total_stats()
-        return {
-            "user_id": self.user_id,
-            "lang": self.lang,
-            "stats": (self.stats if detail else self.stats["__total__"]),
-        }
 
+def write_stats_to_file(
+    users,
+    output_file,
+    include_no_activities,
+    detail
+):
+    before_sort = []
+    for user in users:
+        if not user.stats.keys():
+            user.stats = DEFAULT_STATS
 
-def write_stats_to_file(users, output_file, file_format, include_no_activities, detail):
-    users = sorted([user for user in users if user.needs_output(include_no_activities)])
+        if user.needs_output(include_no_activities):
+            before_sort.append(user)
 
-    if file_format == "csv":
-        _write_stats_to_csvfile(users, output_file, detail)
-    else:
-        _write_stats_to_jsonfile(users, output_file, detail)
+    users = sorted(before_sort)
+
+    _write_stats_to_csvfile(users, output_file, detail)
+
     LOG.info("Stats has been written to %s", output_file)
 
 
@@ -435,12 +424,6 @@ def _write_stats_to_csvfile(users, output_file, detail):
         writer.writerow(User.get_flattened_data_title())
         for user in users:
             writer.writerows(user.convert_to_flattened_data(detail))
-
-
-def _write_stats_to_jsonfile(users, output_file, detail):
-    users = [user.convert_to_serializable_data(detail) for user in users]
-    with open(output_file, "w") as f:
-        f.write(json.dumps(users, indent=4, sort_keys=True))
 
 
 def _comma_separated_list(s):
@@ -454,8 +437,8 @@ def main():
     except ValueError as e:
         sys.exit(e)
 
-    default_end_date = datetime.datetime.now()
-    default_start_date = default_end_date - datetime.timedelta(days=180)
+    default_end_date = datetime.now()
+    default_start_date = default_end_date - timedelta(days=180)
     default_start_date = default_start_date.strftime("%Y-%m-%d")
     default_end_date = default_end_date.strftime("%Y-%m-%d")
 
@@ -475,7 +458,10 @@ def main():
     parser.add_argument(
         "-o",
         "--output-file",
-        help=("Specify the output file. " "Default: weblate_stats_output.{csv,json}."),
+        help=(
+            "Specify the output file. "
+            "Default: weblate_stats_output.{csv,json}."
+        ),
     )
     parser.add_argument(
         "-p",
@@ -535,19 +521,16 @@ def main():
         ),
     )
     parser.add_argument(
-        "-f",
-        "--format",
-        default="csv",
-        choices=["csv", "json"],
-        help="Output file format.",
-    )
-    parser.add_argument(
         "--no-verify",
         action="store_false",
         dest="verify",
         help="Do not perform HTTPS certificate verification",
     )
-    parser.add_argument("--debug", action="store_true", help="Enable debug message.")
+    parser.add_argument(
+        "--debug", 
+        action="store_true", 
+        help="Enable debug message."
+    )
     parser.add_argument("user_yaml", help="YAML file of the user list")
     options = parser.parse_args()
 
@@ -575,12 +558,12 @@ def main():
         options.user,
     )
 
-    output_file = options.output_file or "weblate_stats_output.%s" % options.format
+    output_file = "weblate_stats_output.%s" % options.format
+    output_file = output_file or options.output_file
 
     write_stats_to_file(
         users,
         output_file,
-        options.format,
         options.include_no_activities,
         options.detail,
     )
@@ -603,30 +586,75 @@ def get_weblate_stats(
     )
 
     weblateUtil = WeblateUtility(wc, verify)
-    users = []
-    for team in language_teams:
-        users += [User(user_id, team.language_code) for user_id in team.translators]
 
     if not project_list:
         project_list = weblateUtil.get_projects()
+    users = []
+    for team in language_teams:
+        users += [
+            User(user_id, team.language_code) 
+            for user_id in team.translators
+        ]
 
-    project_stats_list = []
-    for project in project_list:
-        project_stat = weblateUtil.get_project_statistics(project["slug"])
-        project_stats_list.append(project_stat)
-
+    data = dict()
     for user in users:
         if user_list and user.user_id not in user_list:
             continue
+        user_data = weblateUtil.get_user(user.user_id)
+
+        if "detail" in user_data and user_data["detail"] == "Not found.":
+            continue
+
         LOG.info(
             "Getting for user %(user_id)s %(user_lang)s",
             {"user_id": user.user_id, "user_lang": user.lang},
         )
-        data = weblateUtil.get_user_statistics(user.user_id)
-        LOG.debug("Got: %s", data)
 
-        user.read_from_weblate_stats(data, project_list, version_list)
-        LOG.debug("=> %s", user)
+        unit_data = weblateUtil.get_units(start_date, end_date)
+        for unit in unit_data:
+            translation_data = weblateUtil.get_translations(
+                None,
+                None,
+                None,
+                url=unit["translation"],
+                checksum=unit["web_url"],
+                user_lang=user.lang,
+            )
+
+            if translation_data is None:
+                continue
+
+            user_full_name = translation_data["last_author"]
+            if user_full_name not in data:
+                data[user_full_name] = dict()
+                data[user_full_name]["translated"] = 0
+                data[user_full_name]["approved"] = 0
+                data[user_full_name]["needReview"] = 0
+                data[user_full_name]["fuzzy"] = 0
+                data[user_full_name]["failingCheck"] = 0
+                data[user_full_name]["pending"] = 0
+
+            if unit["translated"]:
+                data[user_full_name]["translated"] += 1
+
+            if unit["approved"]:
+                data[user_full_name]["approved"] += 1
+
+            if unit["has_suggestion"] or unit["has_comment"]:
+                data[user_full_name]["needReview"] += 1
+
+            if unit["fuzzy"]:
+                data[user_full_name]["fuzzy"] += 1
+
+            if unit["has_failing_check"]:
+                data[user_full_name]["failingCheck"] += 1
+
+            if unit["pending"]:
+                data[user_full_name]["pending"] += 1
+
+            LOG.debug("Got: %s", data)
+
+            user.stats = data.get(user_full_name)
 
     return users
 
