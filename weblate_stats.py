@@ -17,28 +17,24 @@ import argparse
 import collections
 import csv
 import datetime
+from datetime import timedelta
 import io
-import os
 import json
 import logging
+import os
 import random
 import re
-import sys
-
 import requests
-import yaml
-
+import sys
 from typing import Optional
-
-from datetime import timedelta
-
-from wlc import Weblate
-from WeblateUtils import IniConfig
-from weblate_records import WeblateObjectStats
-from weblate_records import WeblateUserStats
-from weblate_records import WeblateUserInfo
 from weblate_records import WeblateComponentInfo
+from weblate_records import WeblateObjectStats
 from weblate_records import WeblateProjectStats
+from weblate_records import WeblateUserInfo
+from weblate_records import WeblateUserStats
+from weblate_utils import IniConfig
+from wlc import Weblate
+import yaml
 
 WEBLATE_HOST = "https://openstack.weblate.cloud"
 EXAMPLE_HOST = "http://weblate.example.com"
@@ -60,12 +56,10 @@ DEFAULT_STATS = {
 
 
 class WeblateUtility(object):
-    """
-    Utilities to invoke Weblate REST API.
+    """Utilities to invoke Weblate REST API.
 
-    Reference
-        https://docs.weblate.org/en/weblate-4.18.2/api.html#projects
-        https://docs.weblate.org/en/weblate-4.18.2/api.html#get--api-users-(str-username)-statistics-
+    https://docs.weblate.org/en/weblate-4.18.2/api.html#projects
+    https://docs.weblate.org/en/weblate-4.18.2/api.html#get--api-users-(str-username)-statistics-
     """
 
     user_agents = [
@@ -308,8 +302,7 @@ class LanguageTeam(object):
 
         if lang_list:
             lang_notfound = [
-                lang_code for lang_code in lang_list 
-                if lang_code not in content
+                lang_code for lang_code in lang_list if lang_code not in content
             ]
 
             if lang_notfound:
@@ -383,26 +376,19 @@ class User(object):
         for stat, count in self.stats.items():
             if detail:
                 data.append(
-                    [self.user_id, self.lang]
-                    + [count for k in self.trans_fields]
+                    [self.user_id, self.lang] + [count for k in self.trans_fields]
                 )
 
         stat_sum: int = sum([self.stats[k] for k in self.trans_fields])
         if stat_sum > 0:
             data.append(
-                [self.user_id, self.lang]
-                + [self.stats[k] for k in self.trans_fields]
+                [self.user_id, self.lang] + [self.stats[k] for k in self.trans_fields]
             )
 
         return data
 
 
-def write_stats_to_file(
-    users,
-    output_file,
-    include_no_activities,
-    detail
-):
+def write_stats_to_file(users, output_file, include_no_activities, detail):
     before_sort = []
     for user in users:
         if not user.stats.keys():
@@ -458,10 +444,7 @@ def main():
     parser.add_argument(
         "-o",
         "--output-file",
-        help=(
-            "Specify the output file. "
-            "Default: weblate_stats_output.{csv,json}."
-        ),
+        help=("Specify the output file. " "Default: weblate_stats_output.csv."),
     )
     parser.add_argument(
         "-p",
@@ -526,11 +509,7 @@ def main():
         dest="verify",
         help="Do not perform HTTPS certificate verification",
     )
-    parser.add_argument(
-        "--debug", 
-        action="store_true", 
-        help="Enable debug message."
-    )
+    parser.add_argument("--debug", action="store_true", help="Enable debug message.")
     parser.add_argument("user_yaml", help="YAML file of the user list")
     options = parser.parse_args()
 
@@ -591,10 +570,7 @@ def get_weblate_stats(
         project_list = weblateUtil.get_projects()
     users = []
     for team in language_teams:
-        users += [
-            User(user_id, team.language_code) 
-            for user_id in team.translators
-        ]
+        users += [User(user_id, team.language_code) for user_id in team.translators]
 
     data = dict()
     for user in users:

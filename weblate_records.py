@@ -1,5 +1,21 @@
+#!/usr/bin/env python3
+
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#   http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+# implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
 from abc import ABC
-from dataclasses import dataclass, asdict
+from dataclasses import asdict
+from dataclasses import dataclass
 from typing import Optional
 
 
@@ -10,8 +26,7 @@ class AbstractWeblateRecord(ABC):
 
 @dataclass
 class WeblateObjectStats(AbstractWeblateRecord):
-    """
-    Object statistics API response
+    """Object statistics API response
 
     weblate-4.18.2
     GET /api/(str: object)/statistics/
@@ -49,8 +64,7 @@ class WeblateObjectStats(AbstractWeblateRecord):
 
 @dataclass
 class WeblateProject(AbstractWeblateRecord):
-    """
-    Project API response
+    """Project API response
 
     weblate-4.18.2
     GET /api/projects/
@@ -78,8 +92,7 @@ class WeblateProject(AbstractWeblateRecord):
 
 @dataclass
 class WeblateProjectStats(AbstractWeblateRecord):
-    """
-    Project statistics API response
+    """Project statistics API response
 
     weblate-4.18.2
     GET /api/(str: project)/statistics/
@@ -118,8 +131,7 @@ class WeblateProjectStats(AbstractWeblateRecord):
 
 @dataclass
 class WeblateUserStats(AbstractWeblateRecord):
-    """
-    User statistics API response
+    """User statistics API response
 
     weblate-4.18.2
     GET /api/users/(str: username)/statistics/
@@ -138,8 +150,7 @@ class WeblateUserStats(AbstractWeblateRecord):
 
 @dataclass
 class WeblateUserInfo(AbstractWeblateRecord):
-    """
-    User information API response
+    """User information API response
 
     weblate-4.18.2
     GET /api/users/(str: username)/
@@ -152,8 +163,8 @@ class WeblateUserInfo(AbstractWeblateRecord):
     is_active: bool
     is_bot: bool
     date_joined: str
-    groups: list  # http://example.com/api/groups/2/
-    url: Optional[str] = None  # http://example.com/api/users/exampleusername/
+    groups: list
+    url: Optional[str] = None
     statistics_url: Optional[str] = None
 
     @classmethod
@@ -163,8 +174,7 @@ class WeblateUserInfo(AbstractWeblateRecord):
 
 @dataclass
 class WeblateGroupInfo(AbstractWeblateRecord):
-    """
-    Group information API response
+    """Group information API response
 
     weblate-4.18.2
     GET /api/groups/(int: id)/
@@ -174,7 +184,7 @@ class WeblateGroupInfo(AbstractWeblateRecord):
     project_selection: int
     language_selection: int
     roles: list
-    projects: list  # http://example.com/api/projects/demo1/
+    projects: list
     components: list
     componentlists: list
     defining_project: Optional[str]
@@ -187,8 +197,7 @@ class WeblateGroupInfo(AbstractWeblateRecord):
 
 @dataclass
 class WeblateComponentInfo(AbstractWeblateRecord):
-    """
-    Component API response
+    """Component API response
 
     weblate-4.18.2
     GET /api/components/(string: project)/(string: component)/
@@ -251,8 +260,7 @@ class WeblateComponentInfo(AbstractWeblateRecord):
 
 @dataclass
 class WeblateTranslationInfo(AbstractWeblateRecord):
-    """
-    Translation API response
+    """Translation API response
 
     weblate-4.18.2
     GET /api/translations/(string: project)/(string: component)/(string: lang)/
@@ -293,8 +301,7 @@ class WeblateTranslationInfo(AbstractWeblateRecord):
 
 @dataclass
 class WeblateChangeInfo(AbstractWeblateRecord):
-    """
-    Change API response
+    """Change API response
 
     weblate-4.18.2
     GET /api/changes/(int: id)/
