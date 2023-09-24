@@ -14,14 +14,12 @@
 # limitations under the License.
 
 import argparse
-import os
-import sys
 from collections import OrderedDict
 import json
 import logging
-import random
+import os
+import sys
 
-import requests
 from WeblateUtils import IniConfig
 from WeblateUtils import WeblateRestService
 import yaml
@@ -36,34 +34,25 @@ YAML_COMMENT = """\
 class WeblateUtility(object):
     """Utilities to collect Weblate language contributors"""
 
-    user_agents = [
-        "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) Gecko/20100101 Firefox/32.0",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_6) AppleWebKit/537.78.2",
-        "Mozilla/5.0 (Windows NT 6.3; WOW64) Gecko/20100101 Firefox/32.0",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X) Chrome/37.0.2062.120",
-        "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko",
-    ]
-
     def __init__(self, wconfig):
         accept = 'application/json'
         content_type = 'application/json'
         self.rest_service = WeblateRestService(wconfig, accept=accept,
                                                content_type=content_type)
 
-    def read_uri(self, uri, headers):
+    def read_uri(self, uri):
         try:
-            headers["User-Agent"] = random.choice(WeblateUtility.user_agents)
-            # req = requests.get(uri, headers=headers)
             req = self.rest_service.query(uri)
             return req.text
         except Exception as e:
             LOG.error(
-                'Error "%(error)s" while reading uri %(uri)s', {"error": e, "uri": uri}
+                'Error "%(error)s" while reading uri %(uri)s',
+                {"error": e, "uri": uri}
             )
             raise
 
     def read_json_from_uri(self, uri):
-        data = self.read_uri(uri, {"Accept": "application/json"})
+        data = self.read_uri(uri)
         try:
             return json.loads(data)
         except Exception as e:
