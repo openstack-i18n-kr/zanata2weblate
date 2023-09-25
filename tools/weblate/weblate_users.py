@@ -20,8 +20,8 @@ import logging
 import os
 import sys
 
-from WeblateUtils import IniConfig
-from WeblateUtils import WeblateRestService
+from weblate_utils import IniConfig
+from weblate_utils import WeblateRestService
 import yaml
 
 WEBLATE_URI = "https://openstack.weblate.cloud/api/%s"
