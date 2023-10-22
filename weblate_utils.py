@@ -19,13 +19,13 @@ from wlc import config as cfg
 
 
 class IniConfig(object):
-    """Object that stores weblate.ini configuration
+    """Object that stores weblate.ini configuration.
+
     Read url and key from weblate.ini and make its values available.
     Attributes:
     inifile: The path to the ini file to load values from.
     url: The URL of the Weblate server.
     key: The API key to use for authentication.
-
     """
 
     def __init__(self, inifile):
@@ -40,6 +40,7 @@ class IniConfig(object):
 
 class WeblateRestService(object):
     """Object that communicates with the Weblate REST API.
+
     Attributes:
     url: The URL of the Weblate server.
     key: The API key to use for authentication.
@@ -69,13 +70,21 @@ class WeblateRestService(object):
     def query(self, url_fragment, raise_errors=True):
         request_url = self._construct_url(url_fragment)
         try:
-            r = requests.get(request_url, verify=self.verify, headers=self.headers)
+            r = requests.get(
+                request_url,
+                verify=self.verify,
+                headers=self.headers
+                )
         except requests.exceptions.ConnectionError:
             raise ValueError("Connection Error")
         if raise_errors and r.status_code != 200:
-            raise ValueError("Got status code %s for %s" % (r.status_code, request_url))
+            raise ValueError(
+                "Got status code %s for %s" % (r.status_code, request_url)
+                )
         if raise_errors and not r.content:
-            raise ValueError("Did not receive any data from %s" % request_url)
+            raise ValueError(
+                "Did not receive any data from %s" % request_url
+                )
         return r
 
     def push(self, url_fragment, data):
