@@ -23,7 +23,8 @@ class IniConfig(object):
     Read url and key from weblate.ini and make its values available.
     Attributes:
     inifile: The path to the ini file to load values from.
-
+    url: The URL of the Weblate server.
+    key: The API key to use for authentication.
 
     """
 
